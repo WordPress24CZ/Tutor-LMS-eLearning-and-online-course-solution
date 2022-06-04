@@ -1,0 +1,6273 @@
+# Translation of Plugins - Tutor LMS &#8211; eLearning and online course solution - Stable (latest release) in Czech
+# This file is distributed under the same license as the Plugins - Tutor LMS &#8211; eLearning and online course solution - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-06-04 08:36+0100\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n >= 2 && n <= 4) ? 1 : 2);\n"
+"X-Generator: Poedit 1.7.5\n"
+"Language: cs_CZ\n"
+"Project-Id-Version: Plugins - Tutor LMS &#8211; eLearning and online course solution - Stable (latest release)\n"
+"POT-Creation-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+#: classes/Options_V2.php:440
+msgid "Terms and Conditions Page"
+msgstr "Stránka Podmínky a ujednání"
+
+#: classes/Options_V2.php:443
+msgid "This page will be used as the Terms and Conditions page"
+msgstr "Tato stránka bude použita jako stránka Smluvní podmínky"
+
+#: classes/Options_V2.php:619
+msgid "Default Quiz Attempt limit (when Retry Mode is enabled)"
+msgstr "Výchozí limit pro pokus o kvíz (pokud je povolen režim opakování)"
+
+#: classes/Options_V2.php:621
+msgid "The highest number of attempts allowed for students to participate a quiz. 0 means unlimited. This will work as the default Quiz Attempt limit in case of Quiz Retry Mode."
+msgstr "Nejvyšší počet pokusů povolený pro studenty k účasti na kvízu. 0 znamená neomezený. Toto bude fungovat jako výchozí limit pro pokus o kvíz v případě režimu opakování kvízu."
+
+#: classes/Options_V2.php:692
+msgid "Automatically Complete WooCommerce Orders"
+msgstr "Automaticky dokončit objednávky WooCommerce"
+
+#: classes/Options_V2.php:695
+msgid "If enabled, in the case of Courses, WooCommerce Orders will get the \"Completed\" status ."
+msgstr "Pokud je povoleno, v případě kurzů získají objednávky WooCommerce status \"Dokončeno\"."
+
+#: classes/Options_V2.php:1416
+msgid "Hide Admin Bar and Restrict Access to WP Admin for Instructors"
+msgstr "Skrýt administrátorský panel a omezit přístup k WP administrátorovi pro instruktory"
+
+#: classes/Options_V2.php:1419
+msgid "Enable this to hide the WordPress Admin Bar from Frontend site, and restrict access to the WP Admin panel."
+msgstr "Povolte tuto možnost pro skrytí lišty WordPress Admin z webu Frontend a omezení přístupu k panelu WP Admin."
+
+#: templates/dashboard/create-course.php:180
+msgid "Course Slug"
+msgstr "Štítek kurzu"
+
+#: templates/dashboard/create-course.php:185
+msgid "Please enter the course page slug here"
+msgstr "Zde zadejte slug stránky kurzu"
+
+#: templates/dashboard/create-course.php:187
+msgid "Permalink: "
+msgstr "Trvalý odkaz:"
+
+#: templates/dashboard/instructor/registration.php:137
+#: templates/dashboard/registration.php:135
+msgid "By signing up, I agree with the website's"
+msgstr "Registrací souhlasím s webovými stránkami"
+
+#: templates/dashboard/instructor/registration.php:137
+#: templates/dashboard/registration.php:135
+msgid "Terms and Conditions"
+msgstr "Podmínky"
+
+#: templates/single/course/course-topics.php:28
+#: templates/single/lesson/lesson_sidebar.php:46
+msgid "Course Content"
+msgstr "Obsah kurzu"
+
+#: templates/single/course/instructors.php:23
+msgid "A course by"
+msgstr "Kurz od"
+
+#: templates/single/lesson/comment.php:32
+#: templates/single/lesson/comment.php:104
+msgid "Write your comment here…"
+msgstr "Sem napište svůj komentář..."
+
+#: views/metabox/lesson-attachments-metabox.php:12
+msgid "Upload exercise files to the Lesson"
+msgstr "Nahrát cvičební soubory do lekce"
+
+#: views/qna/qna-new.php:6
+msgid "Do you have any question?"
+msgstr "Máte na nás dotaz?"
+
+#: classes/Options_V2.php:525
+msgid "Content Summary"
+msgstr "Shrnutí obsahu"
+
+#: classes/Options_V2.php:527
+msgid "Enabling this feature will show a course content summary on the Course Details page."
+msgstr "Povolením této funkce se na stránce Podrobnosti kurzu zobrazí shrnutí obsahu kurzu."
+
+#: views/modal/edit_quiz.php:136
+msgid "Reattempt quiz any number of times. Define Attempts Allowed below."
+msgstr "Opakovaný pokus kvíz libovolný početkrát. Definovat pokusy povolené níže."
+
+#: classes/Addons.php:47
+msgid "Enrolment"
+msgstr "Zápis"
+
+#: classes/Dashboard.php:105
+msgid "You are not allowed to publish course"
+msgstr "Nemáte oprávnění publikovat kurz"
+
+#: classes/Options_V2.php:465
+msgid "Set the number of rows to be displayed per page"
+msgstr "Nastavte počet řádků, které se mají zobrazit na stránku"
+
+#: classes/Options_V2.php:856
+msgid "Set the number of courses to display per page on the Course List page."
+msgstr "Nastavte počet kurzů, které se mají zobrazit na stránce seznamu kurzů."
+
+#: classes/Utils.php:7695
+msgid "Set Your Profile Photo"
+msgstr "Vaše profilová fotka"
+
+#: classes/Utils.php:7696
+msgid "Set Your Bio"
+msgstr "Nastav si životopis"
+
+#: classes/Utils.php:7701
+msgid "Set Withdraw Method"
+msgstr "Nastavit metodu výběru"
+
+#: templates/login-form.php:65
+msgid "Register Now"
+msgstr "Zaregistrujte se"
+
+#: templates/permission-denied.php:35
+msgid "You don't have permission to access this page"
+msgstr "Nemáte dostatečná práva k přístupu na tuto stránku"
+
+#: templates/dashboard/reviews/given-reviews.php:137
+msgid "Do You Want to Delete This Review?"
+msgstr "Chcete smazat tuto recenzi?"
+
+#: templates/instructor/cover.php:15
+msgid "Instructor Cover Photo"
+msgstr "Titulní fotka instruktora"
+
+#: templates/modal/alert.php:35
+msgid "Ok"
+msgstr "Ok"
+
+#: templates/single/course/lead-info.php:63
+msgid "Categories:"
+msgstr "Kategorie:"
+
+#: templates/single/lesson/complete_form.php:29
+msgid "Mark as Complete"
+msgstr "Označit jako dokončené"
+
+#: templates/single/quiz/top.php:123
+msgid "Do You Want to Skip This Quiz?"
+msgstr "Chcete tento kvíz přeskočit?"
+
+#: views/elements/common-confirm-popup.php:23
+msgid "Do You Want to Delete This?"
+msgstr "Chcete tuto položku odstranit?"
+
+#: views/elements/common-confirm-popup.php:24
+msgid "Are you sure you want to delete this permanently from the site? Please confirm your choice."
+msgstr "Jste si jisti, že to chcete ze stránek trvale odstranit? Potvrďte prosím svou volbu."
+
+#: views/metabox/course-additional-data.php:10
+msgid "Invalid post type"
+msgstr "Neplatný typ příspěvku."
+
+#: classes/Options_V2.php:510 views/options/field-types/checkbox.php:4
+msgid "Logged Only"
+msgstr "Pouze přihlášení"
+
+#: views/options/field-types/upload_half.php:23
+msgid "jpg, .jpeg, .png"
+msgstr "jpg, .jpeg, .png"
+
+#: views/options/field-types/upload_half.php:25
+msgid "Image size ratio: 4:1"
+msgstr "Poměr velikosti obrázku: 4:1"
+
+#: views/pages/uninstall.php:14
+msgid "Deactivate"
+msgstr "Deaktivovat"
+
+#: views/qna/qna-single.php:144
+msgid "Do You Want to Delete This Question?"
+msgstr "Chcete odstranit tuto otázku?"
+
+#: classes/Ajax.php:545
+msgid "Something Went Wrong!"
+msgstr "Něco se nepovedlo!"
+
+#: classes/Options_V2.php:1284
+msgid "Gray"
+msgstr "Šedý"
+
+#: classes/Options_V2.php:1286
+msgid "Choose a color for elements like table, card etc"
+msgstr "Zvolte barvu pro prvky, jako je stůl, karta atd."
+
+#: classes/Utils.php:8900
+msgctxt "true/false question options"
+msgid "True"
+msgstr "Správně"
+
+#: classes/Utils.php:8903
+msgctxt "true/false question options"
+msgid "False"
+msgstr "Špatně"
+
+#: templates/dashboard/assignments/review.php:135
+msgid "Evaluate mark can not be greater than total mark"
+msgstr "Hodnotící známka nemůže být větší než celková známka"
+
+#: templates/dashboard/dashboard.php:52
+msgid "Please complete profile"
+msgstr "Vyplňte prosím profil"
+
+#: templates/dashboard/dashboard.php:54
+msgid "You are almost done"
+msgstr "Už jste téměř hotovi"
+
+#: templates/dashboard/dashboard.php:56
+msgid "Thanks for completing your profile"
+msgstr "Děkujeme za vyplnění profilu"
+
+#: classes/Tutor_Setup.php:389
+msgid "Allow users to have a instructor profile to showcase awards and completed courses."
+msgstr "Umožnit uživatelům mít profil instruktora pro předvedení ocenění a dokončených kurzů."
+
+#: templates/dashboard/assignments.php:34
+#: views/metabox/course-contents.php:116 views/metabox/course-topics.php:119
+msgid "Assignment"
+msgstr "Úkol"
+
+#: templates/single/course/course-benefits.php:28
+msgid "What Will You Learn?"
+msgstr "Co se naučíte?"
+
+#: templates/single/lesson/sidebar_question_and_answer.php:50
+msgid "Describe what you're trying to achieve and where you're getting stuck"
+msgstr "Popiš, čeho se snažíš dosáhnout a kde se zasekáváš"
+
+#: views/fragments/thumbnail-uploader.php:25
+#: views/fragments/thumbnail-uploader.php:27
+msgid "Size: <span class=\"tutor-fs-7 tutor-fw-medium\">%s</span>"
+msgstr "Velikost: <span class=\"tutor-fs-7 tutor-fw-medium\">%s</span>"
+
+#: views/fragments/thumbnail-uploader.php:33
+#: views/fragments/thumbnail-uploader.php:35
+msgid "File Support: <span class=\"tutor-fs-7 tutor-fw-medium\">%s</span>"
+msgstr "Podpora souboru: <span class=\"tutor-fs-7 tutor-fw-medium\">%s</span>"
+
+#: views/options/template/tutor_pages.php:12
+msgid "All Pages"
+msgstr "Všechny stránky"
+
+#: views/pages/instructors.php:396 views/pages/instructors.php:407
+msgid "Approve the Instructor"
+msgstr "Schválit instruktora"
+
+#: views/pages/instructors.php:399 views/pages/instructors.php:403
+msgid "Reject the Application"
+msgstr "Zamítnout žádost"
+
+#: views/pages/instructors.php:415
+msgid "Attempted invalid action"
+msgstr "Pokus o neplatnou akci"
+
+#: views/pages/instructors.php:426
+msgid "Invalid instructor"
+msgstr "Neplatný instruktor"
+
+#: views/pages/tutor-pro-addons.php:21
+msgid "Get All of Our Addons for a Single Price"
+msgstr "Získejte všechny naše doplňky za jednu cenu"
+
+#: views/pages/tutor-pro-addons.php:24
+msgid "Enjoy all popular add-ons under a single price"
+msgstr "Užij si všechny oblíbené doplňky za jedinou cenu"
+
+#: views/pages/tutor-pro-addons.php:29
+msgid "Easy enable options for the features you need"
+msgstr "Snadné povolení funkcí, které potřebujete"
+
+#: views/pages/tutor-pro-addons.php:34
+msgid "Advanced customization options for each add-on"
+msgstr "Pokročilé možnosti přizpůsobení pro každý doplněk"
+
+#: views/pages/tutor-pro-addons.php:39
+msgid "Buy Pro"
+msgstr "Koupit Pro"
+
+#: views/pages/tutor-pro-addons.php:52
+msgid "Search…"
+msgstr "Hledat..."
+
+#: views/pages/withdraw_requests.php:80
+msgid "Request Date"
+msgstr "Datum požadavku"
+
+#: views/pages/withdraw_requests.php:90
+msgid "Withdraw Details"
+msgstr "Podrobnosti o výběru"
+
+#: views/pages/withdraw_requests.php:154
+msgid "Name:"
+msgstr "Název:"
+
+#: views/pages/withdraw_requests.php:162
+msgid "A/C Number:"
+msgstr "Číslo A/C:"
+
+#: views/pages/withdraw_requests.php:174 views/pages/withdraw_requests.php:201
+msgid "Copy"
+msgstr "Kopíruji"
+
+#: views/pages/withdraw_requests.php:181
+msgid "Bank Name:"
+msgstr "Název banky:"
+
+#: views/pages/withdraw_requests.php:189
+msgid "IBAN:"
+msgstr "IBAN:"
+
+#: views/pages/withdraw_requests.php:208
+msgid "BIC/SWIFT:"
+msgstr "BIC/SWIFT"
+
+#: views/pages/withdraw_requests.php:295
+msgid "No request found"
+msgstr "Nebyl nalezen žádný požadavek"
+
+#: views/pages/withdraw_requests.php:354
+msgid "Approve Withdrawal?"
+msgstr "Vybrat"
+
+#: views/pages/withdraw_requests.php:362
+msgid "Yes, Approve Withdrawal"
+msgstr "Ano, schválit výběr"
+
+#: views/pages/withdraw_requests.php:402 views/pages/withdraw_requests.php:403
+msgid "Invalid Payment Details"
+msgstr "Neplatné platební údaje"
+
+#: views/pages/withdraw_requests.php:405 views/pages/withdraw_requests.php:406
+msgid "Invalid Request"
+msgstr "Neplatný požadavek"
+
+#: views/pages/withdraw_requests.php:408 views/pages/withdraw_requests.php:409
+msgid "Other"
+msgstr "Jiný zdroj"
+
+#: views/pages/withdraw_requests.php:420
+msgid "Yes, Reject Withdrawal"
+msgstr "Ano, odmítnout výběr"
+
+#: views/qna/contexts.php:10
+msgid "Waiting Since"
+msgstr "Čekání od"
+
+#: views/qna/qna-new.php:30
+msgid "Ask Question"
+msgstr "Položit dotaz"
+
+#: views/qna/qna-single.php:145 views/qna/qna-table.php:154
+msgid "All the replies also will be deleted."
+msgstr "Všechny odpovědi budou také smazány."
+
+#: views/qna/qna-single.php:48 views/qna/qna-table.php:98
+msgid "Solved"
+msgstr "Vyřešeno"
+
+#: views/qna/qna-single.php:53
+msgid "Important"
+msgstr "Důležité"
+
+#: views/qna/qna-single.php:56 views/qna/qna-single.php:58
+msgid "Un-Archive"
+msgstr "Vrátit archivaci"
+
+#: views/qna/qna-single.php:127
+msgid "Write here..."
+msgstr "Začněte zde..."
+
+#: views/qna/qna-table.php:55
+msgid "This conversation is important"
+msgstr "Tento rozhovor je důležitý"
+
+#: views/qna/qna-table.php:55
+msgid "Mark this conversation as important"
+msgstr "Označit tuto konverzaci jako důležitou"
+
+#: views/qna/qna-table.php:98
+msgid "Unresolved Yet"
+msgstr "Zatím nevyřešeno"
+
+#: views/qna/qna-table.php:114
+msgid "Archvie"
+msgstr "Archvív"
+
+#: views/qna/qna-table.php:114 views/qna/qna-table.php:117
+msgid "Un-archive"
+msgstr "Vrátit archivaci"
+
+#: views/qna/qna-table.php:123
+msgid "Mark as Read"
+msgstr "Označit za přečtené"
+
+#: views/qna/qna-table.php:123 views/qna/qna-table.php:126
+msgid "Mark as Unread"
+msgstr "Označit za nepřečtené"
+
+#: views/qna/qna-table.php:126
+msgid "Mark as read"
+msgstr "Označit jako přečtené"
+
+#: views/quiz/attempt-details.php:12
+msgid "Attempt not found or access permission denied"
+msgstr "Pokus nebyl nalezen nebo oprávnění k přístupu bylo zamítnuto"
+
+#: views/quiz/header-context/course-single-previous-attempts.php:40
+msgid "Passing Marks"
+msgstr "Značky průchodu"
+
+#: templates/single/quiz/top.php:67
+msgid "Day"
+msgstr "Den"
+
+#: templates/single/quiz/top.php:68
+msgid "Week"
+msgstr "Týden"
+
+#: templates/single/quiz/top.php:82
+msgid "Total Attempted"
+msgstr "Celkový počet pokusů"
+
+#: templates/single/quiz/top.php:116
+msgid "Skip Quiz"
+msgstr "Přeskočit kvíz"
+
+#: templates/single/quiz/top.php:124
+msgid "Are you sure you want to skip this quiz? Please confirm your choice."
+msgstr "Opravdu chcete tento kvíz přeskočit? Potvrďte prosím svou volbu."
+
+#: templates/single/quiz/top.php:126
+msgid "Yes, Skip This"
+msgstr "Ano, přeskočit toto"
+
+#: views/course-share.php:26
+msgid "Share Course"
+msgstr "Sdílet kurz"
+
+#: views/course-share.php:29
+msgid "Page Link"
+msgstr "Page Link"
+
+#: views/course-share.php:36
+msgid "Share On Social Media"
+msgstr "Sdílejte na sociálních sítí"
+
+#: views/elements/bulk-confirm-popup.php:12
+msgid "Are you sure you would like perform this action? We suggest you proceed with caution."
+msgstr "Jste si jisti, že chcete provést tuto akci? Doporučujeme postupovat opatrně."
+
+#: views/elements/bulk-confirm-popup.php:23
+#: views/elements/common-confirm-popup.php:35
+msgid "Yes, I'am Sure"
+msgstr "Ano, jistě."
+
+#: views/elements/filters.php:47
+msgid "Reset"
+msgstr "Resetovat"
+
+#: views/elements/filters.php:86
+msgid "All Category"
+msgstr "Žádné kategorie"
+
+#: views/elements/filters.php:94
+msgid "No record found"
+msgstr "Žádný záznam nenalezen."
+
+#: views/fragments/announcement-list.php:111
+msgid "Published Date"
+msgstr "Datum publikace"
+
+#: views/fragments/announcement-list.php:160
+msgid "Delete This Announcement?"
+msgstr "Smazat toto oznámení?"
+
+#: views/fragments/announcement-list.php:161
+msgid "Are you sure you want to delete this Announcement permanently from the site? Please confirm your choice."
+msgstr "Opravdu chcete toto oznámení ze stránek trvale odstranit? Potvrďte prosím svou volbu."
+
+#: views/qna/contexts.php:12
+msgid "Action"
+msgstr "Akce"
+
+#: views/fragments/announcement-list.php:285
+msgid "Edit Announcement"
+msgstr "Upravit oznámení"
+
+#: views/options/field-types/upload_half.php:22
+msgid "File Support"
+msgstr "Podpora souborů:"
+
+#: views/metabox/course-add-product-metabox.php:15
+msgid "Sell your product, process by WooCommerce"
+msgstr "Prodejte svůj produkt, zpracujte pomocí WooCommerce"
+
+#: views/metabox/course-additional-data.php:29
+msgid "Write here the course benefits (One per line)"
+msgstr "Zde napište výhody kurzu (jeden na řádek)"
+
+#: views/metabox/course-contents.php:38
+msgid "Un-assigned Topic Contents"
+msgstr "Nepřiřazený obsah tématu"
+
+#: views/metabox/course-topics.php:74
+msgid "Save & Next"
+msgstr "Uložit & další"
+
+#: views/metabox/course-topics.php:77
+msgid "Add to Questions"
+msgstr "Přidat k otázkám"
+
+#: views/metabox/course-topics.php:133
+msgid "Update Assignment"
+msgstr "Aktualizovat úkol"
+
+#: views/metabox/video-metabox.php:26
+msgid "No video source selected from settings!"
+msgstr "Z nastavení nebyl vybrán žádný zdroj videa!"
+
+#: views/metabox/video-metabox.php:81
+msgid "Drag & Drop Your Video"
+msgstr "Přetáhněte své video"
+
+#: views/metabox/video-metabox.php:83
+msgid "or"
+msgstr "nebo"
+
+#: views/metabox/video-metabox.php:87
+#: views/options/template/import_export.php:46
+msgid "Browse File"
+msgstr "Procházet soubor"
+
+#: views/metabox/video-metabox.php:102
+msgid "Upload Video Poster"
+msgstr "Nahrát video plakát"
+
+#: views/metabox/video-metabox.php:113
+msgid "Paste External Video URL"
+msgstr "Vložit externí adresu URL videa"
+
+#: views/metabox/video-metabox.php:117
+msgid "Paste Shortcode"
+msgstr "Vložení kódu"
+
+#: views/metabox/video-metabox.php:121
+msgid "Paste YouTube Video URL"
+msgstr "Vložit adresu URL videa YouTube"
+
+#: views/metabox/video-metabox.php:125
+msgid "Paste Vimeo Video URL"
+msgstr "Vložit adresu URL videa Vimeo"
+
+#: views/modal/edit-lesson.php:10
+msgid "Lesson Name"
+msgstr "Název lekce"
+
+#: views/modal/edit-lesson.php:14
+msgid "Lesson titles are displayed publicly wherever required."
+msgstr "Názvy lekcí se zobrazují veřejně všude tam, kde je to vyžadováno."
+
+#: views/modal/edit-lesson.php:21
+msgid "Lesson Content"
+msgstr "Obsah lekce"
+
+#: views/modal/edit-lesson.php:26
+msgid "WP Editor"
+msgstr "Použít WP editor"
+
+#: views/modal/edit_quiz.php:4
+msgid "Quiz Title"
+msgstr "Skrýt nadpis testu"
+
+#: views/modal/edit_quiz.php:191
+msgid "Advance Settings"
+msgstr "Pokročilá nastavení"
+
+#: templates/login.php:34 views/modal/login.php:15
+msgid "Hi, Welcome back!"
+msgstr "Ahoj, vítej zpátky!"
+
+#: templates/login-form.php:41
+msgid "Keep me signed in"
+msgstr "Zapamatovat si přihlášení"
+
+#: templates/login-form.php:45
+msgid "Forgot?"
+msgstr "Zapomněli jste?"
+
+#: templates/login-form.php:51
+msgid "Sign In"
+msgstr "Přihlásit se"
+
+#: templates/login-form.php:63
+msgid "Don't have an account?"
+msgstr "Nemáte účet?"
+
+#: views/modal/question_form.php:24
+msgid "Select your question type"
+msgstr "Vyberte typ vašeho dotazu"
+
+#: views/modal/topic-form.php:32
+msgid "Add a summary of short text to prepare students for the activities for the topic. The text is shown on the course page beside the tooltip beside the topic name."
+msgstr "Přidejte shrnutí krátkého textu pro přípravu studentů na aktivity pro dané téma. Text je zobrazen na stránce kurzu vedle popisku vedle názvu tématu."
+
+#: views/options/settings.php:20
+msgid "Search ...⌃⌥ + S or Alt+S for shortcut"
+msgstr "Hledat ...⌃⌥ + S or Alt+S  pro zkratku"
+
+#: views/options/settings.php:27
+msgid "Save Changes"
+msgstr "Uložit změny"
+
+#: views/options/template/import_export.php:7
+msgid "Warning: Importing, Restoring, or Resetting will overwrite ALL existing settings. Please proceed with caution."
+msgstr "Upozornění: Importem, obnovením nebo resetováním přepíšete VŠECHNA stávající nastavení. Prosím, postupujte opatrně."
+
+#: views/options/template/import_export.php:14
+msgid "Export"
+msgstr "Export"
+
+#: views/options/template/import_export.php:20
+msgid "Current Settings"
+msgstr "Aktuální nastavení:"
+
+#: views/options/template/import_export.php:26
+msgid "Export Settings"
+msgstr "Export nastavení"
+
+#: views/options/template/import_export.php:34
+msgid "Import Settings"
+msgstr "Importovat nastavení"
+
+#: views/options/template/import_export.php:42
+msgid "Drag &amp; Drop your JSON File here"
+msgstr "Přetáhněte soubor JSON sem"
+
+#: views/options/template/import_export.php:43
+msgid "File Format"
+msgstr "Formát souboru"
+
+#: views/options/template/import_export.php:43
+msgid "Or"
+msgstr "Nebo"
+
+#: views/options/template/import_export.php:52
+msgid "Yes, Import Settings"
+msgstr "Importovat nastavení"
+
+#: views/options/template/import_export.php:52
+msgid "Import from Previous Settings?"
+msgstr "Importovat z předchozích nastavení?"
+
+#: views/options/template/import_export.php:52
+#: views/options/template/import_export.php:81
+msgid "WARNING! This will overwrite all existing settings, please proceed with caution."
+msgstr "Varování! Tímto přepíšete všechna stávající nastavení, postupujte prosím opatrně."
+
+#: views/options/template/import_export.php:52
+msgid "Update Settings"
+msgstr "Aktualizovat nastavení"
+
+#: views/options/template/import_export.php:60
+msgid "Settings History"
+msgstr "Historie nastavení"
+
+#: views/options/template/import_export.php:81
+msgid "Yes, Restore Settings"
+msgstr "Obnovit nastavení"
+
+#: views/options/template/import_export.php:81
+msgid "Restore Previous Settings?"
+msgstr "Obnovit předchozí nastavení?"
+
+#: views/options/template/import_export.php:90
+msgid "Download"
+msgstr "Stáhnout"
+
+#: views/options/template/import_export.php:94
+msgid "Yes, Delete Settings"
+msgstr "Smazat nastavení"
+
+#: views/options/template/import_export.php:94
+msgid "Delete This Settings?"
+msgstr "Smazat nastavení"
+
+#: views/options/template/import_export.php:94
+msgid "WARNING! This will remove the settings history data from your system, please proceed with caution."
+msgstr "Varování! Tímto odstraníte data historie nastavení ze systému, postupujte prosím opatrně."
+
+#: views/options/template/import_export.php:107
+msgid "No settings data found."
+msgstr "Nebyla nalezena žádná data nastavení."
+
+#: views/options/template/import_export.php:116
+msgid "Reset Settings"
+msgstr "Obnovit Nastavení"
+
+#: views/options/template/import_export.php:121
+msgid "Reset Everything to Default"
+msgstr "Obnovit vše do výchozího nastavení"
+
+#: views/options/template/import_export.php:123
+msgid "It will revert all settings to initial setup."
+msgstr "Vrátí všechna nastavení do počátečního nastavení."
+
+#: views/options/template/import_export.php:127
+msgid "Yes, Reset Settings"
+msgstr "Resetovat nastavení"
+
+#: views/options/template/import_export.php:127
+msgid "Reset All Settings?"
+msgstr "Obnovit všechna nastavení?"
+
+#: views/options/template/import_export.php:127
+msgid "WARNING! This will reset all settings to default, please proceed with caution."
+msgstr "Varování! Tímto obnovíte všechna nastavení na výchozí, postupujte prosím opatrně."
+
+#: views/options/template/import_export.php:127
+msgid "Reset All Settings"
+msgstr "Obnovit všechna nastavení"
+
+#: views/pages/course-list.php:220
+msgid "Topic:"
+msgstr "Téma:"
+
+#: views/pages/course-list.php:227
+msgid "Lesson:"
+msgstr "Lekce:"
+
+#: views/pages/course-list.php:304
+msgid "Update course status"
+msgstr "Aktualizovat stav kurzu"
+
+#: views/pages/instructors.php:239 views/pages/instructors.php:247
+msgid "Only alphanumeric & space are allowed"
+msgstr "Povoleny jsou pouze alfanumerické & mezera"
+
+#: views/pages/instructors.php:257
+msgid "Only alphanumeric and underscore are allowed"
+msgstr "Povoleny jsou pouze alfanumerické a podtržítkové"
+
+#: views/pages/instructors.php:265
+msgid "Only number is allowed"
+msgstr "Zde je povoleno pouze číslo"
+
+#: views/pages/instructors.php:293
+msgid "Retype Password"
+msgstr "Znovu napište heslo"
+
+#: views/pages/instructors.php:309
+msgid "(Optional)"
+msgstr "(Volitelně)"
+
+#: views/pages/instructors.php:313
+msgid "Write Your Bio..."
+msgstr "Napište svůj životopis..."
+
+#: views/pages/instructors.php:326
+msgid "Add Instructor"
+msgstr "Přidat instruktora"
+
+#: views/pages/instructors.php:356
+msgid "A New Instructor Just Signed Up"
+msgstr "Nový instruktor se právě zaregistroval"
+
+#: views/pages/instructors.php:359
+msgid "You can either accept or reject the application. The applicant will be notified via email either way."
+msgstr "Přihlášku můžete buď přijmout, nebo zamítnout. Žadatel bude informován e-mailem tak jako tak."
+
+#: views/pages/instructors.php:378
+msgid "Username:"
+msgstr "Uživatelské jméno:"
+
+#: views/pages/instructors.php:385
+msgid "Email:"
+msgstr "E-mail:"
+
+#: templates/shortcode/instructor-filter.php:40
+msgid "Filters"
+msgstr "Filtry"
+
+#: templates/shortcode/instructor-filter.php:46
+msgid "Clear"
+msgstr "Vymazat"
+
+#: templates/shortcode/instructor-filter.php:73
+#: templates/single/assignment/content.php:344
+#: templates/single/assignment/content.php:551
+#: templates/single/course/course-content.php:44
+#: views/options/template/color_picker.php:101
+msgid "Show More"
+msgstr "Zobrazit více"
+
+#: templates/shortcode/instructor-filter.php:109
+msgid "Short by"
+msgstr "Krátce"
+
+#: templates/single/common/header.php:28
+msgid "Your Progress:"
+msgstr "Váš pokrok"
+
+#: templates/single/common/header.php:33
+msgid "of "
+msgstr "z"
+
+#: templates/single/assignment/content.php:114
+msgid "Deadline:"
+msgstr "Termín:"
+
+#: templates/single/assignment/content.php:124
+msgid "N\\A"
+msgstr "N/A"
+
+#: templates/single/assignment/content.php:136
+msgid "Passing Mark:"
+msgstr "Značka průchodu:"
+
+#: templates/single/assignment/content.php:200
+msgid "Size: "
+msgstr "Velikost:"
+
+#: templates/single/assignment/content.php:227
+msgid "Assignment Submission"
+msgstr "Odeslání úkolu"
+
+#: templates/single/assignment/content.php:264
+msgid "Choose file"
+msgstr "Vybrat soubor"
+
+#: templates/single/assignment/content.php:273
+msgid "File Support: "
+msgstr "Podpora souborů:"
+
+#: templates/single/assignment/content.php:275
+msgid "Any standard Image, Document, Presentation, Sheet, PDF or Text file is allowed"
+msgstr "Jakýkoli standardní obrázek, dokument, prezentace, list, PDF nebo textový soubor je povolen"
+
+#: templates/single/assignment/content.php:279
+msgid "Total File Size: Max"
+msgstr "Celková velikost souboru:"
+
+#: templates/single/assignment/content.php:282
+msgid "MB"
+msgstr "MB"
+
+#: templates/single/assignment/content.php:352
+#: templates/single/assignment/content.php:579
+msgid "Skip To Next"
+msgstr "Přeskočit na další"
+
+#: templates/single/assignment/content.php:479
+msgid "Your Assignment"
+msgstr "Váš úkol"
+
+#: templates/single/assignment/content.php:561
+msgid "Continue Lesson"
+msgstr "Pokračovat v lekci"
+
+#: templates/single/course/course-entry-box.php:32
+#: templates/single/course/course-entry-box.php:33
+msgid "Last Updated"
+msgstr "Poslední aktualizace"
+
+#: templates/single/course/course-entry-box.php:68
+msgid "Course Progress"
+msgstr "Pokrok v kurzu"
+
+#: templates/single/course/course-entry-box.php:148
+msgid "You enrolled in this course on"
+msgstr "Zapsali jste se do tohoto kurzu dne"
+
+#: templates/single/course/course-entry-box.php:182
+msgid "This course is full right now. We limit the number of students to create an optimized and productive group dynamic."
+msgstr "Kurz je teď plný. Omezujeme počet studentů, abychom vytvořili optimalizovanou a produktivní skupinovou dynamiku."
+
+#: templates/single/course/course-entry-box.php:214
+msgid "Free access this course"
+msgstr "Volný přístup k tomuto kurzu"
+
+#: templates/single/course/course-target-audience.php:27
+msgid "Audience"
+msgstr "Cílová skupina"
+
+#: templates/dashboard/enrolled-courses.php:66
+#: templates/dashboard/settings/nav-bar.php:43 views/elements/navbar.php:53
+#: views/options/template/tab.php:32
+msgid "More"
+msgstr "Více"
+
+#: templates/single/course/lead-info.php:74
+msgid "Uncategorized"
+msgstr "Nezařazeno"
+
+#: templates/single/course/reviews.php:49
+msgid "No Review Yet"
+msgstr "Bez recenze"
+
+#: templates/single/course/reviews.php:66
+msgid "Total "
+msgstr "Celkem"
+
+#: templates/single/course/reviews.php:68
+msgid " Rating"
+msgid_plural " Ratings"
+msgstr[0] "Hodnocení"
+msgstr[1] "Hodnocení"
+msgstr[2] "Hodnocení"
+
+#: templates/single/course/reviews.php:133
+msgid "Load More"
+msgstr "Načíst další"
+
+#: templates/single/lesson/comment.php:23
+msgid "Join the conversation"
+msgstr "Připojit se ke konverzaci"
+
+#: templates/single/lesson/content.php:98
+#: templates/single/lesson/content.php:132
+msgid "Exercise Files"
+msgstr "Cvičební soubory"
+
+#: templates/single/lesson/content.php:106
+msgid "Comments"
+msgstr "Komentáře"
+
+#: templates/single/lesson/content.php:118
+msgid "About Lesson"
+msgstr "O lekci"
+
+#: templates/single/quiz/parts/image-matching.php:31
+#: templates/single/quiz/parts/matching.php:55
+msgid "Drag your answer"
+msgstr "Vaše odpověd"
+
+#: templates/single/quiz/parts/meta.php:10
+msgid "Questions No"
+msgstr "Otázky č."
+
+#: templates/single/quiz/parts/question.php:139
+msgid "Submit &amp; Next"
+msgstr "Odeslat &amp; další"
+
+#: templates/single/quiz/parts/question.php:143
+msgid "Skip Question"
+msgstr "Přeskočit otázku"
+
+#: templates/single/quiz/top.php:64 views/metabox/video-metabox.php:151
+msgid "Second"
+msgstr "Druhý"
+
+#: templates/single/quiz/top.php:65
+#: views/metabox/course-additional-data.php:49
+#: views/metabox/video-metabox.php:147
+msgid "Minute"
+msgstr "Minuta"
+
+#: templates/single/quiz/top.php:66
+#: views/metabox/course-additional-data.php:45
+#: views/metabox/video-metabox.php:143
+msgid "Hour"
+msgstr "Hodina"
+
+#: classes/Options_V2.php:1122
+msgid "These colors will be used throughout your website. Choose between these presets or create your own custom palette."
+msgstr "Tyto barvy budou použity na celém vašem webu. Vyberte si z těchto předvoleb nebo si vytvořte vlastní paletu."
+
+#: classes/Options_V2.php:1259
+msgid "Choose a primary color"
+msgstr "Zvolte primární barvu"
+
+#: classes/Options_V2.php:1268
+msgid "Choose a primary hover color"
+msgstr "Zvolte primární barvu při přejetí myší"
+
+#: classes/Options_V2.php:1277
+msgid "Choose a text color for your website"
+msgstr "Zvolte barvu textu pro váš web"
+
+#: classes/Options_V2.php:1293
+msgid "Border"
+msgstr "Okraj"
+
+#: classes/Options_V2.php:1295
+msgid "Choose a border color for your website"
+msgstr "Vyberte barvu ohraničení pro váš web"
+
+#: classes/Options_V2.php:1309
+msgid "Use Tutor Player for YouTube"
+msgstr "Použít Tutor Player pro YouTube"
+
+#: classes/Options_V2.php:1312
+msgid "Enable this option to use Tutor LMS video player for YouTube."
+msgstr "Povolte tuto možnost pro použití videopřehrávače Tutor LMS pro YouTube."
+
+#: classes/Options_V2.php:1317
+msgid "Use Tutor Player for Vimeo"
+msgstr "Použít Tutor Player pro Vimeo"
+
+#: classes/Options_V2.php:1320
+msgid "Enable this option to use Tutor LMS video player for Vimeo."
+msgstr "Povolte tuto možnost pro použití videopřehrávače Tutor LMS pro Vimeo."
+
+#: classes/Options_V2.php:1327
+msgid "Advanced"
+msgstr "Pokročilé"
+
+#: classes/Options_V2.php:1329
+msgid "Advanced Settings"
+msgstr "Pokročilá nastavení"
+
+#: classes/Options_V2.php:1343
+msgid "Enable this to create courses using the Gutenberg Editor."
+msgstr "Povolte pro vytváření kurzů pomocí Gutenberg Editor."
+
+#: classes/Options_V2.php:1350
+msgid "Enable to hide course products on shop page."
+msgstr "Povolit skrytí produktů kurzu na stránce obchodu."
+
+#: classes/Options_V2.php:1366
+msgid "Choose the page for instructor registration."
+msgstr "Vyberte stránku pro registraci instruktora."
+
+#: classes/Options_V2.php:1388
+msgid "Insert the YouTube API key to host live videos using YouTube."
+msgstr "Chcete-li hostit živá videa pomocí služby YouTube, vložte klíč API YouTube."
+
+#: classes/Options_V2.php:1408
+msgid "Enable Tutor Login"
+msgstr "Povolit přihlášení lektora"
+
+#: classes/Options_V2.php:1411
+msgid "Enable to use the tutor login modal instead of the default WordPress login page"
+msgstr "Povolit použití tutorského přihlašovacího modálu namísto výchozí přihlašovací stránky WordPress"
+
+#: classes/Quiz.php:125
+msgid "Invalid quiz info"
+msgstr "Neplatný test"
+
+#: classes/Quiz.php:783
+msgid "Quiz Permission Denied"
+msgstr "Přístup zamítnut"
+
+#: classes/Quiz.php:901
+msgid "Please make sure the question has answer"
+msgstr "Ujistěte se, že máte odpověď na otázku"
+
+#: classes/Q_and_A.php:38
+msgid "Empty Content Not Allowed!"
+msgstr "Prázdný obsah není povolen!"
+
+#: classes/Q_and_A.php:168
+msgid "Permission Denied!"
+msgstr "Přístup odepřen!"
+
+#: classes/Shortcode.php:85
+msgid "Please %sSign-In%s to view this page"
+msgstr "Chcete-li zobrazit tuto stránku, %sPřihlaste se %s"
+
+#: classes/Student.php:187
+msgid "Profile Updated"
+msgstr "Profil aktualizován"
+
+#: classes/Student.php:266
+msgid "Password Changed"
+msgstr "Heslo bylo změněno"
+
+#: classes/Tools_V2.php:92
+msgid "Status Settings"
+msgstr "Nastavení stavu"
+
+#: classes/Tools_V2.php:160
+msgid "Tutor version"
+msgstr "Verze Tutoru"
+
+#: classes/Tools_V2.php:176
+msgid "WordPress corn"
+msgstr "WordPress corn"
+
+#: classes/Tools_V2.php:296 views/options/template/import_export.php:2
+msgid "Import/Export"
+msgstr "Import/export"
+
+#: classes/Tools_V2.php:298
+msgid "Import/Export Settings"
+msgstr "Import/Export Nastavení"
+
+#: classes/Tools_V2.php:308
+msgid "Tutor Pages Settings"
+msgstr "Nastavení doučovacích stránek"
+
+#: classes/Tools_V2.php:319
+msgid "Setup Wizard Settings"
+msgstr "Nastavení průvodce nastavením"
+
+#: classes/Tutor_Setup.php:120
+msgid "Step"
+msgstr "Krok"
+
+#: classes/Tutor_Setup.php:388
+msgid "Instructor Profile"
+msgstr "Profil instruktora"
+
+#: classes/Tutor_Setup.php:397
+msgid "Student Profile"
+msgstr "Profil studenta"
+
+#: classes/Tutor_Setup.php:403
+msgid "Lesson permalink"
+msgstr "Trvalý odkaz na lekci"
+
+#: classes/Tutor_Setup.php:404
+msgid "Example:  %s"
+msgstr "Příklad:  %s"
+
+#: classes/Tutor_Setup.php:527 templates/dashboard.php:135
+msgid "Create a New Course"
+msgstr "Vytvořit nový kurzu"
+
+#: classes/Tutor_Setup.php:530
+msgid "Explore Addons"
+msgstr "Prozkoumat doplňky"
+
+#: classes/Tutor_Setup.php:575
+msgid "Finish Setup"
+msgstr "Dokončit nastavení"
+
+#: classes/Tutor_Setup.php:593
+msgid "Hello %s, welcome to Tutor LMS!"
+msgstr "Dobrý den %s, vítejte v Tutor LMS!"
+
+#: classes/Tutor_Setup.php:596
+msgid "Thank You for Choosing Us"
+msgstr "Děkujeme, že jste si vybrali nás!"
+
+#: classes/Tutor_Setup.php:689
+msgid "Share solo journey as an educator and spared knowledge"
+msgstr "Sdílet sólovou cestu jako pedagog a ušetřené znalosti"
+
+#: classes/Tutor_Setup.php:721
+msgid "Not sure?"
+msgstr "Nejsi si jistý/á?"
+
+#: classes/Tutor_Setup.php:723
+msgid "Let’s go to the next step."
+msgstr "Přejděme k dalšímu kroku."
+
+#: classes/Utils.php:1044
+msgid "Nonce not matched. Action failed!"
+msgstr "Nonce neodpovídá. Akce se nezdařila!"
+
+#: classes/Utils.php:3528 templates/shortcode/instructor-filter.php:81
+#: templates/single/course/reviews.php:95
+msgid "Ratings"
+msgstr "Hodnocení"
+
+#: classes/Utils.php:3528 templates/dashboard/dashboard.php:342
+#: templates/single/course/reviews.php:95
+msgid "Rating"
+msgstr "Hodnocení"
+
+#: classes/Utils.php:4676
+msgid "Open Ended"
+msgstr "S otevřeným koncem"
+
+#: classes/Utils.php:5908 classes/Utils.php:5938
+msgid "Facebook"
+msgstr "Facebook"
+
+#: classes/Utils.php:5914 classes/Utils.php:5943
+msgid "Twitter"
+msgstr "Twitter"
+
+#: classes/Utils.php:5920 classes/Utils.php:5948
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: classes/Utils.php:5953
+msgid "Website"
+msgstr "Webová stránka"
+
+#: classes/Utils.php:5958
+msgid "Github"
+msgstr "Github"
+
+#: classes/Utils.php:8837
+msgid "Wrong"
+msgstr "Špatně"
+
+#: classes/Utils.php:8857 classes/Utils.php:8861 classes/Utils.php:8869
+#: templates/dashboard/purchase_history.php:128
+msgid "Cancelled"
+msgstr "Zrušeno"
+
+#: classes/Utils.php:8897 views/pages/course-list.php:131
+msgid "Private"
+msgstr "Soukromé"
+
+#: classes/Utils.php:8966 templates/dashboard/purchase_history.php:37
+msgid "Today"
+msgstr "Dnes"
+
+#: classes/Utils.php:8967
+msgid "Last 30 Days"
+msgstr "Posledních 30 dní"
+
+#: classes/Utils.php:8968
+msgid "Last 90 Days"
+msgstr "Posledních 90 dní"
+
+#: classes/Utils.php:8969
+msgid "Last 365 Days"
+msgstr "Posledních 365 dní"
+
+#: classes/Utils.php:8970
+msgid "Custom"
+msgstr "Vlastní"
+
+#: classes/Utils.php:9306
+#: templates/single/lesson/sidebar_question_and_answer.php:45
+msgid "No Data Available in this Section"
+msgstr "V této části nejsou k dispozici žádné údaje"
+
+#: classes/Utils.php:9307
+msgid "No Data Found from your Search/Filter"
+msgstr "Z vašeho vyhledávání/filtru nebyla nalezena žádná data"
+
+#: classes/Utils.php:9394 templates/dashboard/purchase_history.php:76
+msgid "Order History"
+msgstr "Historie objednávek"
+
+#: classes/Withdraw.php:179
+msgid "Withdrawal information saved!"
+msgstr "Informace o výběru uloženy!"
+
+#: classes/Withdraw_Requests_List.php:23
+msgid "Withdraw Request"
+msgstr "Žádost o výběr"
+
+#: includes/tutor-template-functions.php:1197
+msgid "h"
+msgstr "h"
+
+#: includes/tutor-template-functions.php:1197
+msgid "hour"
+msgstr "hodina"
+
+#: includes/tutor-template-functions.php:1198
+msgid "m"
+msgstr "m"
+
+#: includes/tutor-template-functions.php:1198
+msgid "minute"
+msgstr "minuta"
+
+#: includes/tutor-template-functions.php:1199
+msgid "s"
+msgstr "s"
+
+#: includes/tutor-template-functions.php:1199
+msgid "second"
+msgstr "sekund"
+
+#: templates/course-filter/filters.php:112
+msgid "Clear All Filters"
+msgstr "Odstranit všechny filtry"
+
+#: templates/dashboard.php:63
+msgid "Menu"
+msgstr "Menu"
+
+#: templates/dashboard/assignments.php:77
+msgid "Assignment Name"
+msgstr "Název úkolu"
+
+#: templates/dashboard/assignments/review.php:104
+#: templates/global/attachments.php:31 views/fragments/attachments.php:16
+msgid "Size"
+msgstr "Velikost"
+
+#: templates/dashboard/assignments/review.php:104
+msgid ": 2MB"
+msgstr ": 2MB"
+
+#: templates/dashboard/assignments/review.php:140
+#: templates/dashboard/reviews.php:61
+msgid "Feedback"
+msgstr "Zpětná vazba"
+
+#: templates/dashboard/create-course.php:136
+msgid "Thank You!"
+msgstr "Děkujeme!"
+
+#: templates/dashboard/create-course.php:174
+#: templates/dashboard/create-course.php:183
+msgid "255"
+msgstr "255"
+
+#: templates/dashboard/create-course.php:75
+msgid "Save as Draft"
+msgstr "Uložit jako koncept"
+
+#: templates/dashboard/dashboard.php:242
+msgid "In Progress Courses"
+msgstr "Probíhající kurzy"
+
+#: templates/dashboard/dashboard.php:281
+#: templates/dashboard/elements/pagination.php:49
+#: views/elements/pagination.php:18
+msgid "of"
+msgstr "z"
+
+#: templates/dashboard/dashboard.php:285
+msgid "lesson"
+msgid_plural "lessons"
+msgstr[0] "lekce"
+msgstr[1] "lekce"
+msgstr[2] "lekcí"
+
+#: templates/dashboard/dashboard.php:326
+msgid "View All"
+msgstr "Zobrazit vše"
+
+#: templates/dashboard/elements/pagination.php:45
+#: views/elements/pagination.php:14
+msgid "Page"
+msgstr "Stránka"
+
+#: templates/dashboard/instructor/apply_for_instructor.php:19
+msgid "Tutor LMS can be used to edit content built using that extension. It cannot edit layouts made before."
+msgstr "Tutor LMS lze použít k úpravě obsahu vytvořeného pomocí tohoto rozšíření. Nelze upravovat předchozí rozvržení."
+
+#: templates/dashboard/instructor/apply_for_instructor.php:27
+msgid "Instructor Application"
+msgstr "Aplikace instruktora"
+
+#: templates/dashboard/instructor/apply_for_instructor.php:34
+msgid "Do you want to start your career as an instructor?"
+msgstr "Chcete začít svou kariéru instruktora?"
+
+#: templates/dashboard/instructor/apply_for_instructor.php:40
+msgid "Tell us your qualifications, show us your passion, and begin teaching with us!"
+msgstr "Řekněte nám svou kvalifikaci, ukažte nám svou vášeň a začněte s námi učit!"
+
+#: templates/dashboard/instructor/apply_for_instructor.php:46
+msgid "Apply Now"
+msgstr "Použít nyní"
+
+#: templates/dashboard/instructor/logged-in.php:37
+msgid "Instructor Application Received"
+msgstr "Přihláška instruktora přijata"
+
+#: templates/dashboard/my-courses.php:165
+msgid "Are you sure you want to delete this course permanently from the site? Please confirm your choice."
+msgstr "Opravdu chcete tento kurz z webu trvale odstranit? Potvrďte prosím svou volbu."
+
+#: templates/dashboard/my-profile.php:25
+msgid "-"
+msgstr "-"
+
+#: templates/dashboard/my-profile.php:29
+#: templates/dashboard/settings/profile.php:150
+msgid "Skill/Occupation"
+msgstr "Dovednost/povolání"
+
+#: templates/dashboard/purchase_history.php:42
+msgid "Monthly"
+msgstr "Měsíčně"
+
+#: templates/dashboard/purchase_history.php:47
+msgid "Yearly"
+msgstr "Ročně"
+
+#: templates/dashboard/reviews/given-reviews.php:138
+msgid "Are you sure you want to delete this review permanently from the site? Please confirm your choice."
+msgstr "Opravdu chcete tuto recenzi z webu trvale odstranit? Potvrďte prosím svou volbu."
+
+#: templates/dashboard/settings/nav-bar.php:25
+msgid "Social Profile"
+msgstr "Sociální sítě"
+
+#: templates/dashboard/settings/profile.php:152
+msgid "UX Designer"
+msgstr "UX Designer"
+
+#: templates/dashboard/settings/reset-password.php:61
+msgid "Re-type New Password"
+msgstr "Zadejte znovu nové heslo"
+
+#: templates/dashboard/settings/social-profile.php:18
+msgid "Social Profile Link"
+msgstr "Sociální sítě"
+
+#: templates/global/alert.php:27
+msgid "Please define alert class"
+msgstr "Definujte třídu upozornění"
+
+#: templates/global/attachments.php:46
+msgid "No Attachment Found"
+msgstr "Nenalezena žádná příloha"
+
+#: templates/loop/course-author.php:28 templates/loop/meta.php:41
+#: templates/single/course/enrolled/announcements.php:30
+#: templates/single/course/lead-info.php:57
+msgid "By"
+msgstr "Zodpovědný"
+
+#: templates/loop/course-continue.php:38
+#: templates/single/course/course-entry-box.php:112
+msgid "Continue Learning"
+msgstr "Pokračovat v učení"
+
+#: templates/loop/course-price-edd.php:54
+#: templates/loop/course-price-woocommerce.php:54
+#: templates/loop/course-price.php:43
+msgid "% Booked"
+msgstr "% zarezervováno"
+
+#: templates/shortcode/instructor-filter.php:15
+msgid "Relevant"
+msgstr "Relevantní"
+
+#: templates/shortcode/instructor-filter.php:16
+msgid "New"
+msgstr "Nový"
+
+#: templates/shortcode/instructor-filter.php:17
+msgid "Popular"
+msgstr "Oblíbené"
+
+#: classes/Options_V2.php:755
+msgid "Set a description for the fee that you are deducting. Make sure to give a reasonable explanation to maintain transparency with your site’s instructors"
+msgstr "Nastav popis poplatku, který odečítáš. Ujistěte se, že poskytnete rozumné vysvětlení, aby byla zachována transparentnost s instruktory vašeho webu"
+
+#: classes/Options_V2.php:761
+msgid "Fee Amount & Type"
+msgstr "Částka a typ poplatku"
+
+#: classes/Options_V2.php:762
+msgid "Select the fee type and add fee amount/percentage"
+msgstr "Vyber typ poplatku a přidej částku/procento poplatku"
+
+#: classes/Options_V2.php:795
+msgid "Minimum Days Before Balance is Available"
+msgstr "Minimální počet dní, než bude zůstatek k dispozici"
+
+#: classes/Options_V2.php:797
+msgid "Any income has to remain this many days in the platform before it is available for withdrawal."
+msgstr "Jakýkoli příjem musí zůstat na platformě tolik dní, než je k dispozici pro výběr."
+
+#: classes/Options_V2.php:802
+msgid "Enable Withdraw Method"
+msgstr "Povolit metodu výběru"
+
+#: classes/Options_V2.php:805
+msgid "Set how you would like to withdraw money from the website."
+msgstr "Nastavte, jak chcete vybrat peníze z webových stránek."
+
+#: classes/Options_V2.php:810
+msgid "Bank Instructions"
+msgstr "Bankovní pokyny"
+
+#: classes/Options_V2.php:811
+msgid "Write the up to date bank informations of your instructor here."
+msgstr "Zde napište aktuální bankovní informace svého instruktora."
+
+#: classes/Options_V2.php:812
+msgid "Write bank instructions for the instructors to conduct withdrawals."
+msgstr "Napište instruktorům bankovní pokyny k provádění výběrů."
+
+#: classes/Options_V2.php:819
+msgid "Design"
+msgstr "Návrhářství (grafický design, průmyslový design, módní a textilní tvorba)"
+
+#: classes/Options_V2.php:875
+msgid "Layout"
+msgstr "Rozložení"
+
+#: classes/Options_V2.php:883
+msgid "Choose a layout for the list of instructors inside a course page. You can change this at any time."
+msgstr "Vyberte rozvržení pro seznam instruktorů na stránce kurzu. Můžeš to kdykoliv změnit."
+
+#: classes/Options_V2.php:915
+msgid "Instructor Public Profile Layout"
+msgstr "Veřejné rozvržení profilu instruktora"
+
+#: classes/Options_V2.php:916
+msgid "Choose a layout design for a instructor’s public profile"
+msgstr "Vyberte návrh rozvržení pro veřejný profil instruktora"
+
+#: classes/Options_V2.php:940
+msgid "Student Public Profile Layout"
+msgstr "Veřejné rozvržení profilu studenta"
+
+#: classes/Options_V2.php:941
+msgid "Choose a layout design for a student’s public profile"
+msgstr "Vyberte návrh rozvržení pro veřejný profil studenta"
+
+#: classes/Options_V2.php:965
+msgid "Course Details"
+msgstr "Detail"
+
+#: classes/Options_V2.php:972
+msgid "Course Details Adjustments"
+msgstr "Úpravy podrobností kurzu"
+
+#: classes/Options_V2.php:977
+msgid "Instructor Info"
+msgstr "Informace o instruktorovi"
+
+#: classes/Options_V2.php:979
+msgid "Toggle to show instructor info"
+msgstr "Přepnutím zobrazíte informace o instruktorovi"
+
+#: classes/Options_V2.php:986
+msgid "Enable to add a Q&A section"
+msgstr "Povolit přidání sekce otázek a odpovědí"
+
+#: classes/Options_V2.php:994
+msgid "Enable to remove course author name"
+msgstr "Povolit odstranění jména autora kurzu"
+
+#: classes/Options_V2.php:1002
+msgid "Toggle to remove course level"
+msgstr "Přepnout pro odstranění úrovně kurzu"
+
+#: classes/Options_V2.php:1007
+msgid "Social Share"
+msgstr "Sdílení na sociálních sítích"
+
+#: classes/Options_V2.php:1010
+msgid "Toggle to enable course social share"
+msgstr "Přepnutím zapnete sociální sdílení kurzu"
+
+#: classes/Options_V2.php:1018
+msgid "Enable to show course duration"
+msgstr "Povolit zobrazení délky kurzu"
+
+#: classes/Options_V2.php:1026
+msgid "Enable to show total enrolled students"
+msgstr "Povolit zobrazení celkového počtu zapsaných studentů"
+
+#: classes/Options_V2.php:1031
+msgid "Update Date"
+msgstr "Datum aktualizace"
+
+#: classes/Options_V2.php:1034
+msgid "Enable to show course update information"
+msgstr "Povolit zobrazení informací o aktualizaci kurzu"
+
+#: classes/Options_V2.php:1039
+msgid "Progress Bar"
+msgstr "Ukazatel průběhu"
+
+#: classes/Options_V2.php:1042
+msgid "Enable to show course progress for Students"
+msgstr "Povolit zobrazení průběhu kurzu pro studenty"
+
+#: classes/Options_V2.php:1047
+msgid "Material"
+msgstr "Materiál"
+
+#: classes/Options_V2.php:1050
+msgid "Enable to show course materials"
+msgstr "Povolit zobrazení materiálů kurzu"
+
+#: classes/Options_V2.php:1055
+msgid "About"
+msgstr "O nás"
+
+#: classes/Options_V2.php:1058
+msgid "Enable to show course about section"
+msgstr "Povolit zobrazení kurzu o sekci"
+
+#: classes/Options_V2.php:1066
+msgid "Enable to show course description"
+msgstr "Povolit zobrazení popisu kurzu"
+
+#: classes/Options_V2.php:1071
+msgid "Benefits"
+msgstr "Benefity"
+
+#: classes/Options_V2.php:1074
+msgid "Enable to show course benefits section"
+msgstr "Povolit zobrazení sekce výhod kurzu"
+
+#: classes/Options_V2.php:1082
+msgid "Enable to show courses requirements setion"
+msgstr "Povolit zobrazení sady požadavků na kurzy"
+
+#: classes/Options_V2.php:1090
+msgid "Enable to show course target audience section"
+msgstr "Povolit zobrazení sekce cílového publika kurzu"
+
+#: classes/Options_V2.php:1098
+msgid "Enable to show course announcements section"
+msgstr "Povolit zobrazení sekce oznámení o kurzu"
+
+#: classes/Options_V2.php:1106
+msgid "Enable to show course review section"
+msgstr "Povolit zobrazení sekce hodnocení kurzu"
+
+#: classes/Options_V2.php:1109
+msgid "Content Needed Here..."
+msgstr "Potřebný obsah zde..."
+
+#: classes/Options_V2.php:1114
+msgid "Colors"
+msgstr "Barvy"
+
+#: classes/Options_V2.php:1121 classes/Options_V2.php:1250
+msgid "Preset Colors"
+msgstr "Přednastavené barvy"
+
+#: classes/Course_Settings_Tabs.php:57
+msgid "Make This Course Public. No enrolment required."
+msgstr "Zveřejnit tento kurz. Zápis není nutný."
+
+#: classes/Course_Settings_Tabs.php:78
+msgid "Enable Q&A section for your course"
+msgstr "Povolit sekci Otázky a odpovědi pro váš kurz"
+
+#: classes/Instructor.php:97 classes/Instructor.php:196
+#: classes/Instructor.php:211 classes/Student.php:87
+#: views/pages/instructors.php:297
+msgid "Your passwords should match each other. Please recheck."
+msgstr "Vaše hesla by se měla shodovat. Zkontrolujte je prosím znovu."
+
+#: classes/Instructors_List.php:293
+msgid "Are you sure, want to block?"
+msgstr "Opravdu to chcete zablokovat?"
+
+#: classes/Instructors_List.php:296
+msgid "Are you sure, want to approve?"
+msgstr "Jste si jisti, že to chcete schválit?"
+
+#: classes/Options_V2.php:448
+msgid "Others"
+msgstr "Ostatní"
+
+#: classes/Options_V2.php:455
+msgid "Enable Marketplace"
+msgstr "Povolit tržiště"
+
+#: classes/Options_V2.php:477
+msgid "Allow Instructors To Publish Courses"
+msgstr "Povolit instruktorům publikovat kurzy"
+
+#: classes/Options_V2.php:480
+msgid "Enable instructors to publish the course directly. If disabled, admins will be able to review course content before publishing."
+msgstr "Povolit instruktorům publikovat kurz přímo. Pokud je zakázáno, administrátoři budou moci zkontrolovat obsah kurzu před zveřejněním."
+
+#: classes/Options_V2.php:488
+msgid "Enable the option to display this button on the student dashboard."
+msgstr "Povolte možnost zobrazení tohoto tlačítka na studentské nástěnce."
+
+#: classes/Options_V2.php:552
+msgid "Students can complete courses anytime in the Flexible mode"
+msgstr "Studenti mohou absolvovat kurzy kdykoliv ve flexibilním režimu"
+
+#: classes/Options_V2.php:553
+msgid "Students have to complete, pass all the lessons and quizzes (if any) to mark a course as complete."
+msgstr "Studenti musí dokončit, projít všechny lekce a kvízy (pokud existují) označit kurz jako dokončený."
+
+#: classes/Options_V2.php:555
+msgid "Choose when a user can click on the <strong>“Complete Course”</strong> button"
+msgstr "Vyberte, kdy může uživatel kliknout na tlačítko <strong>„Dokončit kurz“</strong>"
+
+#: classes/Options_V2.php:575
+msgid "WP Editor for Lesson"
+msgstr "WP Editor pro lekci"
+
+#: classes/Options_V2.php:578
+msgid "Enable classic editor to edit lesson."
+msgstr "Povolit klasický editor pro úpravu lekce."
+
+#: classes/Options_V2.php:586
+msgid "Enable this feature to automatically load the next course content after the current one is finished."
+msgstr "Povolte tuto funkci pro automatické načtení obsahu dalšího kurzu po dokončení aktuálního kurzu."
+
+#: classes/Options_V2.php:591
+msgid "Enable Lesson Comment"
+msgstr "Povolit komentář lekce"
+
+#: classes/Options_V2.php:594
+msgid "Enable this feature to allow students to post comments on lessons."
+msgstr "Povolte tuto funkci, aby studenti mohli psát komentáře k lekcím."
+
+#: classes/Options_V2.php:626
+msgid "Show Quiz Previous Button"
+msgstr "Zobrazit předchozí tlačítko kvízu"
+
+#: classes/Options_V2.php:657
+msgid "Choose video sources you'd like to support."
+msgstr "Vyberte zdroje videa, které chcete podporovat."
+
+#: classes/Options_V2.php:666
+msgid "Monitization Settings"
+msgstr "Nastavení monitace"
+
+#: classes/Options_V2.php:671 classes/Options_V2.php:1393
+msgid "Options"
+msgstr "Možnosti"
+
+#: classes/Options_V2.php:678
+msgid "Select eCommerce Engine"
+msgstr "Vybrat eCommerce engine"
+
+#: classes/WooCommerce.php:325
+msgid "Enable Guest Mode"
+msgstr "Povolit režim hosta"
+
+#: classes/WooCommerce.php:328
+msgid "Allow customers to place orders without an account."
+msgstr "Umožnit zákazníkům nákup bez registrace účtu."
+
+#: classes/Options_V2.php:708
+msgid "Sharing Percentage"
+msgstr "Účast na zisku"
+
+#: classes/Options_V2.php:725
+msgid "Set how the sales revenue will be shared among admins and instructors."
+msgstr "Nastavte, jak budou příjmy z prodeje sdíleny mezi administrátory a instruktory."
+
+#: classes/Options_V2.php:700
+msgid "Enable Revenue Sharing"
+msgstr "Povolit sdílení příjmů"
+
+#: classes/Options_V2.php:703
+msgid "Allow revenue generated from selling courses to be shared with course creators."
+msgstr "Povolit sdílení příjmů z prodeje kurzů s tvůrci kurzů."
+
+#: classes/Options_V2.php:738
+msgid "Fees"
+msgstr "Poplatky"
+
+#: classes/Options_V2.php:753 classes/Options_V2.php:754
+msgid "Fee Description"
+msgstr "Popis poplatku"
+
+#: classes/Backend_Page_Trait.php:36
+msgid "Bulk Action"
+msgstr "Hromadná akce"
+
+#: classes/Backend_Page_Trait.php:75 classes/Course_List.php:127
+#: classes/Utils.php:8893 templates/dashboard/my-courses.php:57
+#: views/pages/course-list.php:130
+msgid "Draft"
+msgstr "Koncept"
+
+#: classes/Backend_Page_Trait.php:88 classes/Utils.php:8873
+#: classes/Utils.php:8877 classes/Utils.php:8881
+#: templates/dashboard/purchase_history.php:120
+msgid "On Hold"
+msgstr "Pozastaveno"
+
+#: classes/Backend_Page_Trait.php:114 classes/Utils.php:8853
+#: templates/dashboard/purchase_history.php:116
+#: templates/dashboard/purchase_history.php:124
+msgid "Processing"
+msgstr "Probíhá zpracování"
+
+#: classes/Backend_Page_Trait.php:127 views/pages/course-list.php:330
+msgid "Delete Permanently"
+msgstr "Trvale odstranit"
+
+#: classes/Course.php:159 classes/Frontend.php:51
+msgid "Access Denied!"
+msgstr "Přístup zamítnut!"
+
+#: classes/Course.php:436
+msgid "Topic title is required!"
+msgstr "Název tématu je povinný!"
+
+#: classes/Course.php:850
+msgid "Course difficulty level"
+msgstr "Úroveň obtížnosti kurzu"
+
+#: classes/Course_List.php:115
+msgid "Mine"
+msgstr "Moje"
+
+#: classes/Course_List.php:238
+msgid "Please select appropriate action"
+msgstr "Vyberte prosím vhodnou akci"
+
+#: classes/Course_List.php:249
+msgid "Could not delete selected courses"
+msgstr "Vybrané kurzy nelze odstranit"
+
+#: classes/Course_Settings_Tabs.php:52
+msgid "Public Course"
+msgstr "Veřejný kurz"
+
+#: classes/Ajax.php:196
+msgid "Rating placed successsully!"
+msgstr "Hodnocení úspěšné!"
+
+#: classes/Ajax.php:208
+msgid "Permissioned Denied!"
+msgstr "Povolení zamítnuto!"
+
+#: classes/Ajax.php:321
+msgid "PHP 7.2.5 or greater is required"
+msgstr "PHP 7.2.5 nebo vyšší je vyžadováno"
+
+#: classes/Ajax.php:322
+msgid "SSL certificate"
+msgstr "Certifikát SSL"
+
+#: classes/Ajax.php:527
+msgid "All fields required!"
+msgstr "Všechna pole jsou povinná!"
+
+#: classes/Utils.php:9471
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: views/pages/students.php:92
+msgid "Course Taken"
+msgstr "Absolvovaný kurz"
+
+#: classes/Course.php:514
+msgid "free"
+msgstr "zdarma"
+
+#: classes/Options_V2.php:628
+msgid "Choose whether to show or hide the previous button for each question."
+msgstr "Zvolte, zda chcete zobrazit nebo skrýt předchozí tlačítko pro každou otázku."
+
+#: classes/Post_types.php:51
+msgctxt "tutor course add"
+msgid "Add New"
+msgstr "Přidat nový"
+
+#: classes/Post_types.php:174
+msgctxt "tutor lesson add"
+msgid "Add New"
+msgstr "Přidat nový"
+
+#: classes/Post_types.php:224
+msgctxt "tutor quiz add"
+msgid "Add New"
+msgstr "Přidat nový"
+
+#: classes/Post_types.php:289
+msgctxt "tutor assignment add"
+msgid "Add New"
+msgstr "Přidat nový"
+
+#: classes/Tutor_Setup.php:209 includes/tutor-template-functions.php:1199
+msgid "seconds"
+msgstr "sekund"
+
+#: classes/Tutor_Setup.php:210 classes/Tutor_Setup.php:218
+#: includes/tutor-template-functions.php:1198
+msgid "minutes"
+msgstr "minut"
+
+#: classes/Tutor_Setup.php:211 includes/tutor-template-functions.php:1197
+msgid "hours"
+msgstr "hodin"
+
+#: classes/Tutor_Setup.php:212
+msgid "days"
+msgstr "dní"
+
+#: classes/Tutor_Setup.php:213
+msgid "weeks"
+msgstr "týdny"
+
+#: includes/tinymce_translate.php:17
+msgid "Tutor ShortCode"
+msgstr "Tutor ShortCode"
+
+#: includes/tinymce_translate.php:18
+msgid "Student Registration Form"
+msgstr "Formulář registrace studenta"
+
+#: includes/tinymce_translate.php:19
+msgid "Instructor Registration Form"
+msgstr "Formulář registrace lektora"
+
+#: includes/tinymce_translate.php:20
+msgctxt "tinyMCE button courses"
+msgid "Courses"
+msgstr "Kurzy"
+
+#: includes/tinymce_translate.php:21
+msgid "Courses Shortcode"
+msgstr "Shortcode kurzu"
+
+#: includes/tinymce_translate.php:22
+msgid "Course id, separate by (,) comma"
+msgstr "ID kurzu, oddělené čárkou (,)"
+
+#: includes/tinymce_translate.php:23
+msgid "Exclude Course IDS"
+msgstr "Vyloučit ID KURZU"
+
+#: includes/tinymce_translate.php:24
+msgid "Category IDS"
+msgstr "IDs kategorie"
+
+#: includes/tinymce_translate.php:25
+msgctxt "tinyMCE button order by"
+msgid "Order By :"
+msgstr "Seřadit podle:"
+
+#: includes/tinymce_translate.php:26
+msgid "Order :"
+msgstr "Objednávka:"
+
+#: classes/Backend_Page_Trait.php:177 classes/Course_List.php:139
+#: classes/Utils.php:8889 templates/dashboard/dashboard.php:140
+#: views/pages/course-list.php:129
+msgid "Trash"
+msgstr "Koš"
+
+#: templates/dashboard/instructor/registration.php:14
+#: templates/dashboard/registration.php:13
+msgid "Oooh! Access Denied"
+msgstr "Oooh! Přístup zamítnut"
+
+#: templates/dashboard/instructor/registration.php:15
+#: templates/dashboard/registration.php:14
+msgid "You do not have access to this area of the application. Please refer to your system  administrator."
+msgstr "Nemáte přístup do této sekce. Prosím kontaktujte administrátora."
+
+#: templates/dashboard/instructor/registration.php:17
+#: templates/dashboard/registration.php:16
+msgid "Go to Home"
+msgstr "Jít na hlavní stránku"
+
+#: templates/dashboard/withdraw.php:144
+msgid "Minimum withdraw amount is"
+msgstr "Minimální částka k výběru je"
+
+#: classes/Utils.php:8781 templates/single/quiz/top.php:74
+msgid "%s"
+msgstr " %s"
+
+#: templates/dashboard/reviews/given-reviews.php:104 views/modal/review.php:16
+msgid "How would you rate this course?"
+msgstr "Jak hodnotíte tento kurz?"
+
+#: templates/dashboard/reviews/given-reviews.php:105 views/modal/review.php:17
+msgid "Select Rating"
+msgstr "Vybrat hodnocení"
+
+#: views/modal/review.php:29
+msgid "Tell us about your own personal experience taking this course. Was it a good match for you?"
+msgstr "Povězte nám o své osobní zkušenosti s tímto kurzem. Byl to pro tebe dobrý zápas?"
+
+#: templates/dashboard/create-course.php:89
+#: templates/single/lesson/comment.php:38 views/qna/qna-new.php:17
+msgid "Submit"
+msgstr "Potvrdit"
+
+#: views/fragments/thumbnail-uploader.php:13
+msgid "Select or Upload Media Of Your Chosen Persuasion"
+msgstr "Vyberte nebo nahrajte vybraná média"
+
+#: views/fragments/thumbnail-uploader.php:13
+msgid "Use this media"
+msgstr "Použít tento soubor"
+
+#: views/elements/bulk-confirm-popup.php:11
+msgid "Are You Sure?"
+msgstr "Jste si jisti?"
+
+#: classes/User.php:165
+msgid "As membership is turned off, students and instructors will not be able to sign up. <strong>Press Enable</strong> or go to <strong>Settings > General > Membership</strong> and enable \"Anyone can register\"."
+msgstr "Když je členství vypnuto, studenti a instruktoři se nebudou moci zaregistrovat. <strong>Stiskněte Povolit</strong> nebo přejděte do <strong>Nastavení &gt; Obecné &gt; Členství</strong> a povolte \"Registrovat se může každý\"."
+
+#: classes/User.php:170
+msgid "Dismiss"
+msgstr "Opustit"
+
+#: templates/dashboard/create-course.php:34
+msgid "You don't have the right to edit this course"
+msgstr "Nemáte oprávnění editovat tento kurz"
+
+#: templates/dashboard/create-course.php:35
+msgid "Please make sure you are logged in to correct account"
+msgstr "Ujistěte se, že jste přihlášeni ke správnému účtu"
+
+#: templates/permission-denied.php:36
+msgid "Please make sure you are logged in to correct account if the content needs authorization."
+msgstr "Ujistěte se, že jste přihlášeni k opravě účtu, pokud obsah potřebuje autorizaci."
+
+#: templates/single/lesson/required-enroll.php:6
+msgid "Please enroll in this course to view course content."
+msgstr "Chcete-li zobrazit obsah kurzu, zaregistrujte se do tohoto kurzu."
+
+#: templates/single/quiz/parts/meta.php:89
+msgid "Reattempt"
+msgstr "Další pokus"
+
+#: templates/dashboard/my-courses.php:172
+#: templates/dashboard/reviews/given-reviews.php:140
+#: views/fragments/announcement-list.php:168 views/qna/qna-single.php:147
+#: views/qna/qna-table.php:161
+msgid "Yes, Delete This"
+msgstr "Ano, odstranit."
+
+#: classes/Addons.php:115
+msgid "WPML Multilingual CMS"
+msgstr "WPML Vícejazyčný CMS"
+
+#: classes/Addons.php:116
+msgid "Create multilingual courses, lessons, dashboard and more for a global audience."
+msgstr "Vytvářejte mnohojazyčné kurzy, lekce a další pro lidi z celého světa."
+
+#: classes/Course.php:1282
+msgid "Invalid Course ID or Access Denied."
+msgstr "Neplatné ID kurzu nebo přístup zamítnut."
+
+#: classes/Options_V2.php:560
+msgid "Course Retake"
+msgstr "Kurz opakován"
+
+#: classes/Options_V2.php:563
+msgid "Enabling this feature will allow students to reset course progress and start over."
+msgstr "Povolení této funkce umožní studentům obnovit průběh kurzu a začít znovu."
+
+#: templates/single/course/course-entry-box.php:108
+msgid "Retake This Course"
+msgstr "Opakujte tento kurz"
+
+#: classes/Student.php:269
+msgid "Something went wrong!"
+msgstr "Něco se nepovedlo!"
+
+#: includes/tutor-general-functions.php:152
+msgid "Search Course Tags. ex. Design, Development, Business"
+msgstr "Hledat tagy kurzu. ex. Design, vývoj, podnikání"
+
+#: includes/tutor-general-functions.php:153
+msgid "Select a tag"
+msgstr "Vybrat štítek"
+
+#: templates/loop/course-continue.php:22 templates/loop/course-continue.php:41
+#: templates/single/course/course-entry-box.php:110
+#: templates/single/course/course-entry-box.php:167
+msgid "Start Learning"
+msgstr "Zahájit výuku"
+
+#: views/modal/question_form.php:19
+msgid "Type your question here"
+msgstr "Zde napište otázku"
+
+#: classes/Options_V2.php:532
+msgid "Auto redirect to courses"
+msgstr "Automatické přesměrování na kurzy"
+
+#: classes/Options_V2.php:535
+msgid "When a user's WooCommerce order is auto-completed, they will be redirected to enrolled courses"
+msgstr "Když je WooCommerce objednávka automaticky dokončena, proběhne přesměrování na zápis kurzů."
+
+#: templates/loop/course-price-edd.php:77
+#: templates/loop/course-price-woocommerce.php:65
+#: templates/loop/course-price.php:56
+msgid "Fully Booked"
+msgstr "Plně zarezervováno"
+
+#: classes/Backend_Page_Trait.php:189 classes/Instructors_List.php:269
+#: views/pages/withdraw_requests.php:255
+msgid "Reject"
+msgstr "Zamítnout"
+
+#: classes/Instructors_List.php:270
+msgid "Sure to Reject?"
+msgstr "Určitě odmítnout?"
+
+#: classes/Options_V2.php:1386
+msgid "Youtube API Key"
+msgstr "Klíč API služby YouTube"
+
+#: templates/dashboard/assignments/review.php:126
+msgid "Assignment evaluated"
+msgstr "Úloha vyhodnocena"
+
+#: templates/shortcode/instructor-filter.php:104
+msgid "Search any instructor..."
+msgstr "Prohledat jakéhokoliv instruktora..."
+
+#: templates/dashboard/withdraw.php:72 templates/dashboard/withdraw.php:111
+msgid "Withdrawal Request"
+msgstr "Žádost o vyplacení"
+
+#: classes/Course_Settings_Tabs.php:42
+msgid "Number of students that can enrol in this course. Set 0 for no limits."
+msgstr "Počet studentů, kteří se mohou zapsat do tohoto kurzu. Nastavte 0 pro žádné limity."
+
+#: views/options/options_generator.php:5
+msgid "Settings Saved"
+msgstr "Nastavení bylo uloženo"
+
+#: views/quiz/instructor-feedback.php:36
+msgid "Updated"
+msgstr "Aktualizováno"
+
+#: templates/dashboard/announcements/update.php:6
+msgid "Update Announcement"
+msgstr "Aktualizovat oznámení"
+
+#: templates/dashboard/assignments/submitted.php:19
+msgid "No Limit"
+msgstr "Bez limitu"
+
+#: templates/dashboard/assignments/submitted.php:40
+msgid "Submission Deadline"
+msgstr "Termín odevzdání"
+
+#: templates/dashboard/assignments/submitted.php:44
+#: templates/dashboard/assignments/submitted.php:76
+msgid "Total Points"
+msgstr "Bodů celkem"
+
+#: templates/dashboard/assignments/submitted.php:48
+msgid "Pass Points"
+msgstr "Předat body"
+
+#: templates/dashboard/assignments/submitted.php:56
+msgid "Sort By:"
+msgstr "Seřadit podle:"
+
+#: templates/dashboard/assignments/submitted.php:58
+msgid "Latest"
+msgstr "Nejnovější"
+
+#: templates/dashboard/assignments/submitted.php:59
+msgid "Oldest"
+msgstr "Nejstarší"
+
+#: templates/dashboard/assignments/review.php:66
+msgid "Submitted Date"
+msgstr "Odesláno datum"
+
+#: templates/dashboard/assignments/review.php:132
+msgid "Your Points"
+msgstr "Získané body"
+
+#: templates/dashboard/assignments/review.php:136
+msgid "Evaluate this assignment out of %s"
+msgstr "Vyhodnotit tento úkol z %s"
+
+#: templates/dashboard/assignments.php:65
+#: templates/dashboard/elements/filters.php:45
+msgid "Create Date"
+msgstr "Datum vytvoření"
+
+#: templates/dashboard/announcements.php:72 views/pages/announcements.php:96
+msgid "Notify all students of your course"
+msgstr "Upozornit všechny studenty na váš kurz"
+
+#: templates/dashboard/announcements.php:78 views/pages/announcements.php:102
+msgid "Add New Announcement"
+msgstr "Vytvořit nové oznámení"
+
+#: templates/dashboard/announcements.php:106
+#: templates/dashboard/assignments.php:59
+#: templates/dashboard/elements/filters.php:40 views/elements/filters.php:110
+msgid "ASC"
+msgstr "Vzestupně"
+
+#: templates/dashboard/announcements.php:107
+#: templates/dashboard/assignments.php:60
+#: templates/dashboard/elements/filters.php:41 views/elements/filters.php:107
+msgid "DESC"
+msgstr "Sestupně"
+
+#: templates/dashboard/announcements/details.php:23
+msgid "Publish Date"
+msgstr "Datum zveřejnění"
+
+#: classes/Quiz.php:1296
+msgid "Access Denied."
+msgstr "Přístup odepřen."
+
+#: classes/Ajax.php:541
+msgid "Announcement created successfully"
+msgstr "Oznámení bylo úspěšně vytvořeno"
+
+#: classes/Ajax.php:541
+msgid "Announcement updated successfully"
+msgstr "Oznámení bylo úspěšně aktualizováno"
+
+#: classes/Ajax.php:505
+msgid "Course name required"
+msgstr "Požadován název kurzu"
+
+#: classes/Ajax.php:510
+msgid "Announcement title required"
+msgstr "Název oznámení je povinný"
+
+#: classes/Ajax.php:514 classes/Ajax.php:519
+msgid "Announcement summary required"
+msgstr "Je vyžadováno shrnutí oznámení"
+
+#: classes/Ajax.php:563
+msgid "Announcement deleted successfully"
+msgstr "Oznámení bylo úspěšně odstraněno"
+
+#: classes/Ajax.php:566
+msgid "Announcement delete failed"
+msgstr "Odstranění oznámení se nezdařilo"
+
+#: classes/Course_List.php:109 classes/Instructors_List.php:73
+#: classes/Quiz_Attempts_List.php:87 classes/Tutor_List_Table.php:389
+#: classes/Tutor_List_Table.php:1342 classes/Withdraw_Requests_List.php:47
+#: templates/dashboard/announcements.php:90
+#: templates/dashboard/assignments.php:43
+#: templates/dashboard/elements/filters.php:24
+msgid "All"
+msgstr "Vše"
+
+#: classes/Tutor_List_Table.php:1351 templates/dashboard/announcements.php:98
+#: templates/dashboard/announcements/create.php:29
+#: templates/dashboard/announcements/update.php:30
+#: templates/dashboard/assignments.php:51
+#: templates/dashboard/elements/filters.php:33 views/elements/filters.php:73
+#: views/fragments/announcement-list.php:41
+msgid "No course found"
+msgstr "Nebyl nalezen žádný kurz"
+
+#: classes/Tutor_List_Table.php:413 classes/Tutor_List_Table.php:1358
+#: templates/dashboard/announcements.php:104
+#: templates/dashboard/assignments.php:57
+#: templates/dashboard/elements/filters.php:38
+#: templates/dashboard/question-answer.php:56 views/elements/filters.php:103
+msgid "Sort By"
+msgstr "Řadit dle"
+
+#: templates/dashboard/announcements/create.php:6
+msgid "Create New Announcement"
+msgstr "Vytvořit nové oznámení"
+
+#: templates/dashboard/announcements/create.php:35
+#: templates/dashboard/announcements/update.php:36
+#: views/fragments/announcement-list.php:48
+msgid "Announcement Title"
+msgstr "Název oznámení"
+
+#: templates/dashboard/announcements/create.php:37
+#: templates/dashboard/announcements/update.php:38
+#: views/fragments/announcement-list.php:50
+msgid "Announcement title"
+msgstr "Název oznámení"
+
+#: templates/dashboard/announcements/create.php:41
+#: templates/dashboard/announcements/update.php:42
+#: views/fragments/announcement-list.php:55 views/modal/edit_quiz.php:10
+msgid "Summary"
+msgstr "Shrnutí"
+
+#: templates/dashboard/announcements/create.php:43
+#: templates/dashboard/announcements/update.php:44
+#: views/fragments/announcement-list.php:57
+msgid "Summary..."
+msgstr "Shrnutí..."
+
+#: classes/Backend_Page_Trait.php:62 classes/Utils.php:8885
+#: templates/dashboard/announcements/create.php:52
+#: templates/dashboard/create-course.php:85
+#: templates/dashboard/my-courses.php:47
+#: views/fragments/announcement-list.php:68 views/pages/course-list.php:127
+msgid "Publish"
+msgstr "Zveřejnit"
+
+#: classes/Lesson.php:199
+msgid "Couldn't create lesson."
+msgstr "Nepodařilo se vytvořit lekci"
+
+#: classes/WooCommerce.php:650
+msgid "Since WooCommerce is disabled, your monetized courses have been set to free. Please make sure to enable Tutor LMS monetization if you decide to re-enable WooCommerce."
+msgstr "Protože je WooCommerce zakázán, vaše zpeněžené kurzy byly nastaveny na zdarma. Pokud se rozhodnete znovu povolit WooCommerce, nezapomeňte povolit zpeněžení Tutor LMS."
+
+#: classes/Ajax.php:61 classes/Ajax.php:114 classes/Ajax.php:365
+#: classes/Ajax.php:487 classes/Ajax.php:558 classes/Course.php:448
+#: classes/Course.php:702 classes/Instructor.php:262 classes/Lesson.php:130
+#: classes/Lesson.php:174 classes/Lesson.php:231 classes/Quiz.php:145
+#: classes/Quiz.php:590 classes/Quiz.php:685 classes/Quiz.php:741
+#: classes/Quiz.php:812 classes/Quiz.php:940 classes/Quiz.php:964
+#: classes/Quiz.php:1095 classes/Quiz.php:1156 classes/Quiz.php:1183
+#: classes/Quiz.php:1269 classes/Q_and_A.php:104
+msgid "Access Denied"
+msgstr "Přístup zamítnut"
+
+#: classes/Course_List.php:121 templates/dashboard/dashboard.php:138
+msgid "Published"
+msgstr "Zveřejněno"
+
+#: templates/dashboard/settings/profile.php:76
+msgid "Profile Photo Size"
+msgstr "Rozměr profilové fotky"
+
+#: templates/dashboard/settings/profile.php:76
+msgid "200x200"
+msgstr "200x200"
+
+#: templates/dashboard/settings/profile.php:76
+#: templates/dashboard/settings/profile.php:77
+msgid "pixels"
+msgstr "pixelů"
+
+#: templates/dashboard/settings/profile.php:77
+msgid "Cover Photo Size"
+msgstr "Rozměr úvodní fotky"
+
+#: templates/dashboard/settings/profile.php:77
+msgid "700x430"
+msgstr "700x430"
+
+#: templates/dashboard/settings/profile.php:78
+msgid "Saving..."
+msgstr "Ukládání..."
+
+#: views/pages/instructors.php:191
+msgid "No instructor found"
+msgstr "Nebyl nalezen lektor"
+
+#: classes/Options_V2.php:882 templates/instructor-setting.php:9
+msgid "Instructor List Layout"
+msgstr "Rozvržení seznamu instruktorů"
+
+#: templates/instructor-setting.php:29
+msgid "Selected one will be used if layout is not defined as shortcode attribute."
+msgstr "Vybraný bude použit, pokud rozvržení není definováno jako atribut shortcode."
+
+#: templates/loop/course-in-cart.php:19
+#: templates/single/course/add-to-cart-woocommerce.php:22
+msgid "View Cart"
+msgstr "Zobrazit košík"
+
+#: templates/profile/courses_taken.php:39
+msgid "No course yet."
+msgstr "Zatím žádný kurz"
+
+#: templates/dashboard/settings/profile.php:70
+msgid "Update Cover Photo"
+msgstr "Aktualizovat úvodní fotku "
+
+#: templates/dashboard/settings/profile.php:70
+msgid "Upload Cover Photo"
+msgstr "Nahrát úvodní obrázek"
+
+#: templates/dashboard/settings/profile.php:91
+msgid "Upload Photo"
+msgstr "Nahrát fotografii"
+
+#: templates/dashboard/withdraw.php:88
+msgid "The preferred payment method is selected as %s. "
+msgstr "Preferovaná platební metoda je vybrána jako %s."
+
+#: templates/public-profile.php:128
+msgid "Courses Enrolled"
+msgstr "Zapsané kurzy"
+
+#: templates/public-profile.php:133
+msgid "Courses Completed"
+msgstr "Kurzy dokončeny"
+
+#: templates/public-profile.php:133
+msgid "Course Completed"
+msgstr "Kurz dokončen"
+
+#: templates/dashboard/my-profile.php:30 templates/public-profile.php:164
+msgid "Biography"
+msgstr "Biografie"
+
+#: classes/Tutor_Setup.php:154
+msgid "OFF"
+msgstr "Vypnout"
+
+#: classes/Tutor_Setup.php:159
+msgid "ON"
+msgstr "Zapnout"
+
+#: classes/Backend_Page_Trait.php:153 classes/Instructors_List.php:79
+#: classes/Instructors_List.php:253 classes/Instructors_List.php:290
+#: classes/Instructors_List.php:296 views/pages/withdraw_requests.php:252
+msgid "Approve"
+msgstr "Schválit"
+
+#: classes/Backend_Page_Trait.php:165 classes/Instructors_List.php:91
+#: classes/Instructors_List.php:256 classes/Instructors_List.php:293
+msgid "Block"
+msgstr "Blokovat"
+
+#: classes/Instructors_List.php:259
+msgid "Unblock"
+msgstr "Odblokovat"
+
+#: classes/Options_V2.php:864
+msgid "Keyword Search"
+msgstr "Vyhledávání podle klíčových slov"
+
+#: classes/Options_V2.php:868
+msgid "Price Type"
+msgstr "Typ ceny"
+
+#: classes/Utils.php:8845 classes/Withdraw_Requests_List.php:65
+msgid "Rejected"
+msgstr "Zamítnuto"
+
+#: views/modal/question_answer_form.php:8
+#: views/modal/question_answer_list.php:7
+msgid "No option is necessary for this answer type"
+msgstr "Pro tento typ odpovědi není nutná žádná volba"
+
+#: views/modal/edit_quiz.php:120
+msgid "Answers shown after quiz is finished"
+msgstr "Odpovědi zobrazené po dokončení kvízu"
+
+#: views/modal/edit_quiz.php:128
+msgid "Show result after the attempt."
+msgstr "Zobrazit výsledek po pokusu."
+
+#: views/pages/uninstall.php:15
+msgid "Completely Uninstall and erase all data"
+msgstr "Kompletně odinstalovat a vymazat všechna data"
+
+#: classes/Withdraw.php:214
+msgid "Insufficient balance."
+msgstr "Nedostatečný zůstatek."
+
+#: classes/Options_V2.php:861
+msgid "Preferred Course Filters"
+msgstr "Preferované filtry kurzu"
+
+#: classes/Options_V2.php:870
+msgid "Choose preferred filter options you'd like to show on the course archive page."
+msgstr "Zvolte preferované možnosti filtru, kteroé chcete zobrazit v archivu kurzů."
+
+#: templates/dashboard/withdraw.php:31
+msgid "Please contact the site administrator for more information."
+msgstr "Prosím kontaktujte administrátora webu pro více informací."
+
+#: templates/dashboard/withdraw.php:32
+msgid "Withdrawal request is pending for approval, please hold tight."
+msgstr "Požadavek na výběr čeká na schválení, prosím vyčkejte."
+
+#: templates/dashboard/withdraw.php:112
+msgid "Please check your transaction notification on your connected withdrawal method"
+msgstr "Zkontrolujte prosím své oznámení o transakci na zvolené metodě výběru"
+
+#: templates/dashboard/withdraw.php:121
+msgid "Selected Payment Method"
+msgstr "Zvolená platební metoda"
+
+#: templates/dashboard/withdraw.php:161
+msgid "Submit Request"
+msgstr "Odeslat požadavek"
+
+#: templates/dashboard/withdraw.php:179
+msgid "Withdrawal History"
+msgstr "Historie výběrů"
+
+#: templates/dashboard/assignments/submitted.php:92
+msgid "Evaluate"
+msgstr "Hodnoceno"
+
+#: views/quiz/contexts.php:86
+msgid "No"
+msgstr "Ne"
+
+#: templates/modal/confirm.php:17
+msgid "Yes"
+msgstr "Ano"
+
+#: classes/Options_V2.php:846
+msgid "Course Filter"
+msgstr "Filtr kurzů"
+
+#: classes/Options_V2.php:849
+msgid "Show sorting and filtering options on course archive page"
+msgstr "Zobrazit řazení a filtry na stránce s archivem kurzů"
+
+#: templates/dashboard.php:143
+msgid "Your Application is pending as of"
+msgstr "Vaše přihláška čeká schvální na od"
+
+#: templates/course-filter/course-archive-filter-bar.php:18
+msgid "%s Course"
+msgstr "%s Kurzů"
+
+#: templates/dashboard/withdraw.php:188
+msgid "Withdrawal Method"
+msgstr "Metoda výběru"
+
+#: templates/dashboard/instructor/logged-in.php:22
+msgid "Your application will be reviewed and the results will be sent to you by email."
+msgstr "Vaše přihláška bude zkontrolována a výsledky vám budou zaslány e-mailem."
+
+#: templates/dashboard/instructor/logged-in.php:24
+msgid "Your application has been accepted. Further necessary details have been sent to your registered email account."
+msgstr "Vaše přihláška byla přijata. Další nezbytné podrobnosti byly zaslány na váš e-mailový účet."
+
+#: templates/dashboard/instructor/logged-in.php:26
+msgid "You have been blocked from being an instructor."
+msgstr "Jako instruktor jste byl/a zablokován/a."
+
+#: templates/dashboard/instructor/logged-in.php:46
+msgid "Thank you for registering as an instructor! "
+msgstr "Děkujeme, že jste se zaregistroval jako lektor."
+
+#: templates/dashboard/instructor/logged-in.php:48
+msgid "Congratulations! You are now registered as an instructor."
+msgstr "Gratulujeme! Teď jste registrován jako lektor."
+
+#: templates/dashboard/instructor/logged-in.php:50
+msgid "Unfortunately, your instructor status has been removed."
+msgstr "Bohužel, status lektora Vám byl odebrán."
+
+#: templates/dashboard/instructor/logged-in.php:59
+msgid "We've received your application, and we will review it soon. Please hang tight!"
+msgstr "Obdrželi jsme vaši přihlášku a brzy ji zkontrolujeme. Držte se pevně!"
+
+#: templates/dashboard/instructor/logged-in.php:61
+msgid "Start building your first course today and let your eLearning journey begin."
+msgstr "Začněte budovat svůj první kurz ještě dnes a nastartujte svoji cestu eLearningem."
+
+#: templates/dashboard/instructor/logged-in.php:63
+msgid "Please contact the site administrator for further information."
+msgstr "Prosím, kontaktujte správce webu pro více informací."
+
+#: templates/dashboard/instructor/logged-in.php:70
+msgid "Go to Dashboard"
+msgstr "Přejít na Nástěnku"
+
+#: templates/single/assignment/content.php:155
+#: templates/single/assignment/content.php:466
+msgid "You have missed the submission deadline. Please contact the instructor for more information."
+msgstr "Zmeškali jste termín pro odevzdání. Prosím, kontaktujte lektora pro více informací."
+
+#: templates/course-filter/filters.php:25 views/elements/filters.php:128
+msgid "Search..."
+msgstr "Vyhledávání..."
+
+#: classes/Course_Widget.php:140 classes/Options_V2.php:865
+#: templates/course-filter/filters.php:33
+#: templates/shortcode/instructor-filter.php:53 views/elements/filters.php:81
+msgid "Category"
+msgstr "Kategorie"
+
+#: classes/Options_V2.php:866 templates/course-filter/filters.php:47
+msgid "Tag"
+msgstr "Štítek"
+
+#: classes/Options_V2.php:999 templates/course-filter/filters.php:61
+#: templates/single/course/course-entry-box.php:41
+msgid "Level"
+msgstr "Úroveň"
+
+#: classes/Withdraw.php:83
+msgid "We will use this email address to send the money to your Paypal account"
+msgstr "Použijeme tuto e-mailovou adresu k poslání peněz na váš PayPal účet"
+
+#: classes/Options_V2.php:654 classes/Options_V2.php:655
+msgid "Preferred Video Source"
+msgstr "Preferovaný zdroj videa"
+
+#: classes/Addons.php:99
+msgid "Tutor Zoom Integration"
+msgstr "Integrace Tutoru se Zoomem"
+
+#: classes/Addons.php:100
+msgid "Connect Tutor LMS with Zoom to host live online classes. Students can attend live classes right from the lesson page."
+msgstr "Propoj Tutor LMS se Zoomem a hostuj živé online kurzy. Studenti se mohou zúčastnit živých lekcí přímo ze stránky lekce."
+
+#: classes/Addons.php:103
+msgid "Google Classroom Integration"
+msgstr "Integrace s Google Classroom"
+
+#: classes/Addons.php:104
+msgid "Helps connect Google Classrooms with Tutor LMS courses, allowing you to use features like Classroom streams and files directly from the Tutor LMS course."
+msgstr "Pomáhá propojit učebny Google s kurzy Tutor LMS, což vám umožňuje používat funkce, jako jsou proudy učebny a soubory přímo z kurzu Tutor LMS."
+
+#: restapi/REST_Rating.php:45
+msgid "Course rating retrieved successfully"
+msgstr "Hodnocení kurzu bylo úspěšně načteno"
+
+#: restapi/REST_Rating.php:54
+msgid "Rating not found for given ID"
+msgstr "Hodnocení pro toto ID nebylo nalezeno"
+
+#: restapi/REST_Course.php:79 restapi/REST_Course.php:193
+#: restapi/REST_Course.php:278
+msgid "Course retrieved successfully"
+msgstr "Kurz byl úspěšně načten"
+
+#: restapi/REST_Course.php:88 restapi/REST_Course.php:287
+msgid "Course not found"
+msgstr "Kurz nebyl nalezen"
+
+#: restapi/REST_Course.php:128
+msgid "Course detail retrieved successfully"
+msgstr "Detaily kurzu byly úspěšně načteny"
+
+#: restapi/REST_Course.php:135
+msgid "Detail not found for given ID"
+msgstr "Podrobnosti pro dané ID nebyly nalezeny"
+
+#: restapi/REST_Course.php:202
+msgid "Course not found for given terms"
+msgstr "Kurz nebyl pro dané termíny nalezen"
+
+#: restapi/REST_Course.php:219
+msgid "Categories field is not an array"
+msgstr "Pole kategorií není pole"
+
+#: restapi/REST_Course.php:223
+msgid "Tags field is not an array"
+msgstr "Pole Štítky není pole"
+
+#: restapi/REST_Quiz.php:45
+msgid "Quiz retrieved successfully"
+msgstr "Quiz byl úspěšně načten"
+
+#: restapi/REST_Quiz.php:53
+msgid "Quiz not found for given ID"
+msgstr "Kvíz nebyl nalezen pro dané ID"
+
+#: restapi/REST_Quiz.php:94
+msgid "Question retrieved successfully"
+msgstr "Otázka byla úspěšně načtena"
+
+#: restapi/REST_Quiz.php:103
+msgid "Question not found for given ID"
+msgstr "Otázka pro dané ID nebyla nalezena"
+
+#: restapi/REST_Quiz.php:140
+msgid "Quiz attempts retrieved successfully"
+msgstr "Pokusy o kvíz byly úspěšně získány"
+
+#: restapi/REST_Quiz.php:148
+msgid "Quiz attempts not found for given ID"
+msgstr "Pokusy o kvíz nebyly pro dané ID nalezeny"
+
+#: restapi/REST_Author.php:35
+msgid "Author details retrieved successfully"
+msgstr "Podrobnosti o autorovi byly úspěšně načteny"
+
+#: restapi/REST_Author.php:44
+msgid "Author not found"
+msgstr "Autor nebyl nalezen"
+
+#: restapi/REST_Lesson.php:55
+msgid "Lesson retrieved successfully"
+msgstr "Lekce byla úspěšně získána"
+
+#: restapi/REST_Lesson.php:63
+msgid "Lesson not found for given topic ID"
+msgstr "Lekce nebyla nalezena pro dané téma ID"
+
+#: restapi/REST_Course_Announcement.php:38
+msgid "Announcement retrieved successfully"
+msgstr "Oznámení bylo úspěšně získáno"
+
+#: restapi/REST_Course_Announcement.php:47
+msgid "Announcement not found for given ID"
+msgstr "Oznámení pro dané ID nebylo nalezeno"
+
+#: restapi/REST_Topic.php:38
+msgid "Topic retrieved successfully"
+msgstr "Téma bylo úspěšně načteno"
+
+#: restapi/REST_Topic.php:46
+msgid "Topic not found for given ID"
+msgstr "Téma nenalezeno pro ID"
+
+#: templates/single/assignment/content.php:119
+#: templates/single/course/course-topics.php:96
+msgid "Expired"
+msgstr "Expirované"
+
+#: templates/single/course/course-topics.php:98
+msgid "Live"
+msgstr "Živě"
+
+#: classes/Instructors_List.php:256
+msgid "Sure to Block?"
+msgstr "Určitě blokovat tuto funkci?"
+
+#: classes/Instructors_List.php:259
+msgid "Sure to Un Block?"
+msgstr "Opravdu odblokovat tuto funkci?"
+
+#: classes/Instructors_List.php:270
+msgid "Sure to Remove as Instructor?"
+msgstr "Opravdu odebrat jako lektor?"
+
+#: classes/Instructors_List.php:269
+msgid "Remove as Instructor"
+msgstr "Odstranit jako lektor"
+
+#: classes/Instructors_List.php:326
+msgid "Instructor Commission"
+msgstr "Provize lektora"
+
+#: templates/single/quiz/parts/open-ended.php:11
+#: templates/single/quiz/parts/short-answer.php:11
+msgid "characters remaining"
+msgstr "zbývá znaků"
+
+#: classes/Options_V2.php:517
+msgid "Course Content Access"
+msgstr "Přístup k obsahu kurzu"
+
+#: classes/Options_V2.php:520
+msgid "Allow instructors and admins to view the course content without enrolling"
+msgstr "Povolit lektorům a administrátorům zobrazit obsah kurzu bez jeho spuštění"
+
+#: classes/Withdraw.php:258
+msgid "Withdrawal Request Sent!"
+msgstr "Žádost o výplatu odeslána!"
+
+#: templates/dashboard/dashboard.php:29
+#: templates/dashboard/notifications/profile-completion.php:10
+msgid "Complete Your Profile"
+msgstr "Dokončete váš profil"
+
+#: templates/dashboard/notifications/profile-completion.php:12
+msgid "Complete your profile so people can know more about you! Go to Profile"
+msgstr "Dokončete váš profil, aby o vás lidé více věděli! Klikněte na Profil"
+
+#: templates/dashboard/notifications/profile-completion.php:16
+msgid "Set Your"
+msgstr "Nastavte vaši"
+
+#: templates/dashboard/notifications/profile-completion.php:24
+msgid "% Complete"
+msgstr "% Hotovo"
+
+#: templates/dashboard/notifications/profile-completion.php:26
+msgid "You are almost done!"
+msgstr "Máte skoro hotovo!"
+
+#: classes/Utils.php:9347
+msgid "Withdrawals"
+msgstr "Výplaty"
+
+#: classes/Options_V2.php:1400
+msgid "Profile Completion"
+msgstr "Dokončení profilu"
+
+#: classes/Options_V2.php:1403
+msgid "Enabling this feature will show a notification bar to students and instructors to complete their profile information"
+msgstr "Zapnutím této funkce zobrazíte studentům a instruktorům panel s upozorněním na doplnění informací v jejich profilu."
+
+#: views/quiz/instructor-feedback.php:22
+msgid "Instructor Feedback"
+msgstr "Zpětná vazba instruktora"
+
+#: templates/dashboard/announcements/update.php:51
+#: views/pages/withdraw_requests.php:99 views/pages/withdraw_requests.php:248
+#: views/quiz/instructor-feedback.php:37
+msgid "Update"
+msgstr "Aktualizovat"
+
+#: views/modal/edit_quiz.php:109
+msgid "Quiz Feedback Mode"
+msgstr "Mód zpětné vazby testu"
+
+#: views/modal/edit_quiz.php:113
+msgid "Pick the quiz system\"s behaviour on choice based questions."
+msgstr "Zvolte chování systému testů s otázkami založenými na odpovědích."
+
+#: views/modal/edit_quiz.php:119
+msgid "Default"
+msgstr "Výchozí"
+
+#: views/modal/edit_quiz.php:135
+msgid "Retry Mode"
+msgstr "Opakovací mód"
+
+#: views/modal/edit_quiz.php:127
+msgid "Reveal Mode"
+msgstr "Mód odpovědí"
+
+#: views/quiz/contexts.php:12 views/quiz/contexts.php:63
+#: views/quiz/contexts.php:90
+msgid "Correct Answer"
+msgstr "Správná odpověď"
+
+#: views/quiz/contexts.php:13 views/quiz/contexts.php:64
+msgid "Incorrect Answer"
+msgstr "Špatná odpověď"
+
+#: templates/single/assignment/content.php:132
+msgid "Total Marks:"
+msgstr "Celkem bodů:"
+
+#: templates/dashboard/assignments.php:116
+#: templates/dashboard/assignments/submitted.php:96
+#: templates/instructor/cover.php:37 templates/instructor/default.php:35
+#: templates/instructor/minimal-horizontal.php:34
+#: templates/instructor/minimal.php:33
+#: templates/instructor/portrait-horizontal.php:39
+#: views/fragments/announcement-list.php:258 views/pages/students.php:137
+#: views/quiz/attempt-table.php:115 views/quiz/contexts.php:16
+msgid "Details"
+msgstr "Podrobnosti"
+
+#: views/pages/course-list.php:234
+msgid "Quiz:"
+msgstr "Test"
+
+#: views/qna/qna-table.php:153
+msgid "Delete This Question?"
+msgstr "Smazat tuto otázku?"
+
+#: templates/dashboard/question-answer/answers.php:82
+#: templates/single/lesson/comment.php:63
+#: templates/single/lesson/comment.php:110 views/qna/contexts.php:9
+#: views/qna/qna-single.php:117 views/qna/qna-single.php:130
+#: views/qna/qna-table.php:104
+msgid "Reply"
+msgstr "Odpovědět"
+
+#: views/modal/edit_quiz.php:263
+msgid "Open-Ended/Essay questions answer character limit"
+msgstr "Maximální počet znaků u otevřených otázek/esejí"
+
+#: views/modal/edit_quiz.php:267
+msgid "Students will place the answer in the Open-Ended/Essay question type within this character limit."
+msgstr "Studenti zadají odpovědi na otevřené otázky/eseje v tomto rozmezí znaků."
+
+#: templates/dashboard/settings/profile.php:168
+msgid "Display name publicly as"
+msgstr "Zobrazit jméno veřejně jako"
+
+#: templates/dashboard/settings/profile.php:181
+msgid "The display name is shown in all public fields, such as the author name, instructor name, student name, and name that will be printed on the certificate."
+msgstr "Zobrazované jméno se ukazuje ve všech veřejných polích, jako je jméno autora, jméno instruktora, jméno studenta a jméno, které bude vytištěno na certifikátu."
+
+#: classes/Course.php:1108
+msgid "Complete all lessons to mark this course as complete"
+msgstr "dokončete všechny lekce, abyste mohl/a dokončit tento kurz"
+
+#: classes/Course.php:1150
+msgid "You have to pass %s quizzes to complete this course."
+msgstr "Musíte úspěšně projít %s testů, abyste mohl/a dokončit tento kurz."
+
+#: classes/Options_V2.php:548
+msgid "Course Completion Process"
+msgstr "Stav dokončení kurzu"
+
+#: classes/Addons.php:95
+msgid "Quiz Export/Import"
+msgstr "Export/Import testu"
+
+#: classes/Addons.php:96
+msgid "Save time by exporting/importing quiz data with easy options."
+msgstr "Ušetřete čas exportem / importem dat z testů pomocí snadných možností."
+
+#: classes/Options_V2.php:633
+msgid "Final Grade Calculation"
+msgstr "Finální výpočet známky"
+
+#: classes/Tutor_Setup.php:436
+msgid "Instructor Settings"
+msgstr "Nastavení instruktorů"
+
+#: classes/Tutor_Setup.php:440
+msgid "New Signup"
+msgstr "Nová registrace"
+
+#: classes/Tutor_Setup.php:441
+msgid "Choose between open and closed instructor signup. If you’re creating a course marketplace, instructor signup should be open."
+msgstr "Zvolte si mezi otevřenou a uzavřenou registrací instruktorů. Pokud vytváříte tržiště s kurzy, registrace instruktorů by měla být otevřená."
+
+#: classes/Tutor_Setup.php:446
+msgid "Enable earning for instructors?"
+msgstr "Povolit výdělky pro instruktory?"
+
+#: classes/Tutor_Setup.php:452
+msgid "Payment Settings "
+msgstr "Nastavení plateb"
+
+#: classes/Tutor_Setup.php:456
+msgid "Guest Checkout"
+msgstr "Pokladna hosta"
+
+#: classes/Tutor_Setup.php:457
+msgid "Allow users to buy and consume content without logging in."
+msgstr "Umožněte uživatelům kupovat a užívat obsah aniž by se museli přihlásit."
+
+#: classes/Tutor_Setup.php:461 views/pages/instructors.php:119
+#: views/pages/instructors.php:160
+msgid "Commission Rate"
+msgstr "Provize"
+
+#: classes/Tutor_Setup.php:462
+msgid "Control revenue sharing between admin and instructor."
+msgstr "Mějte pod kontrolou sdílení příjmů mezi administrátorem a instruktorem."
+
+#: classes/Tutor_Setup.php:472
+msgid "Payment Withdrawal Method"
+msgstr "Způsob vyplacení"
+
+#: classes/Tutor_Setup.php:473
+msgid "Choose your preferred withdrawal method from the options."
+msgstr "Zvolte z možností svoji oblíbenou metodu výplaty."
+
+#: classes/Tutor_Setup.php:496
+msgid "Payment"
+msgstr "Platba"
+
+#: classes/Tutor_Setup.php:516
+msgid "Congratulations, you’re all set!"
+msgstr "Gratulujeme, vše je připraveno!"
+
+#: classes/Tutor_Setup.php:517
+msgid "Tutor LMS is up and running on your website! If you really want to become a Tutor LMS genius, read our <a target=\"_blank\" href=\"https://docs.themeum.com/tutor-lms/\">documentation</a> that covers everything!"
+msgstr "Tutor LMS je připravený k používání! Pokud se opravdu chcete stát přeborníkem přes Tutor LMS, přečtěte si naši <a target=\"_blank\" href=\"https://docs.themeum.com/tutor-lms/\">dokumentaci,</a> která pokrývá všechna témata!"
+
+#: classes/Tutor_Setup.php:518
+msgid "If you need further assistance, please don’t hesitate to contact us via our <a target=\"_blank\" href=\"https://www.themeum.com/contact-us/\">contact form.</a>"
+msgstr "Pokud potřebujete další asistenci, neváhejte nás kontaktovat přes náš <a target=\"_blank\" href=\"https://www.themeum.com/contact-us/\">kontaktní formulář.</a>"
+
+#: classes/Tutor_Setup.php:551 classes/Tutor_Setup.php:572
+msgid "Skip this step"
+msgstr "Přeskočit tento krok"
+
+#: classes/Tutor_Setup.php:604 classes/Tutor_Setup.php:606
+msgid "A Powerful, Smart, and Scalable LMS Solution"
+msgstr "Schopné, chytré a škálovatelné LMS řešení"
+
+#: classes/Tutor_Setup.php:608
+msgid "From individual instructors to vast eLearning platforms, Tutor LMS grows with you to create your ideal vision of an LMS website."
+msgstr "Ať už jste lektor nebo tvoříte rozsáhlou e-learningovou platfromu, Tutor LMS roste společně s vámi, tak aby vytvořil vaši vizi ideálního LMS webu."
+
+#: classes/Tutor_Setup.php:613 classes/Tutor_Setup.php:615
+msgid "Extensive Course Builder"
+msgstr "Rozsáhlý tvůrce kurzů"
+
+#: classes/Tutor_Setup.php:617
+msgid "Tutor LMS comes with a state-of-the-art frontend course builder. Construct rich and resourceful courses with ease."
+msgstr "Součástí Tutor LMS je nejmodernější nástroj pro tvorbu kurzů. Jednoduše tvořte bohaté a nápadité kurzy."
+
+#: classes/Tutor_Setup.php:622 classes/Tutor_Setup.php:624
+msgid "Advanced Quiz Creator"
+msgstr "Pokročilý tvůrce testů"
+
+#: classes/Tutor_Setup.php:626
+msgid "Build interactive quizzes with the vast selection of question types and verify the learning of your students."
+msgstr "Tvořte interaktivní kvízy s pomocí široké nabídky druhů otázek a ověřte si, co všechno se vaši studenti naučili."
+
+#: classes/Tutor_Setup.php:631 classes/Tutor_Setup.php:633
+msgid "Freedom With eCommerce"
+msgstr "Svoboda s e-commerce"
+
+#: classes/Tutor_Setup.php:635
+msgid "Select an eCommerce plugin and sell courses any way you like and use any payment gateway you want!"
+msgstr "Zvolte si e-commerce plugin a prodávejte svoje kurzy, jakkoliv chcete a přijímejte platby přes jakoukoliv platební bránu."
+
+#: classes/Tutor_Setup.php:640 classes/Tutor_Setup.php:642
+msgid "Reports and Analytics"
+msgstr "Reportování a analytika"
+
+#: classes/Tutor_Setup.php:644
+msgid "Track what type of courses sell the most! Gain insights on user purchases, manage reviews and track quiz attempts."
+msgstr "Sledujte, které druhy kurzů se prodávají nejvíce! Získejte vhled na data o nákupech uživatelů, spravujte recenze a sledujte pokusy na testech."
+
+#: classes/Tutor_Setup.php:652
+msgid "Let’s Start"
+msgstr "Začít"
+
+#: classes/Tutor_Setup.php:657
+msgid "I already know, skip it!"
+msgstr "Tohle už vím, přeskočit!"
+
+#: classes/Tutor_Setup.php:674
+msgid "Let’s get the platform up and running"
+msgstr "Pusťme se do toho a spusťme platformu"
+
+#: classes/Tutor_Setup.php:675
+msgid "Pick a category for your LMS platform. You can always update this later."
+msgstr "Zvolte si kategorii vaší LMS platformy. Tuto možnost můžete kdykoliv aktualizovat."
+
+#: classes/Tutor_Setup.php:688
+msgid "Individual"
+msgstr "Jednotlivec"
+
+#: classes/Tutor_Setup.php:708
+msgid "Marketplace"
+msgstr "Tržiště"
+
+#: classes/Tutor_Setup.php:709
+msgid "Create an eLearning platform to let anyone earn by teaching online"
+msgstr "Chci vytvořit e-learningovou platformu, kde může učit kdokoliv"
+
+#: classes/Tutor_Setup.php:741
+msgid "Tutor &rsaquo; Setup Wizard"
+msgstr "Tutor &rsaquo; Průvodce nastavením"
+
+#: classes/Tools.php:90 classes/Tools_V2.php:317
+msgid "Setup Wizard"
+msgstr "Průvodce nastavením"
+
+#: classes/Withdraw.php:77
+msgid "PayPal"
+msgstr "Paypal"
+
+#: classes/Tutor_Setup.php:122
+msgid "Reset Default"
+msgstr "Resetovat do výchozího nastavení"
+
+#: classes/Instructors_List.php:47 classes/Options_V2.php:470
+#: classes/Tutor_Setup.php:287 classes/Tutor_Setup.php:495
+#: classes/Utils.php:9327 templates/dashboard/question-answer.php:46
+msgid "Instructor"
+msgstr "Lektor"
+
+#: classes/Tutor_Setup.php:292
+msgid "Admin / Owner"
+msgstr "Administrátor/Vlastník"
+
+#: classes/Tutor_Setup.php:398
+msgid "Allow users to have a student profile to showcase awards and completed courses."
+msgstr "Umožnit uživatelům mít veřejný profil, aby mohli ukázat svá ocenění a dokončené kurzy."
+
+#: classes/Tutor_Setup.php:414
+msgid "Show Instructor Bio"
+msgstr "Zobrazit životopis instruktora"
+
+#: classes/Tutor_Setup.php:415
+msgid "Let the students know the instructor(s). Display their credentials, professional experience, and more."
+msgstr "Umožněte studentům seznámit se s lekorem nebo lektory. Zobrazte jejich jméno, profesní zkušenosti a další."
+
+#: classes/Tutor_Setup.php:419
+msgid "Question and Anwser"
+msgstr "Otázky a odpovědi"
+
+#: classes/Tutor_Setup.php:420
+msgid "Allows a Q&A forum on each course."
+msgstr "Povolí Otázky a odpovědi u každého kurzu"
+
+#: classes/Tutor_Setup.php:424
+msgid "Courses Per Row"
+msgstr "Kurzů na řádek"
+
+#: classes/Tutor_Setup.php:425
+msgid "How many courses per row on the archive pages."
+msgstr "Kolik kurzů na řádku v archivu kurzů"
+
+#: classes/Tutor_Setup.php:430
+msgid "How many courses per page on the archive pages."
+msgstr "Kolik kurzů na stránce s archivem kurzů?"
+
+#: templates/loop/add-to-cart-edd.php:17
+msgid "Purchase"
+msgstr "Zakoupit"
+
+#: templates/dashboard/withdraw.php:44
+msgid "Withdrawal"
+msgstr "Vybrat"
+
+#: classes/Instructors_List.php:265
+#: templates/dashboard/announcements/details.php:33
+#: templates/dashboard/reviews/given-reviews.php:78
+#: templates/single/assignment/content.php:489
+#: views/fragments/announcement-list.php:132
+#: views/fragments/announcement-list.php:270 views/modal/edit_quiz.php:49
+#: views/options/field-types/toggle_switch_button_thumb.php:22
+#: views/pages/course-list.php:325 views/pages/instructors.php:183
+msgid "Edit"
+msgstr "Upravit"
+
+#: templates/dashboard/settings/reset-password.php:21
+msgid "Current Password"
+msgstr "Současné heslo"
+
+#: classes/Options_V2.php:1348
+msgid "Hide Course Products on Shop Page"
+msgstr "Skrýt produkty kurzu ze stránky obchodu"
+
+#: classes/Options_V2.php:583
+msgid "Automatically Load Next Course Content."
+msgstr "Automaticky načíst další obsah kurzu."
+
+#: classes/Options_V2.php:1015 templates/single/course/course-entry-box.php:27
+#: templates/single/course/course-entry-box.php:28
+msgid "Duration"
+msgstr "Trvání"
+
+#: classes/Addons.php:35
+msgid "BuddyPress"
+msgstr "BuddyPress"
+
+#: classes/Addons.php:59
+msgid "Restrict Content Pro"
+msgstr "Omezit obsah Pro"
+
+#: classes/Tutor_Setup.php:547 classes/Tutor_Setup.php:568
+#: templates/single/common/footer.php:23
+#: templates/single/next-previous-pagination.php:18
+msgid "Previous"
+msgstr "Předchozí"
+
+#: classes/Options_V2.php:1432
+msgid "Maintenance Mode"
+msgstr "Mód údržby"
+
+#: classes/Options_V2.php:1435
+msgid "Enabling the maintenance mode allows you to display a custom message on the frontend. During this time, visitors can not access the site content. But the wp-admin dashboard will remain accessible."
+msgstr "Zapnutím módu údržby umožníte zobrazení vlastní zprávy na frontendu. Během této doby návštěvníci nemohou používat obsah stránky, ale nástěnka wp-admin bude stále přístupná."
+
+#: classes/Options_V2.php:1016 classes/Options_V2.php:1088
+msgid "Disable"
+msgstr "Zakázat"
+
+#: templates/template-part/form-retrieve-password.php:18
+msgid "Enter Password and Confirm Password to reset your password"
+msgstr "Zadejte heslo a potvďte jej pro obnovení hesla"
+
+#: templates/template-part/form-retrieve-password.php:34
+msgid "Confirm Password"
+msgstr "Potvrdit heslo"
+
+#: templates/template-part/form-retrieve-password.php:47
+#: templates/template-part/form-retrieve-password.php:48
+#: templates/template-part/retrieve-password.php:42
+#: templates/template-part/retrieve-password.php:43
+msgid "Reset password"
+msgstr "Obnovit heslo"
+
+#: templates/template-part/retrieve-password.php:23
+msgid "Lost your password? Please enter your username or email address. You will receive a link to create a new password via email."
+msgstr "Ztratilo se vám heslo? Prosím, zadejte své uživatelské jméno nebo emailovou adresu. Dostanete na ni odkaz a vytvoříte si nové heslo přes e-mail."
+
+#: templates/template-part/retrieve-password.php:28
+msgid "Username or email"
+msgstr "Uživatelské jméno nebo e-mail"
+
+#: templates/email/send-reset-password.php:11
+msgid "Hi %s,"
+msgstr "Zdravím %s,"
+
+#: templates/email/send-reset-password.php:13
+msgid "Someone has requested a new password for the following account on %s:"
+msgstr "Někdo požádal o vytvoření nového hesla pro následující účet: %s"
+
+#: templates/email/send-reset-password.php:15
+msgid "Username: %s"
+msgstr "Uživatelské jméno: %s"
+
+#: templates/email/send-reset-password.php:16
+msgid "If you didn't make this request, just ignore this email. If you'd like to proceed:"
+msgstr "Pokud jste tuto žádost neučinil/a vy, můžete tento e-mail ignorovat. Pokud si přejete pokračovat:"
+
+#: templates/email/send-reset-password.php:19
+msgid "Click here to reset your password"
+msgstr "Klikněte zde pro obnovení hesla"
+
+#: templates/email/send-reset-password.php:22
+msgid "Thanks for reading."
+msgstr "Děkujeme za přečtení."
+
+#: views/pages/instructors.php:273
+msgid "Email Address"
+msgstr "E-mailová adresa"
+
+#: classes/Ajax.php:432
+msgid "Username is required."
+msgstr "Je vyžadováno uživatelské jméno"
+
+#: classes/FormHandler.php:34
+msgid "Enter a username or email address."
+msgstr "Zadejte uživatelské jméno nebo e-mailovou adresu."
+
+#: classes/FormHandler.php:56 classes/FormHandler.php:61
+msgid "Invalid username or email."
+msgstr "Neplatné uživatelské jméno nebo e-mail"
+
+#: classes/FormHandler.php:73
+msgid "Password reset is not allowed for this user"
+msgstr "Obnovení hesla není povoleno pro tohoto uživatele"
+
+#: classes/FormHandler.php:90
+msgid "Check your E-Mail"
+msgstr "Zkontrolujte svůj e-mail"
+
+#: classes/FormHandler.php:91
+msgid "We've sent an email to this account's email address. Click the link in the email to reset your password"
+msgstr "Poslali jsme e-mail na vaši e-mailovou adresu. Klikněte na odkaz v e-mailu a obnovte své heslo."
+
+#: classes/FormHandler.php:92
+msgid "If you don't see the email, check other places it might be, like your junk, spam, social, promotion or others folders."
+msgstr "Pokud nevidíte e-mail, zkontrolujte další složky, ve kterých by mohl být jako je spam, sociální sítě, obchodní nabídky apod."
+
+#: classes/FormHandler.php:112
+msgid "This key is invalid or has already been used. Please reset your password again if needed."
+msgstr "Klíč je neplatný nebo již byl použit. Prosím znovu obnovte své heslo, pokud je to třeba."
+
+#: classes/FormHandler.php:118
+msgid "Please enter your password."
+msgstr "Prosím, zadejte své heslo."
+
+#: classes/FormHandler.php:123
+msgid "Passwords do not match."
+msgstr "Hesla se neshodují"
+
+#: classes/FormHandler.php:164
+msgid "Password Reset Request for %s"
+msgstr "Žádost o reset hesla pro %s"
+
+#: classes/Utils.php:2774
+msgid "Retrieve Password"
+msgstr "Získat heslo"
+
+#: classes/Admin.php:111 views/options/tools.php:11 views/pages/tools.php:2
+msgid "Tools"
+msgstr "Nástroje"
+
+#: classes/Admin.php:166 classes/Tools_V2.php:305
+#: views/options/template/tutor_pages.php:5
+msgid "Tutor Pages"
+msgstr "Tutor stránky"
+
+#: templates/dashboard/announcements/details.php:32
+#: templates/dashboard/reviews/given-reviews.php:83
+#: templates/dashboard/settings/profile.php:94
+#: views/fragments/announcement-list.php:129
+#: views/fragments/announcement-list.php:276 views/modal/edit_quiz.php:55
+#: views/options/template/import_export.php:96 views/qna/qna-single.php:63
+#: views/qna/qna-table.php:133
+msgid "Delete"
+msgstr "Smazat"
+
+#: views/options/template/tutor_pages.php:20
+#: views/pages/tools/tutor_pages.php:10
+msgid "Page Name"
+msgstr "Jméno stránky"
+
+#: views/pages/tools/tutor_pages.php:37 views/pages/tools/tutor_pages.php:91
+msgid " Page not set"
+msgstr "Stránka není nastavena"
+
+#: views/pages/tools/tutor_pages.php:44
+msgid " Page deleted, please set new one"
+msgstr "Stránka byla smazána, prosím vytvořte novou"
+
+#: views/pages/tools/tutor_pages.php:51
+msgid "Page visibility is not public"
+msgstr "Viditelnost stránky není nastavena jako veřejná"
+
+#: views/options/template/tutor_pages.php:68
+#: views/pages/tools/tutor_pages.php:103
+msgid "Re-Generate Tutor Pages"
+msgstr "Znovu vygenerovat Tutor stránky"
+
+#: views/options/template/tutor_pages.php:8
+#: views/pages/tools/tutor_pages.php:111
+msgid "Note: This tool will install all the missing Tutor pages. Pages already defined and set up will not be replaced."
+msgstr "Poznámka: Tento nástroj nainstaluje všechny chybějící Tutor stránky. Stránky, které již jsou nadefinovány a nastaveny nebudou nahrazeny."
+
+#: templates/single/quiz/top.php:72 views/quiz/contexts.php:59
+#: views/quiz/header-context/course-single-previous-attempts.php:28
+#: views/quiz/header-context/frontend-dashboard-my-attempts.php:19
+#: views/quiz/header-context/frontend-dashboard-students-attempts.php:24
+msgid "Quiz Time"
+msgstr "Čas na test"
+
+#: classes/Course_Widget.php:150
+msgid "OrderBy"
+msgstr "Seřadit podle"
+
+#: views/pages/uninstall.php:10
+msgid "Just deactivate tutor plugin or completely uninstall and erase all of data saved before by tutor."
+msgstr "Stačí deaktivovat Tutor plugin nebo ho úplně odinstalovat a vymazat všechna data uložená přes Tutor"
+
+#: views/quiz/contexts.php:60
+#: views/quiz/header-context/frontend-dashboard-my-attempts.php:22
+#: views/quiz/header-context/frontend-dashboard-students-attempts.php:27
+msgid "Attempt Time"
+msgstr "Doba trvání pokusu"
+
+#: classes/Course_Widget.php:165
+msgid "Order"
+msgstr "pořadí"
+
+#: classes/Tutor_Setup.php:339
+msgid "Unlimited"
+msgstr "Neomezené "
+
+#: classes/Utils.php:9398 templates/dashboard/question-answer.php:36
+#: templates/single/course/enrolled/question_and_answer.php:22
+#: views/pages/question_answer.php:41
+msgid "Question & Answer"
+msgstr "Otázky a odpovědi"
+
+#: classes/Course_Widget.php:175
+msgid "Count:"
+msgstr "Počet"
+
+#: classes/Options_V2.php:425 classes/Utils.php:7544
+msgid "Dashboard Page"
+msgstr "Nástěnka"
+
+#: views/pages/add_new_instructor.php:3 views/pages/add_new_instructor.php:138
+msgid "Add new instructor"
+msgstr "Přidat nového lektora"
+
+#: views/quiz/attempt-details.php:280
+msgid "Quiz Overview"
+msgstr "Přehled testu"
+
+#: classes/Course_Widget.php:178
+msgid "Total results you like to show"
+msgstr "Celkové výsledky, které chcete zobrazit"
+
+#: classes/Options_V2.php:428
+msgid "This page will be used for student and instructor dashboard"
+msgstr "Tato stránka bude použita jako nástěnka pro studenty a instruktory"
+
+#: views/pages/answer.php:29
+msgid "Write an answer here"
+msgstr "Zde napište svou odpověď"
+
+#: views/quiz/contexts.php:87
+msgid "Type"
+msgstr "Typ"
+
+#: views/pages/answer.php:33
+msgid "Place answer"
+msgstr "Napište odpověď"
+
+#: views/pages/answer.php:63
+msgid "on"
+msgstr "zapnuto"
+
+#: classes/Quiz.php:819 views/metabox/course-topics.php:48
+#: views/qna/contexts.php:8 views/quiz/contexts.php:10
+#: views/quiz/contexts.php:58
+msgid "Question"
+msgstr "Otázka"
+
+#: views/pages/addons.php:7
+msgid "Tutor Add-ons"
+msgstr "Tutor Add-ony"
+
+#: views/quiz/contexts.php:89
+msgid "Given Answer"
+msgstr "Odeslané odpovědi"
+
+#: views/pages/addons.php:13
+msgid "Plugins"
+msgstr "Pluginy"
+
+#: views/pages/addons.php:14
+msgid "Themes"
+msgstr "Šablony"
+
+#: classes/Ajax.php:258
+msgid "Course removed from wish list"
+msgstr "Kurz byl odstraněn ze seznamu přání"
+
+#: views/pages/addons.php:36
+msgid "Last checked %1$s ago, It will check again after %2$s from now"
+msgstr "Naposledy zkontrolováno před %1$s, další kontrola proběhne za %2$s"
+
+#: classes/Utils.php:8829 views/quiz/attempt-details.php:614
+msgid "Correct"
+msgstr "Správně"
+
+#: classes/Ajax.php:266
+msgid "Course added to wish list"
+msgstr "Kurz byl přidán na seznam přání"
+
+#: classes/Options_V2.php:509
+msgid "Course Visibility"
+msgstr "Viditelnost kurzu"
+
+#: templates/loop/add-to-cart-edd.php:17 views/pages/addons.php:59
+msgid "Buy Now"
+msgstr "Koupit nyní"
+
+#: classes/Instructor.php:171 classes/Template.php:248
+msgid "Permission denied"
+msgstr "Přístup zamítnut"
+
+#: views/pages/addons.php:87 views/pages/addons.php:93
+msgid "No %s currently avaialable"
+msgstr "Momentálně nejsou dostupné žádné %s"
+
+#: views/quiz/attempt-details.php:622
+msgid "Incorrect"
+msgstr "Nesprávně"
+
+#: classes/Admin.php:291 templates/dashboard/create-course.php:33
+#: templates/permission-denied.php:32
+#: templates/single/lesson/required-enroll.php:5
+msgid "Permission Denied"
+msgstr "Přístup zamítnut"
+
+#: classes/Options_V2.php:512
+msgid "Students must be logged in to view course"
+msgstr "Studenti musí být přihlášení, aby si zobrazili tento kurz"
+
+#: views/modal/question_answer_list.php:48
+#: views/modal/question_answer_list.php:54 views/quiz/attempt-details.php:633
+msgid "Mark as correct"
+msgstr "Označit jako správné"
+
+#: classes/Options_V2.php:1424
+msgid "Erase upon uninstallation"
+msgstr "Smazat po odinstalování"
+
+#: views/pages/get-pro.php:2
+msgid "Get pro plugin from themeum.com"
+msgstr "Stáhnětě si pro verzi pluginu z themeum.com"
+
+#: views/quiz/attempt-details.php:636
+msgid "Mark as In correct"
+msgstr "Označit jako nesprávné"
+
+#: classes/Options_V2.php:1427
+msgid "Delete all data during uninstallation"
+msgstr "Smazat všechna data během odinstalace"
+
+#: views/pages/instructors.php:223
+msgid "Add New Instructor"
+msgstr "Přidat nového lektora"
+
+#: classes/WooCommerce.php:175
+msgid "For Tutor"
+msgstr "Pro Tutor"
+
+#: classes/Options_V2.php:540
+msgid "Spotlight mode"
+msgstr "Režim nevyrušovaného psaní"
+
+#: classes/Course.php:846 classes/Options_V2.php:867
+#: views/metabox/course-level-metabox.php:10
+msgid "Difficulty Level"
+msgstr "Úroveň obtížnosti"
+
+#: classes/Course_Widget.php:122 views/options/template/tutor_pages.php:17
+#: views/pages/tools/tutor_pages.php:9
+msgid "ID"
+msgstr "ID"
+
+#: classes/WooCommerce.php:176
+msgid "This checkmark ensure that you will sell a specif course via this product."
+msgstr "Toto pole zajišťuje, že budete přes tento prokukt prodávat konkrétní kurz"
+
+#: classes/Options_V2.php:543
+msgid "This will hide the header and the footer and enable spotlight (full screen) mode when students view lessons."
+msgstr "Tato možnost skryje záhlaví a zápatí a povolí režim celé obrazovky, když si studenti zobrazují lekce."
+
+#: views/fragments/attachments.php:36
+msgid "Upload Attachments"
+msgstr "Nahrát přílohy"
+
+#: classes/Admin.php:85 classes/Course_List.php:43 classes/Post_types.php:56
+#: classes/Tutor_List_Table.php:1333 templates/archive-course-init.php:115
+#: templates/dashboard/announcements.php:87
+#: templates/dashboard/assignments.php:40
+#: templates/dashboard/elements/filters.php:20
+#: templates/instructor/cover.php:33 templates/instructor/default.php:31
+#: templates/instructor/minimal-horizontal.php:30
+#: templates/instructor/minimal.php:29
+#: templates/instructor/portrait-horizontal.php:35
+#: templates/public-profile.php:109 templates/public-profile.php:170
+msgid "Courses"
+msgstr "Kurzy"
+
+#: classes/TutorEDD.php:106 classes/WooCommerce.php:201
+msgid "Add Product"
+msgstr "Přidat produkt"
+
+#: views/metabox/video-metabox.php:48
+msgid "Course Intro Video"
+msgstr "Úvodní video do kurzu"
+
+#: classes/WooCommerce.php:346
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: views/metabox/video-metabox.php:50
+msgid "Video Source"
+msgstr "Zdroj videa"
+
+#: classes/Tutor.php:556 classes/Utils.php:9370 templates/dashboard.php:51
+#: templates/dashboard/dashboard.php:123
+msgid "Dashboard"
+msgstr "Nástěnka"
+
+#: classes/Course_Settings_Tabs.php:32 classes/Options_V2.php:411
+#: classes/TutorEDD.php:73 classes/Tutor_Setup.php:493
+msgid "General"
+msgstr "Obecné"
+
+#: classes/Options_V2.php:1302
+msgid "Video Player"
+msgstr "Vimeo přehrávač"
+
+#: views/metabox/video-metabox.php:66
+msgid "Select Video Source"
+msgstr "Zvolte zdroj videa"
+
+#: templates/loop/course-price-edd.php:28
+#: templates/loop/course-price-woocommerce.php:22
+#: templates/loop/course-price.php:16
+msgid "Enroll Course"
+msgstr "Zapsané kurzy"
+
+#: classes/Options_V2.php:463
+msgid "Pagination"
+msgstr "Stránkování"
+
+#: classes/Utils.php:9451
+msgid "HTML 5 (mp4)"
+msgstr "HTML 5 (mp4)"
+
+#: classes/Utils.php:9455
+msgid "External URL"
+msgstr "Externí URL"
+
+#: classes/Options_V2.php:1341
+msgid "Gutenberg Editor"
+msgstr "Editor Gutenberg"
+
+#: classes/Utils.php:9459
+msgid "Youtube"
+msgstr "YouTube"
+
+#: templates/dashboard/dashboard.php:194
+msgid "Total Students"
+msgstr "Celkem studentů"
+
+#: classes/Utils.php:9463
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: templates/dashboard/dashboard.php:207 views/pages/instructors.php:115
+msgid "Total Courses"
+msgstr "Celkem kurzů"
+
+#: templates/dashboard/question-answer/answers.php:12
+#: views/modal/question_answer_list.php:26 views/pages/answer.php:9
+#: views/quiz/contexts.php:91
+msgid "Answer"
+msgstr "Odpověď"
+
+#: classes/Utils.php:9467
+msgid "Embedded"
+msgstr "Vložit"
+
+#: templates/dashboard/dashboard.php:220
+msgid "Total Earnings"
+msgstr "Celkové příjmy"
+
+#: classes/Instructor.php:67 classes/Instructor.php:190 classes/Student.php:56
+msgid "First name field is required"
+msgstr "Musíte zadat křestní jméno"
+
+#: classes/Instructor.php:68 classes/Instructor.php:191 classes/Student.php:57
+msgid "Last name field is required"
+msgstr "Musíte zadat příjmení"
+
+#: templates/dashboard/dashboard.php:336
+#: templates/dashboard/purchase_history.php:84
+msgid "Course Name"
+msgstr "Název kurzu"
+
+#: classes/Instructor.php:69 classes/Instructor.php:192 classes/Student.php:58
+msgid "E-Mail field is required"
+msgstr "Musíte zadat e-mail"
+
+#: views/metabox/video-metabox.php:82
+msgid "File Format: "
+msgstr "Typ souboru:"
+
+#: templates/dashboard/dashboard.php:339
+msgid "Enrolled"
+msgstr "Zapsáno"
+
+#: classes/Instructor.php:70 classes/Instructor.php:193 classes/Student.php:59
+msgid "User Name field is required"
+msgstr "Musíte zadat uživatelské jméno"
+
+#: views/qna/qna-single.php:56 views/qna/qna-single.php:58
+#: views/qna/qna-table.php:117
+msgid "Archive"
+msgstr "Archív"
+
+#: templates/dashboard/instructor/registration.php:76
+#: templates/dashboard/instructor/registration.php:79
+#: templates/dashboard/registration.php:73
+#: templates/dashboard/registration.php:76
+#: templates/dashboard/settings/profile.php:134
+#: views/pages/add_new_instructor.php:56 views/pages/add_new_instructor.php:62
+msgid "User Name"
+msgstr "Uživatelské jméno"
+
+#: classes/Instructor.php:71 classes/Instructor.php:195 classes/Student.php:60
+msgid "Password field is required"
+msgstr "Musíte zadat heslo"
+
+#: classes/Instructors_List.php:324
+#: templates/dashboard/instructor/registration.php:86
+#: templates/dashboard/instructor/registration.php:89
+#: templates/dashboard/registration.php:83
+#: templates/dashboard/registration.php:86
+#: views/pages/add_new_instructor.php:69 views/pages/add_new_instructor.php:75
+msgid "E-Mail"
+msgstr "E-mail"
+
+#: classes/Instructor.php:72 classes/Student.php:61
+msgid "Password Confirmation field is required"
+msgstr "Musíte potvrdit heslo"
+
+#: classes/Options_V2.php:1355
+msgid "Course Archive Page"
+msgstr "Stránka archivu kurzů"
+
+#: templates/dashboard/instructor/registration.php:109
+#: templates/dashboard/registration.php:106
+#: views/pages/add_new_instructor.php:108
+msgid "Password confirmation"
+msgstr "Potvrzení hesla"
+
+#: classes/Instructor.php:94 classes/Instructor.php:208 classes/Student.php:84
+msgid "Valid E-Mail is required"
+msgstr "Musíte zadat platný e-mail"
+
+#: classes/Options_V2.php:1358
+msgid "This page will be used to list all the published courses."
+msgstr "Tato stránka bude použita k vypsání všech zveřejněných kurzů."
+
+#: templates/dashboard/instructor/registration.php:112
+#: templates/dashboard/registration.php:109
+#: views/pages/add_new_instructor.php:114
+msgid "Password Confirmation"
+msgstr "Potvrzení hesla"
+
+#: classes/Options_V2.php:833
+msgid "Column Per Row"
+msgstr "Sloupců v řadě"
+
+#: templates/dashboard/registration.php:140
+msgid "Register"
+msgstr "Registrovat se"
+
+#: classes/Student.php:252
+msgid "Incorrect Previous Password"
+msgstr "Nesprávné předchozí heslo"
+
+#: classes/Options_V2.php:841
+msgid "Define how many columns you want to use to display courses."
+msgstr "Nastavte kolik sloupců chcete používat k zobrazování kurzů."
+
+#: templates/dashboard/logged-in.php:9
+msgid "You are already logged in"
+msgstr "Již jste přihlášen/a"
+
+#: classes/Student.php:255
+msgid "New Password Required"
+msgstr "Nové heslo je požadováno"
+
+#: classes/Options_V2.php:854 classes/Tutor_Setup.php:429
+msgid "Courses Per Page"
+msgstr "Kurzů na stránku"
+
+#: views/pages/course-list.php:241
+msgid "Assignment:"
+msgstr "Úkol:"
+
+#: classes/Student.php:258
+msgid "Confirm Password Required"
+msgstr "Potvrzení hesla je vyžadováno"
+
+#: views/metabox/video-metabox.php:129
+msgid "Place your embedded code here"
+msgstr "Zde vložte váš kód pro vložení"
+
+#: templates/dashboard/assignments/review.php:57
+#: templates/dashboard/assignments/submitted.php:73
+#: templates/dashboard/question-answer.php:44
+#: templates/dashboard/reviews.php:55 templates/public-profile.php:116
+#: views/elements/search-filter.php:31 views/qna/contexts.php:7
+#: views/quiz/header-context/frontend-dashboard-students-attempts.php:21
+msgid "Student"
+msgstr "Student"
+
+#: classes/Student.php:261
+msgid "New password and confirm password does not matched"
+msgstr "Nové heslo a potvrzení hesla nesouhlasí."
+
+#: classes/Options_V2.php:821
+msgid "Design Settings"
+msgstr "Nastavení lekce"
+
+#: views/metabox/video-metabox.php:138
+msgid "Video playback time"
+msgstr "Čas spuštění videa"
+
+#: classes/Taxonomies.php:25 classes/Taxonomies.php:101
+#: classes/Taxonomies.php:213
+msgid "Thumbnail"
+msgstr "Náhled"
+
+#: classes/Taxonomies.php:29 classes/Taxonomies.php:108
+msgid "Upload/Add image"
+msgstr "Nahrát/přidat obrázek"
+
+#: classes/Taxonomies.php:30 classes/Taxonomies.php:109
+msgid "Remove image"
+msgstr "Odstranit obrázek"
+
+#: classes/Taxonomies.php:54 classes/Taxonomies.php:133
+msgid "Choose an image"
+msgstr "Vybrat obrázek"
+
+#: classes/Options_V2.php:1379
+msgid "Lesson Permalink Base"
+msgstr "Trvalý odkaz na lekci"
+
+#: classes/Course_Widget.php:115 views/pages/course-list.php:158
+msgid "Title"
+msgstr "Nadpis"
+
+#: classes/Taxonomies.php:56 classes/Taxonomies.php:135
+msgid "Use image"
+msgstr "Použít obrázek"
+
+#: classes/Taxonomies.php:193
+msgid "Image"
+msgstr "Obrázek"
+
+#: views/modal/edit_quiz.php:79
+msgid "Time Limit"
+msgstr "Časový limit"
+
+#: classes/Course.php:201 classes/Course.php:259
+msgid "Course Builder"
+msgstr "Tvůrce kurzů"
+
+#: templates/dashboard/announcements.php:69
+#: views/fragments/announcement-list.php:324 views/pages/announcements.php:93
+msgid "Create Announcement"
+msgstr "Smazat oznámení"
+
+#: templates/dashboard/assignments.php:83
+msgid "Total Submit"
+msgstr "Celkem odevzdáno"
+
+#: classes/Course.php:203 classes/Course.php:262
+msgid "Additional Data"
+msgstr "Doplňující data"
+
+#: templates/single/quiz/top.php:68 views/modal/edit_quiz.php:92
+msgid "Weeks"
+msgstr "Týdny"
+
+#: views/metabox/user-profile-fields.php:1
+msgid "Tutor Fields"
+msgstr "Oblasti lektora"
+
+#: classes/Course.php:205 classes/Course.php:256 classes/Options_V2.php:646
+msgid "Video"
+msgstr "Video"
+
+#: templates/single/quiz/top.php:67 views/modal/edit_quiz.php:91
+msgid "Days"
+msgstr "Dny"
+
+#: views/metabox/user-profile-fields.php:13
+msgid "Job Title"
+msgstr "Pracovní pozice"
+
+#: classes/Admin.php:94
+msgid "Instructors"
+msgstr "Lektoři"
+
+#: templates/single/quiz/top.php:66 views/modal/edit_quiz.php:90
+msgid "Hours"
+msgstr "Hodiny"
+
+#: views/metabox/user-profile-fields.php:20
+msgid "Profile Bio"
+msgstr "Popis profilu"
+
+#: templates/dashboard/assignments/review.php:78
+msgid "Assignment Description:"
+msgstr "Popis úkolu"
+
+#: classes/Admin.php:97 classes/Announcements.php:43
+#: classes/Options_V2.php:1095 classes/Utils.php:9076 classes/Utils.php:9342
+#: views/fragments/announcement-list.php:201
+msgid "Announcements"
+msgstr "Oznámení"
+
+#: templates/single/quiz/top.php:65 views/modal/edit_quiz.php:89
+msgid "Minutes"
+msgstr "Minuty"
+
+#: views/metabox/user-profile-fields.php:32
+msgid "Write a little bit more about you, it will show publicly."
+msgstr "Napište něco málo o sobě. Tyto inforamce budou zobrazeny veřejně."
+
+#: templates/dashboard/assignments/review.php:88
+msgid "Attach assignment file(s)"
+msgstr "Připojit soubory k úkolu"
+
+#: templates/single/quiz/top.php:64 views/modal/edit_quiz.php:88
+msgid "Seconds"
+msgstr "Sekundy"
+
+#: views/metabox/user-profile-fields.php:49
+msgid "Upload"
+msgstr "Nahrát"
+
+#: templates/dashboard/assignments/review.php:125
+msgid "Evaluation"
+msgstr "Vyhodnocení"
+
+#: classes/Course.php:483 classes/Post_types.php:179
+msgid "Lessons"
+msgstr "Lekce"
+
+#: classes/Options_V2.php:606
+msgid "When time expires"
+msgstr "Po uplynutí časového limitu"
+
+#: classes/Course.php:571
+msgid "Please Sign In first"
+msgstr "Prosím, nejprve se přihlašte"
+
+#: classes/Options_V2.php:610
+msgid "The current quiz answers are submitted automatically."
+msgstr "Aktuální odpovědi jsou zasílány automaticky."
+
+#: views/modal/topic-form.php:17
+msgid "Topic Name"
+msgstr "Jméno tématu"
+
+#: classes/Options_V2.php:612
+msgid "Attempts must be submitted before time expires, otherwise they will not be counted"
+msgstr "Pokusy o složení testu musí být odeslány předtím než vyprší čas, jinak se nebudou počítat"
+
+#: classes/Addons.php:39
+msgid "Gradebook"
+msgstr "Známky"
+
+#: classes/Options_V2.php:614
+msgid "Choose which action to follow when the quiz time expires."
+msgstr "Zvolte, co se stane, když vyprší časový limit na test."
+
+#: views/modal/topic-form.php:26
+msgid "Topic Summary"
+msgstr "Shrnutí tématu"
+
+#: templates/dashboard/assignments/review.php:149
+msgid "Evaluate this submission"
+msgstr "Vyhodnotit tento úkol"
+
+#: classes/Addons.php:43
+msgid "Content Drip"
+msgstr "Content Drip"
+
+#: views/modal/edit-lesson.php:39
+msgid "The idea of a summary is a short text to prepare students for the activities within the topic or week. The text is shown on the course page under the topic name."
+msgstr "Shrnutí je krátký text, který připraví studenty na aktivity v tématu nebo týdnu. Text je zobrazen na stránce kurzu pod jménem tématu."
+
+#: templates/dashboard/assignments/review.php:157
+msgid "Assignments submission not found or not completed"
+msgstr "Nebyly nalezeny nebo dokončeny zaslané úkoly"
+
+#: views/metabox/course-contents.php:68 views/metabox/course-contents.php:75
+msgid "Update Topic"
+msgstr "Aktualizovat téma"
+
+#: templates/dashboard/reviews/edit-review-form.php:16
+#: templates/dashboard/reviews/given-reviews.php:117
+#: templates/single/course/reviews.php:164
+msgid "write a review"
+msgstr "napsat hodnocení"
+
+#: classes/Addons.php:51
+msgid "WooCommerce Subscriptions"
+msgstr "Odebírání WooCommerce"
+
+#: templates/dashboard/reviews/edit-review-form.php:19
+#: templates/dashboard/reviews/given-reviews.php:124 views/modal/review.php:36
+msgid "Update Review"
+msgstr "Aktualizovat hodnocení"
+
+#: classes/Addons.php:55
+msgid "Paid Memberships Pro"
+msgstr "Paid Memberships Pro"
+
+#: classes/Options_V2.php:637
+msgid "Highest Grade"
+msgstr "Nejvyšší známka"
+
+#: classes/Addons.php:63
+msgid "Tutor Assignments"
+msgstr "Úkoly od lektora"
+
+#: classes/Options_V2.php:638
+msgid "Average Grade"
+msgstr "Průměrná známka"
+
+#: classes/Addons.php:67
+msgid "Tutor Certificate"
+msgstr "Tutor Certifikáty"
+
+#: classes/Options_V2.php:639
+msgid "First Attempt"
+msgstr "První pokus"
+
+#: templates/dashboard/create-course.php:80
+msgid "Preview"
+msgstr "Náhled"
+
+#: classes/Addons.php:71
+msgid "Tutor Course Attachments"
+msgstr "Tutor Přílohy ke kurzům"
+
+#: classes/Options_V2.php:640
+msgid "Last Attempt"
+msgstr "Poslední pokus"
+
+#: classes/Addons.php:75
+msgid "Tutor Course Preview"
+msgstr "Tutor Náhled kurzů"
+
+#: classes/Options_V2.php:634
+msgid "When multiple attempts are allowed, select which method should be used to calculate a student's final grade for the quiz."
+msgstr "Která metoda má být použita pro výpočet finální známky, pokud je povoleno více pokusů na test?"
+
+#: templates/dashboard/create-course.php:88
+msgid "Submit for Review"
+msgstr "Odeslat ke schválení"
+
+#: classes/Addons.php:79
+msgid "Tutor E-Mail"
+msgstr "Tutor e-mail"
+
+#: templates/dashboard/create-course.php:93
+msgid "Exit"
+msgstr "Odejít"
+
+#: classes/Addons.php:83
+msgid "Tutor Multi Instructors"
+msgstr "Tutor Více lektorů"
+
+#: classes/Utils.php:9063 templates/dashboard/create-course.php:165
+msgid "Course Info"
+msgstr "Informace o kurzu"
+
+#: classes/Addons.php:87
+msgid "Tutor Prerequisites"
+msgstr "Předpoklady pro Tutor"
+
+#: templates/dashboard/create-course.php:176
+msgid "ex. Learn Photoshop CS6 from scratch"
+msgstr "např.: Naučte se Photoshop CS6 od úplného začátku"
+
+#: classes/Addons.php:91
+msgid "Tutor Report"
+msgstr "Tutor report"
+
+#: classes/Options_V2.php:458
+msgid "Allow multiple instructors to upload their courses."
+msgstr "Umožnit více instruktorům nahrát jejich kurzy."
+
+#: classes/Options_V2.php:1063 templates/single/assignment/content.php:166
+#: templates/single/assignment/content.php:334
+#: templates/single/assignment/content.php:542
+#: views/modal/question_form.php:107
+msgid "Description"
+msgstr "Popis"
+
+#: classes/Tutor.php:565
+msgid "Student Registration"
+msgstr "Registrace studenta"
+
+#: classes/Options_V2.php:1363 classes/Utils.php:7545
+msgid "Instructor Registration Page"
+msgstr "Stránka registrace Lektora"
+
+#: views/metabox/course-additional-data.php:41
+msgid "Total Course Duration"
+msgstr "Celková doba trvání kurzu"
+
+#: templates/dashboard/create-course.php:216
+msgid "Choose a category"
+msgstr "Zvolte kategorii"
+
+#: classes/Tutor.php:574
+msgid "Instructor Registration"
+msgstr "Registrace lektora"
+
+#: templates/dashboard/create-course.php:238
+msgid "Course Price"
+msgstr "Cena kurzu"
+
+#: classes/Instructors_List.php:323 views/pages/instructors.php:107
+msgid "Name"
+msgstr "Jméno"
+
+#: templates/dashboard/create-course.php:248
+msgid "Set course price"
+msgstr "Nastavte cenu kurzu"
+
+#: classes/Instructors_List.php:325 views/pages/instructors.php:155
+msgid "Total Course"
+msgstr "Celý kurz"
+
+#: views/metabox/course-additional-data.php:63
+msgid "Requirements/Instructions"
+msgstr "Požadavky/Instrukce"
+
+#: templates/dashboard/create-course.php:267
+msgid "Course Thumbnail"
+msgstr "Náhledový obrázek kurzu"
+
+#: classes/Options_V2.php:485
+msgid "Become an Instructor Button"
+msgstr "Tlačítko \"Stát se lektorem\""
+
+#: views/metabox/course-additional-data.php:65
+msgid "Additional requirements or special instructions for the students (One per line)"
+msgstr "Další požadavky nebo zvláštní instrukce pro studenty (jedna na řádek)"
+
+#: views/metabox/course-additional-data.php:34
+msgid "Targeted Audience"
+msgstr "Cílové publikum"
+
+#: views/metabox/course-additional-data.php:36
+msgid "Specify the target audience that will benefit the most from the course. (One line per target audience.)"
+msgstr "Upřesněte cílové publikum, kterému váš kurz bude nejvíce ku prospěchu. (vždy jedno publikum na řádek)"
+
+#: templates/dashboard/create-course.php:297
+msgid "Course Upload Tips"
+msgstr "Rady k nahrávání kurzu"
+
+#: classes/Quiz.php:571
+msgid "Quiz has been timeout already"
+msgstr "Vypršel časový limit na test"
+
+#: classes/Options_V2.php:1371 classes/Utils.php:7546
+msgid "Student Registration Page"
+msgstr "Stránka registrace studenta"
+
+#: views/metabox/course-additional-data.php:56
+msgid "Materials Included"
+msgstr "Zahrnuté materiály"
+
+#: templates/dashboard/create-course.php:300
+msgid "Set the Course Price option or make it free."
+msgstr "Nastavte cenu kurzu nebo ho zveřejněte zdarma."
+
+#: classes/Options_V2.php:1374
+msgid "Choose the page for student registration."
+msgstr "Změnit stránku pro registraci studentů."
+
+#: views/metabox/course-additional-data.php:58
+msgid "A list of assets you will be providing for the students in this course (One per line)"
+msgstr "Seznam přínosů, které studentům v kurzu nabízíte (vždy jeden na řádek)"
+
+#: templates/dashboard/create-course.php:301
+msgid "Standard size for the course thumbnail is 700x430."
+msgstr "Běžná velikost náhledového obrázku kurzu je 700x430."
+
+#: views/metabox/product-selection.php:24
+msgid "Select product"
+msgstr "Zvolit produkt"
+
+#: templates/dashboard/create-course.php:302
+msgid "Video section controls the course overview video."
+msgstr "V sekci Video spravujete video přehledu kurzu."
+
+#: views/metabox/product-selection.php:25
+msgid "When selling the course"
+msgstr "Při prodeji kurzu"
+
+#: templates/dashboard/create-course.php:303
+msgid "Course Builder is where you create & organize a course."
+msgstr "Tvůrce kurzů je místo, kde vytváříte a spravujete kurz."
+
+#: classes/Quiz.php:1023 views/modal/question_answer_form.php:32
+msgid "True"
+msgstr "Pravda"
+
+#: views/metabox/product-selection.php:30
+msgid "Select a Product"
+msgstr "Zvolit produkt"
+
+#: templates/dashboard/create-course.php:304
+msgid "Add Topics in the Course Builder section to create lessons, quizzes, and assignments."
+msgstr "Přidejte témata v sekci Tvůrce kurzů pro vytvoření lekcí, testů a úkolů."
+
+#: classes/Quiz.php:1030 views/modal/question_answer_form.php:36
+msgid "False"
+msgstr "Nepravda"
+
+#: views/metabox/course-add-edd-product-metabox.php:13
+msgid "Sell your product, process by EDD"
+msgstr "Prodejte svůj produkt, zpracováno EDD"
+
+#: templates/dashboard/create-course.php:305
+msgid "Prerequisites refers to the fundamental courses to complete before taking this particular course."
+msgstr "Předpoklady označují základní kurzy, které musí student dokončit, před absolvováním tohoto konkrétního kurzu."
+
+#: views/metabox/product-selection.php:7
+msgid "Course Type"
+msgstr "Druh kurzu"
+
+#: templates/dashboard/create-course.php:306
+msgid "Information from the Additional Data section shows up on the course single page."
+msgstr "Informace ze sekce Další data se zobrazují na samostatné stránce kurzu."
+
+#: templates/course-filter/filters.php:6
+#: views/metabox/product-selection.php:13
+msgid "Paid"
+msgstr "Placené"
+
+#: classes/Options_V2.php:991 views/metabox/instructors-metabox.php:15
+#: views/pages/course-list.php:165
+msgid "Author"
+msgstr "Autor"
+
+#: templates/single/lesson/content.php:91
+msgid "Overview"
+msgstr "Přehled"
+
+#: views/metabox/instructors-metabox.php:34
+msgid "Add More Instructors"
+msgstr "Přidat další lektory"
+
+#: classes/Course_Settings_Tabs.php:73 classes/Options_V2.php:984
+#: classes/Utils.php:9071 templates/dashboard.php:57
+msgid "Q&A"
+msgstr "Ptáte se"
+
+#: views/metabox/instructors-metabox.php:43
+msgid "Add instructors"
+msgstr "Přidat instruktory"
+
+#: classes/Tutor_Setup.php:445
+msgid "Earning"
+msgstr "Příjmy"
+
+#: classes/Utils.php:2397 templates/public-profile.php:128
+msgid "Course Enrolled"
+msgstr "Zapsané kurzy"
+
+#: views/metabox/instructors-metabox.php:52
+msgid "Search instructors..."
+msgstr "Vyhledat lektory"
+
+#: classes/Utils.php:9332
+msgid "Create Course"
+msgstr "Vytvořit kurz"
+
+#: views/metabox/instructors-metabox.php:57
+msgid "Add Instructors"
+msgstr "Přidat lektory"
+
+#: classes/Utils.php:9067 classes/Utils.php:9386
+#: templates/dashboard/reviews.php:29
+#: templates/dashboard/reviews/given-reviews.php:29
+msgid "Reviews"
+msgstr "Recenze"
+
+#: classes/Options_V2.php:748
+msgid "Fees are charged from the entire sales amount. The remaining amount will be divided among admin and instructors."
+msgstr "Poplatky jsou vypočteny z celkového prodeje. Zbývající částka se dělí mezi administrátora a instruktory."
+
+#: views/metabox/lesson-metabox.php:11
+msgid "Select a course"
+msgstr "Zvolte si kurz"
+
+#: classes/Admin.php:101 classes/Quiz_Attempts_List.php:37
+#: classes/Utils.php:9352 templates/dashboard.php:57
+#: templates/dashboard/quiz-attempts.php:30
+msgid "Quiz Attempts"
+msgstr "Pokusy o složení testu"
+
+#: views/metabox/lesson-metabox.php:22
+msgid "Choose the course for this lesson"
+msgstr "Zvolte kurz, do kterého patří tato lekce"
+
+#: classes/Utils.php:8965
+msgid "All Time"
+msgstr "Za celou dobu"
+
+#: classes/Utils.php:2757
+msgid "Logout"
+msgstr "Odhlásit"
+
+#: classes/Backend_Page_Trait.php:101 classes/Course_List.php:133
+#: classes/Instructors_List.php:85 classes/Instructors_List.php:232
+#: classes/Quiz_Attempts_List.php:105 classes/Utils.php:2889
+#: classes/Utils.php:8821 classes/Withdraw_Requests_List.php:59
+#: templates/dashboard/dashboard.php:139 templates/dashboard/my-courses.php:52
+#: templates/dashboard/purchase_history.php:132
+#: templates/single/assignment/content.php:425 views/pages/course-list.php:128
+#: views/pages/instructors.php:91 views/quiz/attempt-details.php:243
+#: views/quiz/attempt-details.php:618 views/quiz/attempt-table.php:100
+msgid "Pending"
+msgstr "Čeká na schválení"
+
+#: classes/Instructors_List.php:235 classes/Utils.php:2890
+#: classes/Utils.php:8841 classes/Withdraw_Requests_List.php:53
+#: views/pages/instructors.php:92
+msgid "Approved"
+msgstr "Schváleno"
+
+#: classes/Options_V2.php:768
+msgid "Percent"
+msgstr "Procent"
+
+#: views/metabox/course-topics.php:9
+msgid "Add new topic"
+msgstr "Přidat nové téma"
+
+#: classes/Instructors_List.php:238 classes/Utils.php:2891
+#: classes/Utils.php:8865 views/pages/instructors.php:93
+msgid "Blocked"
+msgstr "Blokováno"
+
+#: classes/Options_V2.php:769
+msgid "Fixed"
+msgstr "Fixní"
+
+#: views/metabox/course-topics.php:16 views/metabox/course-topics.php:21
+msgid "Add Topic"
+msgstr "Přidat téma"
+
+#: classes/Utils.php:4661
+msgid "True/False"
+msgstr "Pravda/lež"
+
+#: classes/Options_V2.php:730
+msgid "Show Statement Per Page"
+msgstr "Zobrazit dokladů na stránku"
+
+#: views/modal/topic-form.php:21
+msgid "Topic titles are displayed publicly wherever required. Each topic may contain one or more lessons, quiz and assignments."
+msgstr "Názvy témat jsou veřejně zobrazeny všude tam, kde je to třeba. Každé téma může obsahovat jednu nebo více lekcí, testů a úkolů."
+
+#: classes/Utils.php:4666
+msgid "Single Choice"
+msgstr "Jedna odpověď"
+
+#: classes/Options_V2.php:733
+msgid "Define the number of statements to show."
+msgstr "Zadejte počet zobrazovaných dokladů"
+
+#: classes/Options_V2.php:568 views/metabox/course-contents.php:138
+#: views/metabox/course-contents.php:167 views/metabox/course-topics.php:91
+msgid "Lesson"
+msgstr "Lekce"
+
+#: classes/Utils.php:4671
+msgid "Multiple Choice"
+msgstr "Více možností"
+
+#: classes/Options_V2.php:788
+msgid "Minimum Withdrawal Amount"
+msgstr "Minimální limit pro výplatu"
+
+#: classes/Utils.php:4681
+msgid "Fill In The Blanks"
+msgstr "Doplňte mezery"
+
+#: classes/Options_V2.php:790
+msgid "Instructors should earn equal or above this amount to make a withdraw request."
+msgstr "Lektor by si měl vydělat tuto nebo vyšší částku, aby mohl zažádat o výplatu"
+
+#: classes/Utils.php:4686
+msgid "Short Answer"
+msgstr "Krátká odpověď"
+
+#: classes/Course.php:485 templates/course-filter/filters.php:91
+#: templates/dashboard/purchase_history.php:90 views/pages/course-list.php:168
+msgid "Price"
+msgstr "Cena"
+
+#: classes/Utils.php:4691
+msgid "Matching"
+msgstr "Spojovačka"
+
+#: templates/dashboard/purchase_history.php:81
+msgid "Order ID"
+msgstr "ID objednávky"
+
+#: classes/Utils.php:4696
+msgid "Image Matching"
+msgstr "Přiřazování obrázků"
+
+#: classes/Utils.php:4701
+msgid "Image Answering"
+msgstr "Odpovídání pomocí obrázků"
+
+#: classes/Utils.php:4706
+msgid "Ordering"
+msgstr "Řazení"
+
+#: classes/Options_V2.php:1257
+msgid "Primary Color"
+msgstr "Primární barva"
+
+#: classes/Utils.php:5613
+msgid "All Levels"
+msgstr "Všechny úrovně"
+
+#: classes/Options_V2.php:1266
+msgid "Primary Hover Color"
+msgstr "Primární barva při najetí myší"
+
+#: classes/Utils.php:5614
+msgid "Beginner"
+msgstr "Začátečník"
+
+#: classes/Options_V2.php:1275
+msgid "Text Color"
+msgstr "Barva textu"
+
+#: classes/Utils.php:5615
+msgid "Intermediate"
+msgstr "Pokročilý"
+
+#: classes/Utils.php:5616
+msgid "Expert"
+msgstr "Expert"
+
+#: classes/Options_V2.php:664
+msgid "Monetization"
+msgstr "Zpeněžení"
+
+#: classes/Options_V2.php:683
+msgid "Disable Monetization"
+msgstr "Zakázat zpeněžení"
+
+#: classes/Options_V2.php:745
+msgid "Deduct Fees"
+msgstr "Odečtené poplatky"
+
+#: classes/Options_V2.php:687
+msgid "Select a monetization option to generate revenue by selling courses. Supports: WooCommerce, Easy Digital Downloads, Paid Memberships Pro"
+msgstr "Zvolte způsob zpeněžení pro prodej kurzů. Podporované metody: WooCommerce, Easy Digital Downloads, Paid Memberships Pro"
+
+#: views/pages/withdraw_requests.php:83
+msgid "Request By"
+msgstr "Žádost podle"
+
+#: classes/Utils.php:7501 classes/Utils.php:8849
+#: templates/dashboard/purchase_history.php:112
+msgid "Completed"
+msgstr "Dokončeno"
+
+#: classes/Utils.php:7505
+msgid "In Progress"
+msgstr "V průběhu"
+
+#: views/options/options_generator.php:2
+msgid "Tutor Settings"
+msgstr "Nastavení lektora"
+
+#: classes/Utils.php:7507
+msgid "Not Taken"
+msgstr "Volné"
+
+#: views/options/options_generator.php:88
+msgid "Save Settings"
+msgstr "Uložit nastavení"
+
+#: templates/dashboard/my-courses.php:126
+msgid "Price:"
+msgstr "Cena:"
+
+#: classes/Admin.php:59
+msgid "Pro"
+msgstr "Pro verze"
+
+#: views/options/withdraw/withdraw_admin_options_generator.php:38
+msgid "Enable/Disable"
+msgstr "Povolit/Zakázat"
+
+#: classes/Admin.php:99
+msgid "Q & A"
+msgstr "Otázky a odpovědi"
+
+#: views/options/withdraw/withdraw_admin_options_generator.php:43
+msgid "Enable "
+msgstr "Povolit"
+
+#: classes/Admin.php:99
+msgid "Q & A "
+msgstr "Otázky a odpovědi"
+
+#: views/metabox/course/field-types/groups/select.php:5
+#: views/metabox/course/field-types/select.php:4
+#: views/options/field-types/radio.php:10
+#: views/options/field-types/select.php:19
+msgid "Select Option"
+msgstr "Zvolte možnost"
+
+#: classes/Admin.php:104
+msgid "Withdraw Requests"
+msgstr "Žádosti o vyplacení"
+
+#: views/modal/question_answer_form.php:47
+#: views/modal/question_answer_form.php:126
+#: views/modal/question_answer_form.php:149
+msgid "Answer title"
+msgstr "Nadpis odpovědi"
+
+#: classes/Admin.php:107 views/pages/tutor-pro-addons.php:48
+msgid "Add-ons"
+msgstr "Rozšíření"
+
+#: views/modal/question_answer_form.php:71
+#: views/modal/question_answer_form.php:182
+msgid "Display format for options"
+msgstr "Formát zobrazení pro možnosti"
+
+#: views/modal/question_answer_form.php:77
+#: views/modal/question_answer_form.php:188
+msgid "Only text"
+msgstr "Jenom text"
+
+#: classes/Admin.php:116
+msgid "Get Pro"
+msgstr "Získat Pro verzi"
+
+#: views/modal/question_answer_form.php:83
+#: views/modal/question_answer_form.php:194
+msgid "Only Image"
+msgstr "Jenom obrázek"
+
+#: templates/dashboard/instructor/registration.php:142
+msgid "Register as instructor"
+msgstr "Zaregistrovat se jako lektor"
+
+#: classes/Admin.php:116
+msgid "<span class=\"dashicons dashicons-awards tutor-get-pro-text\"></span> Get Pro"
+msgstr "<span class=\"dashicons dashicons-awards tutor-get-pro-text\"></span> Získat Pro verzi"
+
+#: views/modal/question_answer_form.php:89
+#: views/modal/question_answer_form.php:200
+msgid "Text &amp; Image both"
+msgstr "oboje text &amp; obrázek"
+
+#: classes/Admin.php:448
+msgid "Upgrade to Pro"
+msgstr "Vylepšit na Pro verzi"
+
+#: views/modal/question_answer_form.php:111
+msgid "Correct Answer(s)"
+msgstr "Správné odpovědi"
+
+#: classes/Admin.php:471
+msgid "<strong style=\"color: #03bd24\">Documentation</strong>"
+msgstr "<strong style=\"color: #03bd24\">Dokumentace</strong>"
+
+#: classes/Admin.php:476
+msgid "<strong style=\"color: #03bd24\">Get Support</strong>"
+msgstr "<strong style=\"color: #03bd24\">Získejte podporu</strong>"
+
+#: views/modal/question_answer_form.php:135
+#: views/modal/question_answer_form.php:158
+msgid "Matched Answer title"
+msgstr "Název Odpovědi přiřazením"
+
+#: classes/Admin.php:498
+msgid "If you like %1$s please leave us a %2$s rating. A huge thanks in advance!"
+msgstr "Pokud máte rádi %1$s, prosím zanechte nám %2$s hodnocení. Obrovské díky předem!"
+
+#: views/modal/question_answer_form.php:222
+msgid "Image matched text"
+msgstr "Text přiřazeného obrázku"
+
+#: classes/Instructor.php:163
+msgid "Already applied for instructor"
+msgstr "Již jste zažádal/a o pozici lektora/lektorky"
+
+#: views/modal/question_answer_form.php:248
+msgid "Answer input value"
+msgstr "Hodnota vstupu odpovědi"
+
+#: classes/Instructor.php:194
+msgid "Phone Number field is required"
+msgstr "Musíte zadat telefonní číslo"
+
+#: views/modal/question_answer_form.php:254
+msgid "The answers that students enter should match with this text. Write in <strong>small caps</strong>"
+msgstr "Odpovědi, které studenti zadají musí odpovídat tomuto textu. Používejte <strong>malá písmena</strong>"
+
+#: classes/Instructor.php:252
+msgid "Instructor has been added successfully"
+msgstr "Lektor byl úspěšně přidán"
+
+#: views/modal/question_answer_form.php:264
+msgid "Update Answer"
+msgstr "Aktualizovat odpověď"
+
+#: templates/single/assignment/content.php:110
+#: templates/single/quiz/parts/meta.php:28
+msgid "No limit"
+msgstr "Bez omezení"
+
+#: classes/TutorEDD.php:52
+msgid " Seems like you don’t have <strong>Easy Digital Downloads</strong> plugin installed on your site. In order to use this functionality, you need to have the  <strong>Easy Digital Downloads</strong> plugin installed. Get back on this page after installing the plugin and enable the following feature to start selling courses with Tutor."
+msgstr "Zdá se, že nemáte nainstalovaný plugin <strong>Easy Digital Downloads</strong>. Pro využívání této funkce, musíte mít nainstalovaný plugin <strong>Easy Digital Downloads</strong>. Vraťte se na tuto stránku až plugin nainstalujete a zapněte tuto funkci pro prodej kurzů Tutor"
+
+#: views/metabox/course-topics.php:44 views/quiz/contexts.php:8
+msgid "Quiz Info"
+msgstr "Informace o testu"
+
+#: classes/TutorEDD.php:54
+msgid "This notice will disappear after activating <strong>EDD</strong>"
+msgstr "Tato zpráva zmizí po aktivaci <strong>EDD</strong>"
+
+#: classes/TutorEDD.php:69
+msgid "EDD"
+msgstr "EDD"
+
+#: views/modal/edit_quiz.php:6
+msgid "Type your quiz title here"
+msgstr "Sem zadejte název testu"
+
+#: templates/single/assignment/content.php:231
+msgid "Assignment answer form"
+msgstr "Odpověď na úkol od"
+
+#: classes/TutorEDD.php:74
+msgid "Tutor Course Attachments Settings"
+msgstr "Nastavení Tutor Course Attachments"
+
+#: classes/TutorEDD.php:78
+msgid "Enable EDD"
+msgstr "Povolit EDD"
+
+#: views/modal/edit_quiz.php:71
+msgid "Add Question"
+msgstr "Přidat otázku"
+
+#: classes/TutorEDD.php:79
+msgid "This will enable sell your product via EDD"
+msgstr "Toto vám umožní prodávat produkty přes EDD"
+
+#: templates/dashboard/assignments/review.php:39
+#: templates/dashboard/assignments/submitted.php:27
+#: templates/single/quiz/parts/question.php:133
+#: views/metabox/course-topics.php:71 views/modal/question_form.php:10
+#: views/qna/qna-single.php:38
+#: views/quiz/header-context/backend-dashboard-students-attempts.php:11
+#: views/quiz/header-context/course-single-previous-attempts.php:8
+#: views/quiz/header-context/frontend-dashboard-my-attempts.php:4
+#: views/quiz/header-context/frontend-dashboard-students-attempts.php:5
+msgid "Back"
+msgstr "Zpět"
+
+#: classes/TutorEDD.php:100
+msgid "Easy Digital Downloads"
+msgstr "Easy Digital Downloads"
+
+#: classes/Tutor_Setup.php:555 classes/Tutor_Setup.php:692
+#: classes/Tutor_Setup.php:712 templates/single/common/footer.php:29
+#: templates/single/next-previous-pagination.php:24
+msgid "Next"
+msgstr "Další"
+
+#: templates/single/assignment/content.php:322
+msgid "Submit Assignment"
+msgstr "Odeslat úkol"
+
+#: classes/Course_Settings_Tabs.php:26 classes/Course_Settings_Tabs.php:101
+#: classes/Options_V2.php:497 classes/Tutor_Setup.php:410
+#: views/metabox/course/settings-tabs.php:13
+msgid "Course Settings"
+msgstr "Nastavení kurzu"
+
+#: views/modal/edit_quiz.php:98
+msgid "Hide quiz time - display"
+msgstr "Skrýt čas na test - zobrazit"
+
+#: classes/Course_Settings_Tabs.php:33 classes/Options_V2.php:413
+#: classes/Tutor_Setup.php:377
+msgid "General Settings"
+msgstr "Obecné nastavení"
+
+#: views/modal/edit_quiz.php:103
+msgid "Time limit for this quiz. 0 means no time limit."
+msgstr "Časový limit na test. 0 znamená žádný limit."
+
+#: classes/Course_Settings_Tabs.php:39
+msgid "Maximum Students"
+msgstr "Maximum studentů"
+
+#: views/modal/question_form.php:107
+msgid "Optional"
+msgstr "Volitelné"
+
+#: templates/single/assignment/content.php:414
+msgid "Passed"
+msgstr "Úspěšný pokus"
+
+#: classes/Course.php:847 classes/Course_Settings_Tabs.php:40
+#: classes/Options_V2.php:992 classes/Options_V2.php:1000
+#: classes/Options_V2.php:1008 classes/Options_V2.php:1024
+#: classes/Options_V2.php:1032 classes/Options_V2.php:1040
+#: classes/Options_V2.php:1048 classes/Options_V2.php:1056
+#: classes/Options_V2.php:1064 classes/Options_V2.php:1072
+#: classes/Options_V2.php:1080 classes/Options_V2.php:1096
+#: classes/Options_V2.php:1104 classes/User.php:168
+msgid "Enable"
+msgstr "Zapnout"
+
+#: views/modal/edit_quiz.php:156
+msgid "Restriction on the number of attempts a student is allowed to take for this quiz. 0 for no limit"
+msgstr "Omezení množství pokusů na test. 0 znamená žádný limit"
+
+#: templates/single/assignment/content.php:418
+msgid "Failed"
+msgstr "Neúspěšný pokus"
+
+#: views/modal/edit_quiz.php:162
+msgid "Passing Grade (%)"
+msgstr "Známka k úspěšnému zakončení"
+
+#: classes/Post_types.php:47
+msgctxt "post type general name"
+msgid "Courses"
+msgstr "Kurzy"
+
+#: views/modal/edit_quiz.php:166
+msgid "Set the passing percentage for this quiz"
+msgstr "Nastavte minimální procentní ohodnocení nutné k projití."
+
+#: classes/Post_types.php:48
+msgctxt "post type singular name"
+msgid "Course"
+msgstr "Kurz"
+
+#: views/modal/edit_quiz.php:172
+msgid "Max questions allowed to answer"
+msgstr "Maximální počet otázek, které lze zodpovědět"
+
+#: templates/single/assignment/content.php:441
+#: views/quiz/attempt-details.php:270
+msgid "Instructor Note"
+msgstr "Poznámky lektora"
+
+#: classes/Post_types.php:49
+msgctxt "admin menu"
+msgid "Courses"
+msgstr "Kurzy"
+
+#: views/modal/edit_quiz.php:176
+msgid "This amount of question will be available for students to answer, and question will comes randomly from all available questions belongs with a quiz, if this amount greater than available question, then all questions will be available for a student to answer."
+msgstr "Tento počet otázek budou moci studenti zodpovědět. Otázky budou pokládány náhodně ze všech otázek, které patří ke kvízu. Pokud je toto množství větší než počet dostupncýh otázek, tak budou studenti odpovídat na všechny otázky."
+
+#: templates/single/assignment/content.php:573
+msgid "Start Assignment Submit"
+msgstr "Začít vyplňovat úkol"
+
+#: classes/Post_types.php:50
+msgctxt "add new on admin bar"
+msgid "Course"
+msgstr "Kurz"
+
+#: views/modal/edit_quiz.php:206
+msgid "Quiz Auto Start"
+msgstr "Automatický start kvízu."
+
+#: views/pages/course-list.php:47 views/pages/instructors.php:66
+msgid "Add New"
+msgstr "Přidat nový"
+
+#: views/modal/edit_quiz.php:209
+msgid "If you enable this option, the quiz will start automatically after the page is loaded."
+msgstr "Pokud povolíte tuto možnost, test začne automaticky poté, co se načte stránka."
+
+#: views/modal/edit_quiz.php:144
+msgid "Attempts Allowed"
+msgstr "Povoleno pokusů"
+
+#: classes/Post_types.php:52
+msgid "Add New Course"
+msgstr "Přidat nový kurz"
+
+#: views/modal/edit_quiz.php:215
+msgid "Question Layout"
+msgstr "Rozložení otázky"
+
+#: templates/single/quiz/parts/meta.php:20
+msgid "Attempted"
+msgstr "Test jste se pokusil/a složit"
+
+#: classes/Dashboard.php:84 classes/Post_types.php:53
+msgid "New Course"
+msgstr "Nový kurz"
+
+#: views/modal/edit_quiz.php:218
+msgid "Set question layout view"
+msgstr "Nastavit rozložení otázky"
+
+#: classes/Post_types.php:54
+msgid "Edit Course"
+msgstr "Upravit kurz"
+
+#: views/modal/edit_quiz.php:219
+msgid "Single Question"
+msgstr "Jedna otázka"
+
+#: templates/single/quiz/top.php:92
+msgid "Passing Grade"
+msgstr "Potřeba k úspěšnému složení"
+
+#: classes/Post_types.php:57
+msgid "Search Courses"
+msgstr "Prohledat kurzy"
+
+#: views/modal/edit_quiz.php:220
+msgid "Question Pagination"
+msgstr "Stránkování otázek"
+
+#: templates/single/quiz/parts/meta.php:54
+msgid "Time remaining: "
+msgstr "Zbývající čas:"
+
+#: classes/Post_types.php:58
+msgid "Parent Courses:"
+msgstr "Nadřazené kurzy"
+
+#: views/modal/edit_quiz.php:221
+msgid "Question below each other"
+msgstr "Otázky pod sebou"
+
+#: templates/single/quiz/parts/question.php:71
+msgid "Marks : "
+msgstr "Bodů:"
+
+#: classes/Post_types.php:59
+msgid "No courses found."
+msgstr "Nebyly nalezeny žádné kurzy."
+
+#: views/modal/edit_quiz.php:227
+msgid "Questions Order"
+msgstr "Pořadí otázek"
+
+#: classes/Post_types.php:60
+msgid "No courses found in Trash."
+msgstr "V koši nebyly nalezeny žádné kurzy"
+
+#: views/modal/edit_quiz.php:230
+msgid "Random"
+msgstr "Náhodně"
+
+#: templates/single/quiz/parts/question.php:139
+#: templates/single/quiz/parts/question.php:157
+msgid "Submit Quiz"
+msgstr "Odeslat test"
+
+#: classes/Post_types.php:65 classes/Post_types.php:188
+#: classes/Post_types.php:238 classes/Post_types.php:271
+#: classes/Post_types.php:303 classes/Post_types.php:397
+msgid "Description."
+msgstr "Popis"
+
+#: views/modal/edit_quiz.php:231
+msgid "Sorting"
+msgstr "Řazení"
+
+#: classes/Tutor_Setup.php:497 templates/single/quiz/body.php:63
+msgid "Finish"
+msgstr "Dokončit"
+
+#: classes/Post_types.php:101
+msgctxt "taxonomy general name"
+msgid "Course Categories"
+msgstr "Kategorie kurzu"
+
+#: views/modal/edit_quiz.php:232
+msgid "Ascending"
+msgstr "Vzestupně"
+
+#: templates/single/quiz/previous-attempts.php:46
+#: templates/single/quiz/top.php:111
+msgid "Start Quiz"
+msgstr "Spustit test"
+
+#: classes/Post_types.php:102
+msgctxt "taxonomy singular name"
+msgid "Category"
+msgstr "Kategorie"
+
+#: views/modal/edit_quiz.php:233
+msgid "Descending"
+msgstr "Sestupně"
+
+#: classes/Post_types.php:103
+msgid "Search Categories"
+msgstr "Vyhledat v kategoriích"
+
+#: views/modal/edit_quiz.php:240
+msgid "Hide question number"
+msgstr "Skrýt číslo otázky"
+
+#: classes/Post_types.php:104
+msgid "Popular Categories"
+msgstr "Oblíbené kategorie"
+
+#: views/modal/edit_quiz.php:243
+msgid "Show/hide question number during attempt."
+msgstr "Ukázat/skrýt číslo otázky během testu."
+
+#: templates/single/quiz/no_course_belongs.php:9
+msgid "No course found for this quiz"
+msgstr "Nebyl nalezen žádný kurz k tomuto testu"
+
+#: classes/Post_types.php:105
+msgid "All Categories"
+msgstr "Všechny kategorie"
+
+#: views/modal/edit_quiz.php:249
+msgid "Short answer characters limit"
+msgstr "Maximální počet znaků Krátké odpovědi"
+
+#: templates/single/quiz/no_course_belongs.php:10
+msgid "It seems there is no course belongs with this quiz, you can not attempt on this quiz without a course belongs, please notify to your instructor to fix this issue."
+msgstr "Zdá se, že k tomuto testu nepatří žádný test. Test bez kvízu nelze složit. Prosím informujte svého lektora a žádejte zjednání nápravy."
+
+#: classes/Post_types.php:108
+msgid "Edit Category"
+msgstr "Upravit kategorii"
+
+#: views/modal/edit_quiz.php:257
+msgid "Student will place answer in short answer question type within this characters limit."
+msgstr "Studenti zadají odpovědi na otázky typu \"krátká odpověď\" v tomto rozmezí znaků."
+
+#: classes/Admin.php:89 classes/Post_types.php:148
+#: templates/single/course/tags.php:20
+msgid "Tags"
+msgstr "Štítky"
+
+#: classes/Post_types.php:109
+msgid "Update Category"
+msgstr "Aktualizovat kategorii"
+
+#: templates/single/course/course-entry-box.php:132
+msgid "Complete Course"
+msgstr "Dokončit kurz"
+
+#: classes/Post_types.php:110
+msgid "Add New Category"
+msgstr "Přidat novou kategorii"
+
+#: classes/Post_types.php:111
+msgid "New Category Name"
+msgstr "Jméno nové kategorie"
+
+#: classes/Post_types.php:112
+msgid "Separate categories with commas"
+msgstr "Oddělte kategorie čárkami"
+
+#: classes/Post_types.php:113
+msgid "Add or remove categories"
+msgstr "Přidat nebo odebrat kategorie"
+
+#: views/modal/edit-lesson.php:44
+msgid "Feature Image"
+msgstr "Úvodní obrázek"
+
+#: classes/Options_V2.php:1087
+msgid "Target Audience"
+msgstr "Cílové publikum"
+
+#: classes/Post_types.php:114
+msgid "Choose from the most used categories"
+msgstr "Vyberte si z nejčastějších kategorií"
+
+#: templates/single/course/course-entry-box.php:208
+msgid "Enroll now"
+msgstr "Zapsat se nyní"
+
+#: classes/Post_types.php:115
+msgid "No categories found."
+msgstr "Nebyly nalezeny žádné kategorie"
+
+#: classes/Post_types.php:116
+msgid "Course Categories"
+msgstr "Kategorie kurzu"
+
+#: views/metabox/course-topics.php:106
+msgid "Update Lesson"
+msgstr "Aktualizovat lekci"
+
+#: classes/Post_types.php:133
+msgctxt "taxonomy general name"
+msgid "Tags"
+msgstr "Štítky:"
+
+#: views/modal/question_answer_form.php:27
+msgid "Select the correct option"
+msgstr "Zvolte správnou variantu"
+
+#: classes/Post_types.php:134
+msgctxt "taxonomy singular name"
+msgid "Tag"
+msgstr "Štítek"
+
+#: views/modal/question_answer_form.php:104
+msgid "Please make sure to use the <strong>{dash}</strong> variable in your question title to show the blanks in your question. You can use multiple <strong>{dash}</strong> variables in one question."
+msgstr "Prosím, ujistěte se, že ve vašich otázkách používáte proměnnou  <strong>{dash}</strong> pro označení prázdných míst v otázce. Můžete použít více proměnných  <strong>{dash}</strong> v jedné otázce."
+
+#: classes/Backend_Page_Trait.php:49 templates/dashboard/dashboard.php:298
+#: templates/loop/enrolled-course-progress.php:21
+#: templates/single/course/course-entry-box.php:78
+msgid "Complete"
+msgstr "Dokončeno"
+
+#: classes/Post_types.php:135
+msgid "Search Tags"
+msgstr "Hledat štítky"
+
+#: views/modal/question_answer_form.php:117
+msgid "Separate multiple answers by a vertical bar <strong>|</strong>. 1 answer per <strong>{dash}</strong> variable is defined in the question. Example: Apple | Banana | Orange"
+msgstr "Oddělte více odpovědí pomocí svislé čárky <strong>|</strong>. V jedné otázce je definována jedna odpověď na jednu proměnnou <strong>{dash}</strong>. Příklad: Jablko | Banán | Pomeranč "
+
+#: classes/Post_types.php:136
+msgid "Popular Tags"
+msgstr "Všechny štítky"
+
+#: views/course-share.php:15
+msgid "Share"
+msgstr "Sdílet"
+
+#: classes/Post_types.php:137
+msgid "All Tags"
+msgstr "Všechny štítky"
+
+#: views/modal/question_form.php:17
+msgid "Write your question here"
+msgstr "Sem vložte otázku"
+
+#: classes/Admin.php:87 views/pages/course-list.php:162
+msgid "Categories"
+msgstr "Kategorie"
+
+#: classes/Post_types.php:140
+msgid "Edit Tag"
+msgstr "Upravit štítek"
+
+#: classes/Post_types.php:141
+msgid "Update Tag"
+msgstr "Aktualizovat štítky"
+
+#: views/modal/question_form.php:58
+msgid "Pro version required"
+msgstr "Je vyžadována pro verze"
+
+#: classes/Options_V2.php:1023 templates/single/course/course-entry-box.php:22
+#: templates/single/course/course-entry-box.php:23
+msgid "Total Enrolled"
+msgstr "Celkem zapsáno"
+
+#: classes/Post_types.php:142
+msgid "Add New Tag"
+msgstr "Vytvořit nový štítek"
+
+#: views/modal/question_form.php:73
+msgid "Answer Required"
+msgstr "Odpověď je vyžadována"
+
+#: views/options/template/import_export.php:22
+msgid "Last Update"
+msgstr "Poslední aktualizace"
+
+#: classes/Post_types.php:143
+msgid "New Tag Name"
+msgstr "Název nového štítku"
+
+#: views/modal/question_form.php:79
+msgid "Randomize"
+msgstr "Nastavit náhodně"
+
+#: templates/dashboard/create-course.php:196
+#: templates/single/course/course-content.php:33
+msgid "About Course"
+msgstr "O kurzu"
+
+#: classes/Post_types.php:144
+msgid "Separate Tags with commas"
+msgstr "Štítky oddělte štítky čárkami"
+
+#: views/modal/question_form.php:90
+msgid "Point(s) for this answer"
+msgstr "Body za tuto odpověď"
+
+#: views/qna/qna-new.php:24
+msgid "Ask a New Question"
+msgstr "Položit novou otázku"
+
+#: classes/Post_types.php:145
+msgid "Add or remove Tags"
+msgstr "Přidat nebo odebrat štítky"
+
+#: views/modal/question_form.php:94
+msgid "set the mark ex. 10"
+msgstr "Nastavit bodování, např.: 10"
+
+#: views/modal/question_answer_form.php:98
+msgid "Question Title"
+msgstr "Nadpis otázky"
+
+#: classes/Post_types.php:146
+msgid "Choose from the most used Tags"
+msgstr "Vyberte si z nejpoužívanějších štítků"
+
+#: views/modal/question_form.php:99
+msgid "Display Points"
+msgstr "Zobrazit body"
+
+#: classes/Post_types.php:147
+msgid "No Tags found."
+msgstr "Nebyly nalezeny žádné štítky."
+
+#: views/modal/question_form.php:115
+msgid "Input options for the question and select the correct answer."
+msgstr "Možnosti vložení odpovědi a volba správné odpovědi"
+
+#: classes/Post_types.php:170
+msgctxt "post type general name"
+msgid "Lessons"
+msgstr "Lekce"
+
+#: templates/single/quiz/parts/image-answer.php:15
+msgid "Write your answer here"
+msgstr "Zde napište svou odpověď"
+
+#: classes/Post_types.php:171
+msgctxt "post type singular name"
+msgid "Lesson"
+msgstr "Lekce"
+
+#: views/modal/question_answer_list.php:92
+msgid "Add An Option"
+msgstr "Přidat možnost"
+
+#: classes/Post_types.php:172
+msgctxt "admin menu"
+msgid "Lessons"
+msgstr "Lekce"
+
+#: views/metabox/course-additional-data.php:70
+msgid "Course Tag"
+msgstr "Štítek kurzu"
+
+#: classes/Post_types.php:173
+msgctxt "add new on admin bar"
+msgid "Lesson"
+msgstr "Lekce"
+
+#: classes/Options_V2.php:1079
+#: templates/single/course/course-requirements.php:28
+msgid "Requirements"
+msgstr "Požadavky"
+
+#: classes/Post_types.php:175
+msgid "Add New Lesson"
+msgstr "Přidat novou lekci"
+
+#: templates/single/course/add-to-cart-edd.php:15
+msgid "Please make sure that your EDD product exists and valid for this course"
+msgstr "Prosím, ujistěte se, že váš EDD produkt existuje a je platný pro tento kurz"
+
+#: classes/Post_types.php:176
+msgid "New Lesson"
+msgstr "Nová lekce"
+
+#: templates/single/course/q_and_a_turned_off.php:18
+msgid "This feature has been disabled by the administrator"
+msgstr "Tato funkce byla správcem zakázána"
+
+#: classes/Post_types.php:177
+msgid "Edit Lesson"
+msgstr "Upravit lekci"
+
+#: views/pages/addons.php:79
+msgid "Version"
+msgstr "Verze"
+
+#: templates/single/course/material-includes.php:27
+msgid "Material Includes"
+msgstr "Materiály zahrnují"
+
+#: classes/Post_types.php:178
+msgid "View Lesson"
+msgstr "Zobrazit lekci"
+
+#: classes/Tutor_List_Table.php:1376 classes/Tutor_List_Table.php:1378
+#: views/elements/filters.php:124
+msgid "Search"
+msgstr "Hledat"
+
+#: templates/single/course/continue-lesson.php:43
+msgid "Continue to lesson"
+msgstr "Pokračovat k lekci"
+
+#: classes/Post_types.php:180
+msgid "Search Lessons"
+msgstr "Prohledat lekce"
+
+#: views/pages/tools/status.php:3
+msgid "Tutor Environment Status"
+msgstr "Status prostředí Tutor"
+
+#: classes/Post_types.php:181
+msgid "Parent Lessons:"
+msgstr "Nadřazené lekce"
+
+#: classes/Tools_V2.php:98 views/pages/tools/status.php:12
+msgid "WordPress environment"
+msgstr "Prostředí WordPressu"
+
+#: classes/Post_types.php:182
+msgid "No lessons found."
+msgstr "Nebyly nalezeny žádné lekce."
+
+#: classes/Tools_V2.php:107 views/pages/tools/status.php:17
+msgid "Home URL"
+msgstr "URL hlavní stránky"
+
+#: templates/single/course/reviews.php:119
+msgid "Edit review"
+msgstr "Upravit hodnocení"
+
+#: classes/Post_types.php:183
+msgid "No lessons found in Trash."
+msgstr "V koši nebyly nalezeny žádné lekce"
+
+#: views/pages/tools/status.php:18
+msgid "The homepage URL of your site."
+msgstr "URL vaší hlavní stránky"
+
+#: templates/single/course/reviews.php:119
+msgid "Write a review"
+msgstr "Napsat recenzi"
+
+#: classes/Post_types.php:220
+msgctxt "post type general name"
+msgid "Quizzes"
+msgstr "Testy"
+
+#: classes/Tools_V2.php:150 views/pages/tools/status.php:22
+msgid "Site URL"
+msgstr "URL webu"
+
+#: templates/single/course/reviews.php:168
+msgid "Submit Review"
+msgstr "Odeslat hodnocení"
+
+#: classes/Post_types.php:221
+msgctxt "post type singular name"
+msgid "Quiz"
+msgstr "Test"
+
+#: views/pages/tools/status.php:23
+msgid "The root URL of your site."
+msgstr "Root URL vaší stránky"
+
+#: templates/single/course/add-to-cart-woocommerce.php:52
+msgid "Please make sure that your product exists and valid for this course"
+msgstr "Prosím, ujistěte se, že váš produkt existuje a je platný pro tento kurz"
+
+#: classes/Post_types.php:222
+msgctxt "admin menu"
+msgid "Quizzes"
+msgstr "Testy"
+
+#: classes/Tools_V2.php:116 views/pages/tools/status.php:28
+msgid "WordPress version"
+msgstr "Verze WordPressu"
+
+#: classes/Post_types.php:223
+msgctxt "add new on admin bar"
+msgid "Quiz"
+msgstr "Test"
+
+#: views/pages/tools/status.php:29
+msgid "The version of WordPress installed on your site."
+msgstr "Verze WordPressu nainstalovaná na vaší stránce."
+
+#: classes/Post_types.php:225
+msgid "Add New Quiz"
+msgstr "Přidat nový test"
+
+#. Translators: %1$s: Current version, %2$s: New version
+#: views/pages/tools/status.php:48
+msgid "%1$s - There is a newer version of WordPress available (%2$s)"
+msgstr "%1$s - je dostupná nová verze WordPressu (%2$s)"
+
+#: classes/Post_types.php:226
+msgid "New Quiz"
+msgstr "Nový test"
+
+#: views/pages/tools/status.php:57
+msgid "Tutor Version"
+msgstr "Verze Tutoru"
+
+#: views/metabox/course-additional-data.php:27
+msgid "What Will I Learn?"
+msgstr "Co se naučím?"
+
+#: classes/Post_types.php:227
+msgid "Edit Quiz"
+msgstr "Upravit test"
+
+#: views/pages/tools/status.php:58
+msgid "The version of tutor."
+msgstr "Verze Tutoru"
+
+#: classes/Post_types.php:228
+msgid "View Quiz"
+msgstr "Zobrazit test"
+
+#: classes/Tools_V2.php:124 views/pages/tools/status.php:63
+msgid "WordPress multisite"
+msgstr "WordPress multisite"
+
+#: classes/Post_types.php:229
+msgid "Quizzes"
+msgstr "Testy"
+
+#: views/pages/tools/status.php:64
+msgid "Whether or not you have WordPress Multisite enabled."
+msgstr "Jestli je nebo není zapnutá funkce WordPress multisite"
+
+#: classes/Post_types.php:230
+msgid "Search Quizzes"
+msgstr "Vyhledat testy"
+
+#: classes/Tools_V2.php:168 views/pages/tools/status.php:68
+msgid "WordPress memory limit"
+msgstr "Omezení paměti WordPressu"
+
+#: templates/single/lesson/required-enroll.php:7
+msgid "Course name : %s"
+msgstr "Jméno kurzu: %s"
+
+#: classes/Post_types.php:231
+msgid "Parent Quizzes:"
+msgstr "Nadřazené testy"
+
+#: views/pages/tools/status.php:69
+msgid "The maximum amount of memory (RAM) that your site can use at one time."
+msgstr "Maximální množství paměti (RAM), které může vaše stránka využít"
+
+#: classes/Post_types.php:55 templates/dashboard/create-course.php:38
+#: templates/single/lesson/required-enroll.php:10
+#: views/pages/course-list.php:315
+msgid "View Course"
+msgstr "Zobrazit kurz"
+
+#: classes/Post_types.php:232
+msgid "No quizzes found."
+msgstr "Nebyly nalezeny žádné testy."
+
+#. Translators: %1$s: Memory limit, %2$s: Docs link.
+#: classes/Tools_V2.php:428 views/pages/tools/status.php:74
+msgid "%1$s - We recommend setting memory to at least 64MB. See: %2$s"
+msgstr "%1$s - doporučujeme nastavit paměť alespoň na 64MV. Viz: %2$s"
+
+#: classes/Post_types.php:233
+msgid "No quizzes found in Trash."
+msgstr "V koši nebyly nalezeny žádné testy."
+
+#. Translators: %1$s: Memory limit, %2$s: Docs link.
+#: classes/Tools_V2.php:428 views/pages/tools/status.php:74
+msgid "Increasing memory allocated to PHP"
+msgstr "Zvětšující se paměť přiřazená k PHP"
+
+#: classes/Post_types.php:285
+msgctxt "post type general name"
+msgid "Assignments"
+msgstr "Úkoly"
+
+#: classes/Tools_V2.php:132 views/pages/tools/status.php:82
+msgid "WordPress debug mode"
+msgstr "WordPress debug mód"
+
+#: classes/Post_types.php:286
+msgctxt "post type singular name"
+msgid "Assignment"
+msgstr "Úkol"
+
+#: views/pages/tools/status.php:83
+msgid "Displays whether or not WordPress is in Debug Mode."
+msgstr "Zobrazuje, jestli WordPress je nebo není v Debug módu"
+
+#: templates/single/lesson/sidebar_question_and_answer.php:47
+msgid "No questions yet"
+msgstr "Zatím zde nejsou žádné otázky"
+
+#: classes/Post_types.php:287
+msgctxt "admin menu"
+msgid "Assignments"
+msgstr "Úkoly"
+
+#: views/pages/tools/status.php:93
+msgid "WordPress cron"
+msgstr "WordPress cron"
+
+#: classes/Post_types.php:288
+msgctxt "add new on admin bar"
+msgid "Assignment"
+msgstr "Úkol"
+
+#: views/pages/tools/status.php:94
+msgid "Displays whether or not WP Cron Jobs are enabled."
+msgstr "Zobrazuje, jestli je nebo není povolen WP Cron Jobs"
+
+#: templates/dashboard/dashboard.php:276
+msgid "Completed Lessons:"
+msgstr "Dokončeno lekcí"
+
+#: classes/Post_types.php:290
+msgid "Add New Assignment"
+msgstr "Přidat nový úkol"
+
+#: classes/Tools_V2.php:140 classes/Tools_V2.php:241
+#: views/pages/tools/status.php:104
+msgid "Language"
+msgstr "Jazyk"
+
+#: classes/Post_types.php:291
+msgid "New Assignment"
+msgstr "Nový úkol"
+
+#: views/pages/tools/status.php:105
+msgid "The current language used by WordPress. Default = English"
+msgstr "Jazyk aktuálně používaný WordPressem. Výchozí je angličtina."
+
+#: templates/dashboard/withdraw.php:55 templates/dashboard/withdraw.php:116
+msgid "Current Balance"
+msgstr "Aktuální zůstatek :"
+
+#: includes/tutor-general-functions.php:107
+msgid "Search Course Category. ex. Design, Development, Business"
+msgstr "Vyhledat kategorii kurzu, např.: Design, Development, Business"
+
+#: classes/Post_types.php:292
+msgid "Edit Assignment"
+msgstr "Upravit úkoly"
+
+#: classes/Tools_V2.php:184 views/pages/tools/status.php:109
+msgid "External object cache"
+msgstr "Externí objektová cache"
+
+#: templates/dashboard/withdraw.php:59
+msgid "You currently have %1$s %2$s %3$s ready to withdraw"
+msgstr "Momentálně máte k výplatě připraveno %1$s %2$s %3$s"
+
+#: includes/tutor-general-functions.php:108
+msgid "Select a category"
+msgstr "Zvolte kategorii"
+
+#: classes/Post_types.php:293
+msgid "View Assignment"
+msgstr "Zobrazit úkoly"
+
+#: views/pages/tools/status.php:110
+msgid "Displays whether or not WordPress is using an external object cache."
+msgstr "Zobrazuje jestli WordPress používá externí objektovou cache nebo ne."
+
+#: classes/Post_types.php:294
+msgid "Assignments"
+msgstr "Úkoly"
+
+#: classes/Tools_V2.php:193 views/pages/tools/status.php:127
+msgid "Server environment"
+msgstr "Prostředí serveru"
+
+#: templates/dashboard/withdraw.php:61
+msgid "You currently have %1$s %2$s %3$s and this is insufficient balance to withdraw"
+msgstr "Momentálně máte %1$s %2$s %3$s a to není dostatečný zůstatek k vyplacení"
+
+#: classes/Lesson.php:68 templates/dashboard/announcements/create.php:19
+#: templates/dashboard/announcements/update.php:20
+#: views/fragments/announcement-list.php:31 views/metabox/lesson-metabox.php:3
+msgid "Select Course"
+msgstr "Vybrat kurz"
+
+#: classes/Post_types.php:295
+msgid "Search Assignments"
+msgstr "Vyhledat úkoly"
+
+#: classes/Tools_V2.php:201 views/pages/tools/status.php:133
+msgid "Server info"
+msgstr "Informace o serveru"
+
+#: classes/Lesson.php:70
+msgid "Lesson Video"
+msgstr "Video lekce"
+
+#: classes/Post_types.php:296
+msgid "Parent Assignments:"
+msgstr "Nadřazené úkoly:"
+
+#: views/pages/tools/status.php:134
+msgid "Information about the web server that is currently hosting your site."
+msgstr "Informace o webovém serveru, který právě hostuje vaši stránku."
+
+#: templates/dashboard/withdraw.php:89
+msgid "You can change your %1$s Withdraw Preference %2$s"
+msgstr "Svoje %1$s nastavení výplaty %2$s můžete změnit"
+
+#: classes/Lesson.php:140
+msgid "Draft Lesson"
+msgstr "Návrh lekce"
+
+#: classes/Post_types.php:297
+msgid "No Assignments found."
+msgstr "Nebyly nalezeny žádné úkoly"
+
+#: classes/Tools_V2.php:209 views/pages/tools/status.php:138
+msgid "PHP version"
+msgstr "Verze PHP"
+
+#: classes/Course.php:619 classes/Lesson.php:320
+msgid "Please Sign-In"
+msgstr "Prosím, přihlaste se"
+
+#: classes/Post_types.php:298
+msgid "No Assignments found in Trash."
+msgstr "V koši nejsou žádné úkoly."
+
+#: views/pages/tools/status.php:139
+msgid "The version of PHP installed on your hosting server."
+msgstr "Verze PHP nainstalovaná na vašem serveru."
+
+#: classes/Tutor_List_Table.php:173
+msgid "List View"
+msgstr "Zobrazení seznamu"
+
+#: classes/Post_types.php:342 classes/Post_types.php:345
+msgid "Course updated."
+msgstr "Kurz aktualizován"
+
+#: classes/Tools_V2.php:440 views/pages/tools/status.php:148
+msgid "Tutor will run under this version of PHP, however, it has reached end of life. We recommend using PHP version 7.2 or above for greater performance and security."
+msgstr "Tutor poběží na této verzi PHP, přestože jí už skončila životnost. Doporučujeme používat PHP ve verzi 7.2 a vyšší pro lepší výkon a bezpečnost."
+
+#: classes/Tutor_List_Table.php:174
+msgid "Excerpt View"
+msgstr "Úryvek"
+
+#: classes/Post_types.php:343
+msgid "Custom field updated."
+msgstr "Vlastní pole bylo aktualizováno"
+
+#: classes/Tools_V2.php:441 views/pages/tools/status.php:150
+msgid "We recommend using PHP version 7.2 or above for greater performance and security."
+msgstr "Doporučujeme používat PHP ve verzi 7.2 nebo vyšší pro lepší výkon a bezpečnost."
+
+#: classes/Tutor_List_Table.php:339
+msgid "No items found."
+msgstr "Nebyly nalezeny žádné položky."
+
+#: classes/Post_types.php:344
+msgid "Custom field deleted."
+msgstr "Vlastní pole bylo smazáno"
+
+#: classes/Tools_V2.php:217 views/pages/tools/status.php:161
+msgid "PHP post max size"
+msgstr "PHP maximální velikost příspěvku"
+
+#: templates/dashboard/withdraw.php:136 templates/dashboard/withdraw.php:194
+#: views/pages/withdraw_requests.php:93 views/pages/withdraw_requests.php:236
+msgid "Amount"
+msgstr "Částka"
+
+#: classes/Tutor_List_Table.php:536
+msgid "Select bulk action"
+msgstr "Vyberte hromadnou akci"
+
+#. translators: %s: date and time of the revision
+#: classes/Post_types.php:347
+msgid "Course restored to revision from %s"
+msgstr "Kurz byl obnoven na verzi z %s"
+
+#: views/pages/tools/status.php:162
+msgid "The largest filesize that can be contained in one post."
+msgstr "Největší možná velikost souboru, který může být nahrán v příspěvku"
+
+#: views/pages/withdraw_requests.php:87
+msgid "Withdraw Method"
+msgstr "Způsob výplaty"
+
+#: classes/Tutor_List_Table.php:538
+msgid "Bulk Actions"
+msgstr "Hromadné akce"
+
+#: classes/Post_types.php:348
+msgid "Course published."
+msgstr "Kurz byl zveřejněn."
+
+#: classes/Tools_V2.php:225 views/pages/tools/status.php:166
+msgid "PHP time limit"
+msgstr "PHP časový limit"
+
+#: classes/Instructors_List.php:327 classes/Tutor_List_Table.php:438
+#: classes/Tutor_List_Table.php:1368 templates/dashboard/announcements.php:112
+#: templates/dashboard/assignments/submitted.php:70
+#: templates/dashboard/purchase_history.php:87
+#: templates/dashboard/reviews.php:58
+#: templates/single/assignment/content.php:375 views/elements/filters.php:117
+#: views/fragments/announcement-list.php:193
+#: views/fragments/announcement-list.php:197
+#: views/options/template/import_export.php:65 views/pages/course-list.php:171
+#: views/quiz/contexts.php:7 views/quiz/contexts.php:57
+msgid "Date"
+msgstr "Datum"
+
+#: classes/Tutor_List_Table.php:548 views/elements/filters.php:19
+#: views/elements/search-filter.php:16 views/elements/search-filter.php:36
+#: views/options/template/import_export.php:81
+msgid "Apply"
+msgstr "Potvrdit"
+
+#: classes/Post_types.php:349
+msgid "Course saved."
+msgstr "Kurz uložen"
+
+#: views/pages/tools/status.php:167
+msgid "The amount of time (in seconds) that your site will spend on a single operation before timing out (to avoid server lockups)"
+msgstr "Množství času (v sekundách), který vaše stránka stráví na jedné operaci předtím než vyprší čas (aby se zabránilo zahlcení serveru)"
+
+#: classes/Tutor_List_Table.php:600 classes/Tutor_List_Table.php:1512
+msgid "Show more details"
+msgstr "Zobrazit více podrobností"
+
+#: classes/Post_types.php:350
+msgid "Course submitted."
+msgstr "Kurz odeslán."
+
+#: views/pages/tools/status.php:171
+msgid "PHP max input vars"
+msgstr "Maximimální počet vložených PHP proměnných"
+
+#: classes/Tutor_List_Table.php:669
+msgid "Filter by date"
+msgstr "Filtrovat podle data"
+
+#: classes/Post_types.php:352
+msgid "Course scheduled for: <strong>%1$s</strong>."
+msgstr "Kurz je naplánován na: <strong>%1$s</strong>"
+
+#: views/pages/tools/status.php:172
+msgid "The maximum number of variables your server can use for a single function to avoid overloads."
+msgstr "Maximální počet proměnných, které váš server může použít pro jednu funkci, aby se vyhnul přetížení."
+
+#: templates/dashboard/withdraw.php:191
+msgid "Requested On"
+msgstr "Vyžádáno"
+
+#: classes/Tutor_List_Table.php:671
+msgid "All dates"
+msgstr "Všechna data"
+
+#. translators: Publish box date format, see http://php.net/date
+#: classes/Post_types.php:354
+msgid "M j, Y @ G:i"
+msgstr "Měs., Rok. @ Hod.:Min."
+
+#: classes/Tools_V2.php:233 views/pages/tools/status.php:176
+msgid "cURL version"
+msgstr "Verze cURL"
+
+#. translators: 1: month name, 2: 4-digit year
+#: classes/Tutor_List_Table.php:686
+msgid "%1$s %2$d"
+msgstr "%1$s %2$d"
+
+#: classes/Post_types.php:356
+msgid "Course draft updated."
+msgstr "Koncept kurzu aktualizován"
+
+#: views/pages/tools/status.php:177
+msgid "The version of cURL installed on your server."
+msgstr "Verze cURL nainstalovaná na vašem serveru."
+
+#: classes/Tutor_List_Table.php:737
+msgid "%s comment"
+msgid_plural "%s comments"
+msgstr[0] "%s komentář"
+msgstr[1] "%s komentáře"
+msgstr[2] "%s komentářů"
+
+#: classes/Post_types.php:362
+msgid "View course"
+msgstr "Zobrazit kurz"
+
+#: views/pages/tools/status.php:181
+msgid "SUHOSIN installed"
+msgstr "SUHOSIN je nainstalován"
+
+#: views/pages/withdraw_requests.php:398
+msgid "Reject Withdrawal?"
+msgstr "Zamítnuté výplaty?"
+
+#: classes/Tutor_List_Table.php:738
+msgid "%s approved comment"
+msgid_plural "%s approved comments"
+msgstr[0] "%s schválený komentář"
+msgstr[1] "%s schválené komentáře"
+msgstr[2] "%s schválených komentářů"
+
+#: classes/Post_types.php:368
+msgid "Preview course"
+msgstr "Náhled kurzu"
+
+#: views/pages/tools/status.php:182
+msgid "Suhosin is an advanced protection system for PHP installations. It was designed to protect your servers on the one hand against a number of well known problems in PHP applications and on the other hand against potential unknown vulnerabilities within these applications or the PHP core itself. If enabled on your server, Suhosin may need to be configured to increase its data submission limits."
+msgstr "Suhosin je pokročilý ochranný systém pro instalace PHP. Byl navržen k ochraně vašeho serveru proti řadě dobře známých problémů v PHP aplikacích a proti možným neznámým slabinám v těchto aplikacích nebo samotném jádru PHP. Pokud je na vašem serveru povolen, může být potřeba nakonfigurovat Suhosin pro svého omezení na příjem dat."
+
+#: classes/Tutor_List_Table.php:739
+msgid "%s pending comment"
+msgid_plural "%s pending comments"
+msgstr[0] "%s komentář čekající na schválení"
+msgstr[1] "%s komentáře čekající na schválení"
+msgstr[2] "%s komentářů čekající na schválení"
+
+#: classes/Tools_V2.php:251 views/pages/tools/status.php:196
+msgid "MySQL version"
+msgstr "Verze MySQL"
+
+#: classes/Tutor_List_Table.php:745 classes/Tutor_List_Table.php:767
+#: classes/Tutor_List_Table.php:790
+msgid "No comments"
+msgstr "Žádné komentáře"
+
+#: views/pages/tools/status.php:197
+msgid "The version of MySQL installed on your hosting server."
+msgstr "Verze MySQL nainstalovaná na vašem serveru."
+
+#: classes/Utils.php:9382 templates/dashboard/wishlist.php:15
+#: templates/single/course/lead-info.php:83
+msgid "Wishlist"
+msgstr "Seznam přání"
+
+#: classes/Tutor_List_Table.php:767
+msgid "No approved comments"
+msgstr "Žádné schválené komentáře"
+
+#: classes/Withdraw.php:35
+msgid "Bank Transfer"
+msgstr "Bankovní převod"
+
+#: classes/Tools_V2.php:456 views/pages/tools/status.php:204
+msgid "%1$s - We recommend a minimum MySQL version of 5.6. See: %2$s"
+msgstr "%1$s - doporučujeme MySQL ve verzi alespoň 5.6. Viz též: %2$s"
+
+#: classes/Tutor_List_Table.php:790
+msgid "No pending comments"
+msgstr "Žádné komentáře čekájící na schválení"
+
+#: classes/Withdraw.php:37
+msgid "Get your payment directly into your bank account"
+msgstr "Nechte si poslat peníze přímo na Váš bankovní účet"
+
+#: classes/Tools_V2.php:456 views/pages/tools/status.php:204
+msgid "WordPress requirements"
+msgstr "Požadavky WordPressu"
+
+#: classes/Admin.php:91 classes/Course.php:484 classes/Students_List.php:38
+#: templates/public-profile.php:116 views/pages/students.php:80
+msgid "Students"
+msgstr "Studenti"
+
+#: classes/Tutor_List_Table.php:866 classes/Tutor_List_Table.php:1536
+msgid "%s item"
+msgid_plural "%s items"
+msgstr[0] "%s položka"
+msgstr[1] "%s položky"
+msgstr[2] "%s položek"
+
+#: views/pages/tools/status.php:214
+msgid "Max upload size"
+msgstr "Macimální velikost souboru pro nahrání"
+
+#: includes/tinymce_translate.php:27
+msgid "Count"
+msgstr "Počet"
+
+#: classes/Tutor_List_Table.php:903
+msgid "First page"
+msgstr "První stránka"
+
+#: views/pages/tools/status.php:215
+msgid "The largest filesize that can be uploaded to your WordPress installation."
+msgstr "Maximální velikost souboru, který může být nahrán do vaší instalace WordPressu."
+
+#: classes/Tutor_List_Table.php:914
+msgid "Previous page"
+msgstr "Předchozí stránka"
+
+#: classes/Withdraw.php:42
+msgid "Account Name"
+msgstr "Název účtu"
+
+#: classes/Tools_V2.php:258 views/pages/tools/status.php:219
+msgid "Default timezone is UTC"
+msgstr "Výchozí časové pásmo je UTC"
+
+#: classes/Admin.php:167 classes/Instructors_List.php:328
+#: classes/Tools_V2.php:90 templates/dashboard/purchase_history.php:93
+#: templates/dashboard/withdraw.php:197 views/options/template/status.php:2
+#: views/options/template/tutor_pages.php:23 views/pages/instructors.php:122
+#: views/pages/instructors.php:168 views/pages/instructors.php:181
+#: views/pages/tools/tutor_pages.php:11 views/pages/withdraw_requests.php:96
+#: views/pages/withdraw_requests.php:241 views/qna/contexts.php:11
+msgid "Status"
+msgstr "Status"
+
+#: classes/Tutor_List_Table.php:921 classes/Tutor_List_Table.php:925
+msgid "Current Page"
+msgstr "Aktuální stránka"
+
+#: classes/Withdraw.php:46
+msgid "Account Number"
+msgstr "Číslo účtu"
+
+#: views/pages/tools/status.php:220
+msgid "The default timezone for your server."
+msgstr "Výchozí časové pásmo pro váš server"
+
+#: classes/Options_V2.php:1103 views/quiz/attempt-table.php:113
+#: views/quiz/contexts.php:92
+msgid "Review"
+msgstr "Hodnocení"
+
+#: classes/Tutor_List_Table.php:931
+msgctxt "paging"
+msgid "%1$s of %2$s"
+msgstr "%1$s z %2$s"
+
+#: classes/Withdraw.php:50
+msgid "Bank Name"
+msgstr "Název banky"
+
+#. Translators: %s: default timezone..
+#: classes/Tools_V2.php:460 views/pages/tools/status.php:225
+msgid "Default timezone is %s - it should be UTC"
+msgstr "Výchozí časová zóna je %s - měla by to být UTC"
+
+#: classes/Options_V2.php:599 templates/single/quiz/top.php:34
+#: views/metabox/course-contents.php:106 views/metabox/course-contents.php:172
+#: views/metabox/course-topics.php:33
+#: views/quiz/header-context/backend-dashboard-students-attempts.php:19
+#: views/quiz/header-context/course-single-previous-attempts.php:14
+msgid "Quiz"
+msgstr "Test"
+
+#: classes/Tutor_List_Table.php:939
+msgid "Next page"
+msgstr "Další stránka"
+
+#: classes/Withdraw.php:54
+msgid "IBAN"
+msgstr "IBAN"
+
+#: classes/Tools_V2.php:265 views/pages/tools/status.php:233
+msgid "fsockopen/cURL"
+msgstr "fsockopen/cURL"
+
+#: templates/single/lesson/comment.php:55
+#: templates/single/lesson/comment.php:87
+msgid " ago"
+msgstr "před"
+
+#: classes/Tutor_List_Table.php:950
+msgid "Last page"
+msgstr "Poslední stránka"
+
+#: classes/Withdraw.php:58
+msgid "BIC / SWIFT"
+msgstr "BIC / SWIFT"
+
+#: views/pages/tools/status.php:234
+msgid "Payment gateways can use cURL to communicate with remote servers to authorize payments, other plugins may also use it when communicating with remote services."
+msgstr "Platební brány mohou použít cURL ke komunikaci se vzdálenými servery pro autorizaci plateb, další pluginy mohou cURL využívat ke komunikaci se vzdálenými servery."
+
+#: templates/dashboard/reviews.php:94
+msgid "Course:"
+msgstr "Kurz:"
+
+#: classes/Tutor_List_Table.php:1172
+msgid "Select All"
+msgstr "Vybrat vše"
+
+#: classes/Withdraw.php:65
+msgid "E-Check"
+msgstr "E-Check"
+
+#: classes/Tools_V2.php:465 views/pages/tools/status.php:242
+msgid "Your server does not have fsockopen or cURL enabled - PayPal IPN and other scripts which communicate with other servers will not work. Contact your hosting provider."
+msgstr "Váš server nemá povolené fsockopen nebo cURL - IPN PayPalu a další skripty, které komunikují s dalšími servery nemusí fungovat. Kontaktujte svého poskytovatele."
+
+#: classes/Course_Widget.php:23
+msgid "Tutor Course"
+msgstr "Tutor kurz"
+
+#: classes/Withdraw.php:70
+msgid "Your Physical Address"
+msgstr "Vaše fyzická adresa"
+
+#: classes/Tools_V2.php:272 views/pages/tools/status.php:249
+msgid "DOMDocument"
+msgstr "DOMDocument"
+
+#: classes/Course_Widget.php:24
+msgid "Display courses wherever widget support is available."
+msgstr "Zobrazit kurzy, kdekoliv kde je widget podporován"
+
+#: classes/Withdraw.php:71
+msgid "We will send you an E-Check to this address directly."
+msgstr "E-check Vám pošleme přímo na tuto adresu."
+
+#: views/pages/tools/status.php:250
+msgid "HTML/Multipart emails use DOMDocument to generate inline CSS in templates."
+msgstr "HTML/Multipart e-maily používají DOMDocument k vytvoření vložených stylů v šablonách."
+
+#: classes/Course_Widget.php:105
+msgid "New title"
+msgstr "Nový nadpis"
+
+#: classes/Tools_V2.php:469 views/pages/tools/status.php:259
+msgid "Your server does not have the %s class enabled - HTML/Multipart emails, and also some extensions, will not work without DOMDocument."
+msgstr "Vaše servery nemají povolenou třídu %s - HTML/Multipart e-maily a některá rozšíření nebudou fungovat bez DOMDocument"
+
+#: classes/Withdraw.php:82
+msgid "PayPal E-Mail Address"
+msgstr "Mailová adresa Paypal"
+
+#: classes/Tools_V2.php:279 views/pages/tools/status.php:266
+msgid "GZip"
+msgstr "GZip"
+
+#: views/pages/view_attempt.php:18 views/pages/view_attempt.php:22
+msgid "Attemp not found"
+msgstr "Pokus nenalezen"
+
+#: views/pages/tools/status.php:267
+msgid "GZip (gzopen) is used to open the GEOIP database from MaxMind."
+msgstr "GZip (gzopen) se používá k otevření databáze GEOIP od MaxMind."
+
+#: classes/Course_Widget.php:126
+msgid "Place single course id or comma (,) separated course ids"
+msgstr "Napište jednotlivé ID kurzu nebo více ID oddělených čárkou."
+
+#: classes/Tools_V2.php:473 views/pages/tools/status.php:276
+msgid "Your server does not support the %s function - this is required to use the GeoIP database from MaxMind."
+msgstr "Váš server nepodporuje funkci %s - ta je vyžadována pro použití databáze GeoIP od MaxMind"
+
+#: views/quiz/contexts.php:56
+msgid "Attempt By"
+msgstr "Pokus o"
+
+#: classes/Course_Widget.php:131
+msgid "Exclude IDS:"
+msgstr "Vyloučit ID"
+
+#: classes/Withdraw.php:204
+msgid "Please save withdraw method "
+msgstr "Prosím zvolte způsob výplaty"
+
+#: classes/Tools_V2.php:286 views/pages/tools/status.php:283
+msgid "Multibyte string"
+msgstr "Multibyte string"
+
+#: classes/Course_Widget.php:134
+msgid "Place comma (,) separated courses ids which you like to exclude from the query"
+msgstr "Napište čárku, mezi ID kurzů, které chcete vyloučit z požadavku"
+
+#: classes/Withdraw.php:209
+msgid "Minimum withdrawal amount is %s %s %s "
+msgstr "Minimální částka k vyplacení je %s %s %s"
+
+#: views/pages/tools/status.php:284
+msgid "Multibyte String (mbstring) is used to convert character encoding, like for emails or converting characters to lowercase."
+msgstr "Multibyte String (mbstring) se používá pro převod kódování znaků, jako pro e-mailu nebo převod znaků na malá tiskací písmena."
+
+#: classes/Lesson.php:283 classes/Options_V2.php:495
+#: classes/Options_V2.php:826 classes/Options_V2.php:1334
+#: classes/Tutor_List_Table.php:387 classes/Tutor_Setup.php:494
+#: templates/dashboard/announcements/details.php:19
+#: templates/dashboard/assignments.php:101
+#: templates/dashboard/assignments/review.php:46
+#: templates/dashboard/assignments/submitted.php:33
+#: templates/instructor/cover.php:33 templates/instructor/default.php:31
+#: templates/instructor/minimal-horizontal.php:30
+#: templates/instructor/minimal.php:29
+#: templates/instructor/portrait-horizontal.php:35
+#: templates/public-profile.php:109 views/elements/filters.php:60
+#: views/elements/search-filter.php:28
+#: views/fragments/announcement-list.php:102
+#: views/fragments/announcement-list.php:249 views/qna/qna-table.php:84
+#: views/quiz/contexts.php:9
+#: views/quiz/header-context/backend-dashboard-students-attempts.php:16
+#: views/quiz/header-context/frontend-dashboard-my-attempts.php:9
+#: views/quiz/header-context/frontend-dashboard-students-attempts.php:11
+msgid "Course"
+msgstr "Kurz"
+
+#: classes/Tools_V2.php:477 views/pages/tools/status.php:295
+msgid "Your server does not support the %s functions - this is required for better character encoding. Some fallbacks will be used instead for it."
+msgstr "Váš server nepodporuje funkce %s - toto je vyžadováno pro lepší kódování znaků. Namísto toho budou použity zálohy."
+
+#: templates/dashboard/assignments/submitted.php:79
+#: templates/single/assignment/content.php:387 views/quiz/contexts.php:15
+#: views/quiz/contexts.php:66
+msgid "Result"
+msgstr "Výsledek"
+
+#: classes/Course_Widget.php:144
+msgid "Place comma (,) separated category ids"
+msgstr "Napište čárku pro rozdělení ID kategorií"
+
+#: views/pages/uninstall.php:9
+msgid "Uninstall Tutor"
+msgstr "Odinstalovat Tutor"
+
+#. Plugin Name of the plugin
+#: classes/Admin.php:75 classes/Admin.php:76 classes/Admin.php:499
+#: classes/Gutenberg.php:70
+msgid "Tutor LMS"
+msgstr "Tutor LMS"
+
+#. Plugin URI of the plugin
+msgid "https://www.themeum.com/product/tutor-lms/"
+msgstr "https://www.themeum.com/product/tutor-lms/"
+
+#. Description of the plugin
+msgid "Tutor is a complete solution for creating a Learning Management System in WordPress way. It can help you to create small to large scale online education site very conveniently. Power features like report, certificate, course preview, private file sharing make Tutor a robust plugin for any educational institutes."
+msgstr "Tutor je komplexní řešení pro tvorbu vzdělávacích portálů pomocí WordPressu. Pomůže vám jednoduše vytvořit malé i velké vzdělávací stránky. Vlastnosti jako přehledy, náhledy kurzů nebo soukromé sdílení souborů dělají z Tutor robustní plugin pro všechny vzdělávací instituce."
+
+#. Author of the plugin
+msgid "Themeum"
+msgstr "Themeum"
+
+#. Author URI of the plugin
+msgid "https://themeum.com"
+msgstr "https://themeum.com"
+
+#: classes/Tutor.php:461 tutor.php:77
+msgid "Tutor Instructor"
+msgstr "Lektor"
+
+#: templates/dashboard/assignments/review.php:19
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr "Omlouváme se, ale hledáte něco, co na této stránce není."
+
+#: templates/dashboard/question-answer/answers.php:24
+#: templates/dashboard/question-answer/answers.php:51
+#: templates/single/course/reviews-loop.php:17 views/pages/answer.php:53
+#: views/pages/answer.php:93 views/qna/qna-single.php:106
+msgid "%s ago"
+msgstr "před %s"
+
+#: templates/profile/bio.php:20
+msgid "Bio data is empty"
+msgstr "Data v popisku jsou prázdná"
+
+#: templates/dashboard.php:125
+msgid "Become an instructor"
+msgstr "Staňte se lektorem"
+
+#: templates/course-filter/course-archive-filter-bar.php:18
+msgid "%s Courses"
+msgstr "%s Kurzy"
+
+#: templates/course-filter/course-archive-filter-bar.php:26
+msgid "Release Date (newest first)"
+msgstr "Datum zveřejnění (od nejnovějšího)"
+
+#: templates/course-filter/course-archive-filter-bar.php:28
+msgid "Release Date (oldest first)"
+msgstr "Datum zveřejnění (od nejstarších)"
+
+#: templates/course-filter/course-archive-filter-bar.php:29
+msgid "Course Title (a-z)"
+msgstr "Název kurzu (a-z)"
+
+#: templates/course-filter/course-archive-filter-bar.php:30
+msgid "Course Title (z-a)"
+msgstr "Název kurzu (z-a)"
+
+#: templates/login-form.php:24
+msgid "Username or Email Address"
+msgstr "Uživatelské jméno nebo e-mail"
+
+#: templates/dashboard/instructor/registration.php:99
+#: templates/dashboard/instructor/registration.php:102
+#: templates/dashboard/registration.php:96
+#: templates/dashboard/registration.php:99
+#: templates/dashboard/settings/nav-bar.php:15 templates/login-form.php:28
+#: templates/template-part/form-retrieve-password.php:25
+#: views/pages/add_new_instructor.php:95
+#: views/pages/add_new_instructor.php:101 views/pages/instructors.php:284
+msgid "Password"
+msgstr "Heslo"
+
+#: classes/Lesson.php:72 templates/single/assignment/content.php:181
+msgid "Attachments"
+msgstr "Přílohy"
+
+#: templates/course-filter/filters.php:5
+#: templates/dashboard/create-course.php:257
+#: templates/dashboard/my-courses.php:132 templates/loop/course-in-cart.php:20
+#: templates/single/course/course-entry-box.php:198
+#: templates/single/course/wc-price-html.php:23
+#: views/metabox/product-selection.php:17 views/pages/course-list.php:280
+msgid "Free"
+msgstr "Zdarma"
+
+#: templates/loop/course-author.php:32 templates/loop/meta.php:45
+msgid "In"
+msgstr "V"
+
+#: classes/Utils.php:9374 templates/dashboard/my-profile.php:34
+msgid "My Profile"
+msgstr "Můj profil"
+
+#: templates/dashboard/my-profile.php:23 views/pages/students.php:88
+msgid "Registration Date"
+msgstr "Datum registrace"
+
+#: templates/dashboard/instructor/registration.php:51
+#: templates/dashboard/instructor/registration.php:54
+#: templates/dashboard/my-profile.php:24
+#: templates/dashboard/registration.php:50
+#: templates/dashboard/registration.php:53
+#: templates/dashboard/settings/profile.php:118
+#: templates/dashboard/settings/profile.php:120
+#: views/pages/add_new_instructor.php:29 views/pages/add_new_instructor.php:35
+#: views/pages/instructors.php:236
+msgid "First Name"
+msgstr "Křestní jméno"
+
+#: templates/dashboard/instructor/registration.php:61
+#: templates/dashboard/instructor/registration.php:64
+#: templates/dashboard/my-profile.php:25
+#: templates/dashboard/registration.php:60
+#: templates/dashboard/registration.php:63
+#: templates/dashboard/settings/profile.php:125
+#: templates/dashboard/settings/profile.php:127
+#: views/pages/add_new_instructor.php:43 views/pages/add_new_instructor.php:49
+#: views/pages/instructors.php:244
+msgid "Last Name"
+msgstr "Příjmení"
+
+#: templates/dashboard/my-profile.php:26 views/pages/instructors.php:254
+msgid "Username"
+msgstr "Uživatelské jméno"
+
+#: templates/dashboard/my-profile.php:27 views/pages/instructors.php:111
+#: views/pages/instructors.php:149 views/pages/students.php:84
+msgid "Email"
+msgstr "E-mail"
+
+#: templates/dashboard/my-profile.php:28
+#: templates/dashboard/settings/profile.php:141
+#: templates/dashboard/settings/profile.php:143
+#: views/pages/add_new_instructor.php:82 views/pages/add_new_instructor.php:88
+#: views/pages/instructors.php:262
+msgid "Phone Number"
+msgstr "Telefonní číslo"
+
+#: templates/dashboard/settings/profile.php:159
+#: views/pages/add_new_instructor.php:121 views/pages/instructors.php:307
+msgid "Bio"
+msgstr "Popis"
+
+#: classes/Admin.php:113 classes/Admin.php:453 classes/Utils.php:2753
+#: templates/dashboard/notifications/profile-completion.php:12
+#: templates/dashboard/settings.php:8
+#: templates/dashboard/settings/social-profile.php:12
+#: views/metabox/course-topics.php:52 views/options/settings.php:15
+msgid "Settings"
+msgstr "Nastavení"
+
+#: templates/dashboard/settings/nav-bar.php:10
+msgid "Profile"
+msgstr "Profil"
+
+#: templates/dashboard/settings/reset-password.php:82
+msgid "Reset Password"
+msgstr "Vytvořit nové heslo"
+
+#: classes/Options_V2.php:781 templates/dashboard/settings/nav-bar.php:20
+msgid "Withdraw"
+msgstr "Vyplatit"
+
+#: classes/Utils.php:9390 templates/dashboard/my-quiz-attempts.php:34
+msgid "My Quiz Attempts"
+msgstr "Moje pokusy o složení testu"
+
+#: templates/dashboard/create-course.php:171
+msgid "Course Title"
+msgstr "Název kurzu"
+
+#: templates/single/quiz/top.php:51 views/quiz/contexts.php:88
+#: views/quiz/header-context/course-single-previous-attempts.php:22
+msgid "Questions"
+msgstr "Otázky"
+
+#: templates/dashboard/assignments.php:80
+#: templates/single/assignment/content.php:378 views/quiz/contexts.php:11
+#: views/quiz/contexts.php:61
+#: views/quiz/header-context/course-single-previous-attempts.php:34
+msgid "Total Marks"
+msgstr "Celkem bodů"
+
+#: templates/single/assignment/content.php:384 views/quiz/contexts.php:14
+#: views/quiz/contexts.php:65
+msgid "Earned Marks"
+msgstr "Získaný počet bodů"
+
+#: classes/Quiz_Attempts_List.php:93 classes/Utils.php:8825
+#: views/quiz/attempt-details.php:245 views/quiz/attempt-table.php:103
+msgid "Pass"
+msgstr "Úspěšný pokus"
+
+#: classes/Quiz_Attempts_List.php:99 classes/Utils.php:8833
+#: views/quiz/attempt-details.php:247 views/quiz/attempt-table.php:104
+msgid "Fail"
+msgstr "Neúspěšný pokus"
+
+#: templates/single/assignment/content.php:381 views/quiz/contexts.php:62
+msgid "Pass Marks"
+msgstr "Minimální počet bodů"
+
+#: templates/dashboard/reviews.php:41
+#: templates/dashboard/reviews/given-reviews.php:37
+msgid "Given"
+msgstr "Dáno"
+
+#: templates/dashboard/reviews.php:35
+#: templates/dashboard/reviews/given-reviews.php:34
+msgid "Received"
+msgstr "Obdrženo"
+
+#: templates/dashboard/reviews/given-reviews.php:61
+msgid "Course: "
+msgstr "Kurz:"
+
+#: classes/Utils.php:9337 templates/dashboard.php:51
+#: templates/dashboard/dashboard.php:324 templates/dashboard/my-courses.php:39
+msgid "My Courses"
+msgstr "Moje kurzy"
+
+#: templates/single/assignment/content.php:108
+msgid "Duration:"
+msgstr "Délka trvání:"
+
+#: views/quiz/attempt-table.php:80
+msgid "Student:"
+msgstr "Student:"
+
+#: templates/dashboard/my-courses.php:164
+msgid "Delete This Course?"
+msgstr "Smazat tento kurz?"
+
+#: classes/Backend_Page_Trait.php:140
+#: templates/dashboard/announcements/create.php:53
+#: templates/dashboard/announcements/details.php:29
+#: templates/dashboard/announcements/update.php:52
+#: templates/dashboard/my-courses.php:169
+#: templates/dashboard/reviews/given-reviews.php:121
+#: templates/dashboard/withdraw.php:155 templates/modal/confirm.php:53
+#: views/elements/bulk-confirm-popup.php:20
+#: views/elements/common-confirm-popup.php:32
+#: views/fragments/announcement-list.php:65
+#: views/fragments/announcement-list.php:122
+#: views/fragments/announcement-list.php:165
+#: views/metabox/course-topics.php:65 views/metabox/course-topics.php:102
+#: views/metabox/course-topics.php:130 views/modal/review.php:33
+#: views/modal/topic-form.php:39
+#: views/options/template/common/modal-confirm.php:47
+#: views/pages/instructors.php:322 views/pages/withdraw_requests.php:359
+#: views/pages/withdraw_requests.php:417 views/qna/qna-new.php:11
+#: views/qna/qna-table.php:158
+msgid "Cancel"
+msgstr "Zavřít"
+
+#: templates/dashboard/settings/withdraw-settings.php:18
+msgid "Select a withdraw method"
+msgstr "Zvolit způsob výplaty"
+
+#: templates/dashboard/settings/withdraw-settings.php:43
+msgid "Min withdraw"
+msgstr "Minimální výplata"
+
+#: templates/dashboard/settings/withdraw-settings.php:123
+msgid "Save Withdrawal Account"
+msgstr "Uložit účet pro výplatu"
+
+#: views/metabox/user-profile-fields.php:37
+msgid "Profile Photo"
+msgstr "Profilová fotka"
+
+#: views/fragments/thumbnail-uploader.php:42
+#: views/modal/question_answer_form.php:56
+#: views/modal/question_answer_form.php:167
+#: views/modal/question_answer_form.php:209
+#: views/modal/question_answer_form.php:234
+#: views/options/field-types/upload_half.php:32
+msgid "Upload Image"
+msgstr "Nahrát obrázek"
+
+#: templates/dashboard/settings/profile.php:190
+#: templates/dashboard/settings/social-profile.php:43
+msgid "Update Profile"
+msgstr "Aktualizovat profil"
+
+#: templates/dashboard/settings/reset-password.php:31
+msgid "New Password"
+msgstr "Nové heslo"
+
+#: classes/Utils.php:9378 templates/dashboard/dashboard.php:152
+#: templates/dashboard/enrolled-courses.php:17
+msgid "Enrolled Courses"
+msgstr "Zapsané kurzy"
+
+#: views/elements/filters.php:65
+msgid "All Courses"
+msgstr "Všechny kurzy"
+
+#: templates/dashboard/dashboard.php:165
+#: templates/dashboard/enrolled-courses.php:18
+msgid "Active Courses"
+msgstr "Aktivní kurzy"
+
+#: templates/dashboard/dashboard.php:178
+#: templates/dashboard/enrolled-courses.php:19
+msgid "Completed Courses"
+msgstr "Dokončené kurzy"
