@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Plugins - Tutor LMS &#8211; eLearning and online course solution - Stable (latest release) package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-06-05 08:52+0100\n"
+"PO-Revision-Date: 2022-06-06 17:49+0100\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -1425,7 +1425,7 @@ msgstr "Nenalezena žádná příloha"
 #: templates/single/course/enrolled/announcements.php:30
 #: templates/single/course/lead-info.php:57
 msgid "By"
-msgstr "Zodpovědný"
+msgstr "Od"
 
 #: templates/loop/course-continue.php:38
 #: templates/single/course/course-entry-box.php:112
